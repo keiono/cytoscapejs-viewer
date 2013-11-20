@@ -12,10 +12,30 @@ html, body {
   font-size: 12px;
 }
 
+.ui {
+  margin-top: 0;
+  margin-left: 0;
+  width: 350px;
+  height: 100%;
+  padding-top: 0.2em;
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+  padding-bottom: 0.5em;
+  background-color: rgb(220, 220, 220);
+  z-index: 200;
+  position: fixed;
+  top: 0;
+
+}
+
+.commands {
+  padding: 0.5em;
+}
 
 .network {
-  width: 100%;
+  z-index: 0;
   height: 100%;
+  margin-left: 350px;
   top: 0;
   left: 0;
   background-color: white;
