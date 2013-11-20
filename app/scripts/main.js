@@ -10,8 +10,8 @@
 $(function () {
     'use strict';
 
-    var NETWORK_FILE = 'data/network1.json';
-    var VISUAL_STYLE_FILE = 'data/vs.json';
+    var NETWORK_FILE = 'data/network1.cyjs';
+    var VISUAL_STYLE_FILE = 'data/vs2.json';
 
     console.log('Network rendering start...');
 
@@ -30,7 +30,7 @@ $(function () {
             var cy = this;
             cy.load(networkData.elements);
             // Apply Visual Style CSS
-            var targetStyleName = 'gal1';
+            var targetStyleName = 'PSIMI 25 Style';
             var title = '';
             var visualStyle;
             for(var i=0; i<vs.length; i++) {
@@ -55,4 +55,4 @@ $(function () {
             $('.network').cytoscape(options);
         });
     });
-})();
+});
