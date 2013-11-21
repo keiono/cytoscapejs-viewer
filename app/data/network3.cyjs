@@ -1,0 +1,658 @@
+{
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "74100",
+        "PSIMI-25.aliases" : [ "834109", "19360", "DRB5", "At5g41070", "MEE6.14", "DSRNA-BINDING PROTEIN 5", "MEE6_14" ],
+        "selected" : false,
+        "psi-mi" : "\"MI:0463\"(biogrid)",
+        "PSIMI-25.taxon_DB" : [ "taxid" ],
+        "SUID" : 74100,
+        "name" : "834109",
+        "PSIMI-25.taxon_ID" : [ "3702" ],
+        "shared_name" : "834109"
+      },
+      "position" : {
+        "x" : 439.20711059570294,
+        "y" : 3.4607002258301236
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "70947",
+        "PSIMI-25.aliases" : [ "825455", "10769", "DRB4", "At3g62800", "DOUBLE-STRANDED-RNA-BINDING PROTEIN 4" ],
+        "selected" : false,
+        "psi-mi" : "\"MI:0463\"(biogrid)",
+        "PSIMI-25.taxon_DB" : [ "taxid" ],
+        "SUID" : 70947,
+        "name" : "825455",
+        "PSIMI-25.taxon_ID" : [ "3702" ],
+        "shared_name" : "825455"
+      },
+      "position" : {
+        "x" : 330.44688720703107,
+        "y" : -6.760857391357376
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "88089",
+        "PSIMI-25.aliases" : [ "820784", "6118", "At3g15450" ],
+        "selected" : false,
+        "psi-mi" : "\"MI:0463\"(biogrid)",
+        "PSIMI-25.taxon_DB" : [ "taxid" ],
+        "SUID" : 88089,
+        "name" : "820784",
+        "PSIMI-25.taxon_ID" : [ "3702" ],
+        "shared_name" : "820784"
+      },
+      "position" : {
+        "x" : 203.6159851074217,
+        "y" : -10.613243865966751
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "70948",
+        "PSIMI-25.aliases" : [ "832154", "17430", "DCL4", "At5g20320", "F5O24_210", "DICER-LIKE 4", "ATDCL4", "F5O24.210" ],
+        "selected" : false,
+        "psi-mi" : "\"MI:0463\"(biogrid)",
+        "PSIMI-25.taxon_DB" : [ "taxid" ],
+        "SUID" : 70948,
+        "name" : "832154",
+        "PSIMI-25.taxon_ID" : [ "3702" ],
+        "shared_name" : "832154"
+      },
+      "position" : {
+        "x" : 415.5178710937498,
+        "y" : 55.4258796691895
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "80033",
+        "PSIMI-25.aliases" : [ "827124", "12421", "ARD1", "At4g14716", "ATARD1", "ACIREDUCTONE DIOXYGENASE 1" ],
+        "selected" : false,
+        "psi-mi" : "\"MI:0463\"(biogrid)",
+        "PSIMI-25.taxon_DB" : [ "taxid" ],
+        "SUID" : 80033,
+        "name" : "827124",
+        "PSIMI-25.taxon_ID" : [ "3702" ],
+        "shared_name" : "827124"
+      },
+      "position" : {
+        "x" : 48.31990356445294,
+        "y" : -125.44554977416988
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "73752",
+        "PSIMI-25.aliases" : [ "816345", "1702", "APC10", "At2g18290", "T30D6_20", "anaphase promoting complex 10", "T30D6.20" ],
+        "selected" : false,
+        "psi-mi" : "\"MI:0463\"(biogrid)",
+        "PSIMI-25.taxon_DB" : [ "taxid" ],
+        "SUID" : 73752,
+        "name" : "816345",
+        "PSIMI-25.taxon_ID" : [ "3702" ],
+        "shared_name" : "816345"
+      },
+      "position" : {
+        "x" : 346.9264404296873,
+        "y" : -111.51128463745113
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "87251",
+        "PSIMI-25.aliases" : [ "828854", "14141", "At4g27450", "F27G19.50", "F27G19_50" ],
+        "selected" : false,
+        "psi-mi" : "\"MI:0463\"(biogrid)",
+        "PSIMI-25.taxon_DB" : [ "taxid" ],
+        "SUID" : 87251,
+        "name" : "828854",
+        "PSIMI-25.taxon_ID" : [ "3702" ],
+        "shared_name" : "828854"
+      },
+      "position" : {
+        "x" : 42.36152954101544,
+        "y" : 94.2887718200684
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "87252",
+        "PSIMI-25.aliases" : [ "834405", "19655", "At5g43830", "MQD19.19", "MQD19_19" ],
+        "selected" : false,
+        "PSIMI-25.taxon_DB" : [ "taxid" ],
+        "SUID" : 87252,
+        "name" : "834405",
+        "PSIMI-25.taxon_ID" : [ "3702" ],
+        "shared_name" : "834405"
+      },
+      "position" : {
+        "x" : 78.6262390136717,
+        "y" : -14.742150115966751
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "89369",
+        "PSIMI-25.aliases" : [ "827122", "12419", "ATARD2", "At4g14710", "DL3395C", "FCAALL.141" ],
+        "selected" : false,
+        "psi-mi" : "\"MI:0463\"(biogrid)",
+        "PSIMI-25.taxon_DB" : [ "taxid" ],
+        "SUID" : 89369,
+        "name" : "827122",
+        "PSIMI-25.taxon_ID" : [ "3702" ],
+        "shared_name" : "827122"
+      },
+      "position" : {
+        "x" : -37.60844116210956,
+        "y" : -17.18648605346675
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "71279",
+        "PSIMI-25.aliases" : [ "837498", "22739", "HYL1", "At1g09700", "F21M12_9", "DSRNA-BINDING PROTEIN 1", "F21M12.9", "HYPONASTIC LEAVES 1", "DRB1" ],
+        "selected" : false,
+        "psi-mi" : "\"MI:0463\"(biogrid)",
+        "PSIMI-25.taxon_DB" : [ "taxid" ],
+        "SUID" : 71279,
+        "name" : "837498",
+        "PSIMI-25.taxon_ID" : [ "3702" ],
+        "shared_name" : "837498"
+      },
+      "position" : {
+        "x" : 372.5864746093748,
+        "y" : 93.08422012329106
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "74110",
+        "source" : "74100",
+        "target" : "71279",
+        "PSIMI-25.publication_ID" : [ "15821876" ],
+        "selected" : false,
+        "PSIMI-25.source_DB" : [ "psi-mi" ],
+        "PSIMI-25.interaction_type" : [ "direct interaction" ],
+        "SUID" : 74110,
+        "name" : "834109 (336630) 837498",
+        "PSIMI-25.detection_method_ID" : [ "MI:0047" ],
+        "PSIMI-25.authors" : [ "\"Hiraguri A (2005)\"" ],
+        "interaction" : "336630",
+        "PSIMI-25.detection_method" : [ "far western blotting" ],
+        "shared_interaction" : "336630",
+        "shared_name" : "834109 (336630) 837498",
+        "PSIMI-25.interaction_type_ID" : [ "MI:0407" ],
+        "PSIMI-25.publication_DB" : [ "pubmed" ]
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "74109",
+        "source" : "74100",
+        "target" : "70947",
+        "PSIMI-25.publication_ID" : [ "15821876" ],
+        "selected" : false,
+        "PSIMI-25.source_DB" : [ "psi-mi" ],
+        "PSIMI-25.interaction_type" : [ "direct interaction" ],
+        "SUID" : 74109,
+        "name" : "834109 (336629) 825455",
+        "PSIMI-25.detection_method_ID" : [ "MI:0047" ],
+        "PSIMI-25.authors" : [ "\"Hiraguri A (2005)\"" ],
+        "interaction" : "336629",
+        "PSIMI-25.detection_method" : [ "far western blotting" ],
+        "shared_interaction" : "336629",
+        "shared_name" : "834109 (336629) 825455",
+        "PSIMI-25.interaction_type_ID" : [ "MI:0407" ],
+        "PSIMI-25.publication_DB" : [ "pubmed" ]
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "74107",
+        "source" : "74100",
+        "target" : "74100",
+        "PSIMI-25.publication_ID" : [ "15821876" ],
+        "selected" : false,
+        "PSIMI-25.source_DB" : [ "psi-mi" ],
+        "PSIMI-25.interaction_type" : [ "direct interaction" ],
+        "SUID" : 74107,
+        "name" : "834109 (336627) 834109",
+        "PSIMI-25.detection_method_ID" : [ "MI:0047" ],
+        "PSIMI-25.authors" : [ "\"Hiraguri A (2005)\"" ],
+        "interaction" : "336627",
+        "PSIMI-25.detection_method" : [ "far western blotting" ],
+        "shared_interaction" : "336627",
+        "shared_name" : "834109 (336627) 834109",
+        "PSIMI-25.interaction_type_ID" : [ "MI:0407" ],
+        "PSIMI-25.publication_DB" : [ "pubmed" ]
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "91529",
+        "source" : "70947",
+        "target" : "73752",
+        "PSIMI-25.publication_ID" : [ "22545099" ],
+        "selected" : false,
+        "PSIMI-25.source_DB" : [ "psi-mi" ],
+        "PSIMI-25.interaction_type" : [ "direct interaction" ],
+        "SUID" : 91529,
+        "name" : "825455 (656267) 816345",
+        "PSIMI-25.detection_method_ID" : [ "MI:0018" ],
+        "PSIMI-25.authors" : [ "\"Marrocco K (2012)\"" ],
+        "interaction" : "656267",
+        "PSIMI-25.detection_method" : [ "two hybrid" ],
+        "shared_interaction" : "656267",
+        "shared_name" : "825455 (656267) 816345",
+        "PSIMI-25.interaction_type_ID" : [ "MI:0407" ],
+        "PSIMI-25.publication_DB" : [ "pubmed" ]
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "70949",
+        "source" : "70947",
+        "target" : "70948",
+        "PSIMI-25.publication_ID" : [ "17221360" ],
+        "selected" : false,
+        "PSIMI-25.source_DB" : [ "psi-mi" ],
+        "PSIMI-25.interaction_type" : [ "physical association" ],
+        "SUID" : 70949,
+        "name" : "825455 (268832) 832154",
+        "PSIMI-25.detection_method_ID" : [ "MI:0004" ],
+        "PSIMI-25.authors" : [ "\"Nakazawa Y (2007)\"" ],
+        "interaction" : "268832",
+        "PSIMI-25.detection_method" : [ "affinity chromatography technology" ],
+        "shared_interaction" : "268832",
+        "shared_name" : "825455 (268832) 832154",
+        "PSIMI-25.interaction_type_ID" : [ "MI:0915" ],
+        "PSIMI-25.publication_DB" : [ "pubmed" ]
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "91530",
+        "source" : "70947",
+        "target" : "73752",
+        "PSIMI-25.publication_ID" : [ "22545099" ],
+        "selected" : false,
+        "PSIMI-25.source_DB" : [ "psi-mi" ],
+        "PSIMI-25.interaction_type" : [ "direct interaction" ],
+        "SUID" : 91530,
+        "name" : "825455 (656268) 816345",
+        "PSIMI-25.detection_method_ID" : [ "MI:0090" ],
+        "PSIMI-25.authors" : [ "\"Marrocco K (2012)\"" ],
+        "interaction" : "656268",
+        "PSIMI-25.detection_method" : [ "protein complementation assay" ],
+        "shared_interaction" : "656268",
+        "shared_name" : "825455 (656268) 816345",
+        "PSIMI-25.interaction_type_ID" : [ "MI:0407" ],
+        "PSIMI-25.publication_DB" : [ "pubmed" ]
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "88009",
+        "source" : "70947",
+        "target" : "70947",
+        "PSIMI-25.publication_ID" : [ "21798944" ],
+        "selected" : false,
+        "PSIMI-25.source_DB" : [ "psi-mi" ],
+        "PSIMI-25.interaction_type" : [ "direct interaction" ],
+        "SUID" : 88009,
+        "name" : "825455 (599091) 825455",
+        "PSIMI-25.detection_method_ID" : [ "MI:0018" ],
+        "PSIMI-25.authors" : [ "\"Braun P (2011)\"" ],
+        "interaction" : "599091",
+        "PSIMI-25.detection_method" : [ "two hybrid" ],
+        "shared_interaction" : "599091",
+        "shared_name" : "825455 (599091) 825455",
+        "PSIMI-25.interaction_type_ID" : [ "MI:0407" ],
+        "PSIMI-25.publication_DB" : [ "pubmed" ]
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "79237",
+        "source" : "70947",
+        "target" : "70948",
+        "PSIMI-25.publication_ID" : [ "21270136" ],
+        "selected" : false,
+        "PSIMI-25.source_DB" : [ "psi-mi" ],
+        "PSIMI-25.interaction_type" : [ "direct interaction" ],
+        "SUID" : 79237,
+        "name" : "825455 (503314) 832154",
+        "PSIMI-25.detection_method_ID" : [ "MI:0096" ],
+        "PSIMI-25.authors" : [ "\"Fukudome A (2011)\"" ],
+        "interaction" : "503314",
+        "PSIMI-25.detection_method" : [ "pull down" ],
+        "shared_interaction" : "503314",
+        "shared_name" : "825455 (503314) 832154",
+        "PSIMI-25.interaction_type_ID" : [ "MI:0407" ],
+        "PSIMI-25.publication_DB" : [ "pubmed" ]
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "74121",
+        "source" : "70947",
+        "target" : "70948",
+        "PSIMI-25.publication_ID" : [ "15821876" ],
+        "selected" : false,
+        "PSIMI-25.source_DB" : [ "psi-mi" ],
+        "PSIMI-25.interaction_type" : [ "direct interaction" ],
+        "SUID" : 74121,
+        "name" : "825455 (336639) 832154",
+        "PSIMI-25.detection_method_ID" : [ "MI:0047" ],
+        "PSIMI-25.authors" : [ "\"Hiraguri A (2005)\"" ],
+        "interaction" : "336639",
+        "PSIMI-25.detection_method" : [ "far western blotting" ],
+        "shared_interaction" : "336639",
+        "shared_name" : "825455 (336639) 832154",
+        "PSIMI-25.interaction_type_ID" : [ "MI:0407" ],
+        "PSIMI-25.publication_DB" : [ "pubmed" ]
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "75962",
+        "source" : "70947",
+        "target" : "70948",
+        "PSIMI-25.publication_ID" : [ "20106953" ],
+        "selected" : false,
+        "PSIMI-25.source_DB" : [ "psi-mi" ],
+        "PSIMI-25.interaction_type" : [ "direct interaction" ],
+        "SUID" : 75962,
+        "name" : "825455 (425769) 832154",
+        "PSIMI-25.detection_method_ID" : [ "MI:0096" ],
+        "PSIMI-25.authors" : [ "\"Qin H (2010)\"" ],
+        "interaction" : "425769",
+        "PSIMI-25.detection_method" : [ "pull down" ],
+        "shared_interaction" : "425769",
+        "shared_name" : "825455 (425769) 832154",
+        "PSIMI-25.interaction_type_ID" : [ "MI:0407" ],
+        "PSIMI-25.publication_DB" : [ "pubmed" ]
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "88090",
+        "source" : "88089",
+        "target" : "87252",
+        "PSIMI-25.publication_ID" : [ "21798944" ],
+        "selected" : false,
+        "PSIMI-25.source_DB" : [ "psi-mi" ],
+        "PSIMI-25.interaction_type" : [ "direct interaction" ],
+        "SUID" : 88090,
+        "name" : "820784 (599162) 834405",
+        "PSIMI-25.detection_method_ID" : [ "MI:0018" ],
+        "PSIMI-25.authors" : [ "\"Braun P (2011)\"" ],
+        "interaction" : "599162",
+        "PSIMI-25.detection_method" : [ "two hybrid" ],
+        "shared_interaction" : "599162",
+        "shared_name" : "820784 (599162) 834405",
+        "PSIMI-25.interaction_type_ID" : [ "MI:0407" ],
+        "PSIMI-25.publication_DB" : [ "pubmed" ]
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "88091",
+        "source" : "88089",
+        "target" : "70947",
+        "PSIMI-25.publication_ID" : [ "21798944" ],
+        "selected" : false,
+        "PSIMI-25.source_DB" : [ "psi-mi" ],
+        "PSIMI-25.interaction_type" : [ "direct interaction" ],
+        "SUID" : 88091,
+        "name" : "820784 (599163) 825455",
+        "PSIMI-25.detection_method_ID" : [ "MI:0018" ],
+        "PSIMI-25.authors" : [ "\"Braun P (2011)\"" ],
+        "interaction" : "599163",
+        "PSIMI-25.detection_method" : [ "two hybrid" ],
+        "shared_interaction" : "599163",
+        "shared_name" : "820784 (599163) 825455",
+        "PSIMI-25.interaction_type_ID" : [ "MI:0407" ],
+        "PSIMI-25.publication_DB" : [ "pubmed" ]
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "70950",
+        "source" : "70948",
+        "target" : "70947",
+        "PSIMI-25.publication_ID" : [ "17221360" ],
+        "selected" : false,
+        "PSIMI-25.source_DB" : [ "psi-mi" ],
+        "PSIMI-25.interaction_type" : [ "physical association" ],
+        "SUID" : 70950,
+        "name" : "832154 (268833) 825455",
+        "PSIMI-25.detection_method_ID" : [ "MI:0004" ],
+        "PSIMI-25.authors" : [ "\"Nakazawa Y (2007)\"" ],
+        "interaction" : "268833",
+        "PSIMI-25.detection_method" : [ "affinity chromatography technology" ],
+        "shared_interaction" : "268833",
+        "shared_name" : "832154 (268833) 825455",
+        "PSIMI-25.interaction_type_ID" : [ "MI:0915" ],
+        "PSIMI-25.publication_DB" : [ "pubmed" ]
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "89937",
+        "source" : "80033",
+        "target" : "87252",
+        "PSIMI-25.publication_ID" : [ "21952135" ],
+        "selected" : false,
+        "PSIMI-25.source_DB" : [ "psi-mi" ],
+        "PSIMI-25.interaction_type" : [ "direct interaction" ],
+        "SUID" : 89937,
+        "name" : "827124 (600622) 834405",
+        "PSIMI-25.detection_method_ID" : [ "MI:0018" ],
+        "PSIMI-25.authors" : [ "\"Klopffleisch K (2011)\"" ],
+        "interaction" : "600622",
+        "PSIMI-25.detection_method" : [ "two hybrid" ],
+        "shared_interaction" : "600622",
+        "shared_name" : "827124 (600622) 834405",
+        "PSIMI-25.interaction_type_ID" : [ "MI:0407" ],
+        "PSIMI-25.publication_DB" : [ "pubmed" ]
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "80037",
+        "source" : "80033",
+        "target" : "80033",
+        "PSIMI-25.publication_ID" : [ "21712381" ],
+        "selected" : false,
+        "PSIMI-25.source_DB" : [ "psi-mi" ],
+        "PSIMI-25.interaction_type" : [ "direct interaction" ],
+        "SUID" : 80037,
+        "name" : "827124 (544157) 827124",
+        "PSIMI-25.detection_method_ID" : [ "MI:0090" ],
+        "PSIMI-25.authors" : [ "\"Friedman EJ (2011)\"" ],
+        "interaction" : "544157",
+        "PSIMI-25.detection_method" : [ "protein complementation assay" ],
+        "shared_interaction" : "544157",
+        "shared_name" : "827124 (544157) 827124",
+        "PSIMI-25.interaction_type_ID" : [ "MI:0407" ],
+        "PSIMI-25.publication_DB" : [ "pubmed" ]
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "91528",
+        "source" : "73752",
+        "target" : "70947",
+        "PSIMI-25.publication_ID" : [ "22545099" ],
+        "selected" : false,
+        "PSIMI-25.source_DB" : [ "psi-mi" ],
+        "PSIMI-25.interaction_type" : [ "direct interaction" ],
+        "SUID" : 91528,
+        "name" : "816345 (656266) 825455",
+        "PSIMI-25.detection_method_ID" : [ "MI:0096" ],
+        "PSIMI-25.authors" : [ "\"Marrocco K (2012)\"" ],
+        "interaction" : "656266",
+        "PSIMI-25.detection_method" : [ "pull down" ],
+        "shared_interaction" : "656266",
+        "shared_name" : "816345 (656266) 825455",
+        "PSIMI-25.interaction_type_ID" : [ "MI:0407" ],
+        "PSIMI-25.publication_DB" : [ "pubmed" ]
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "87253",
+        "source" : "87251",
+        "target" : "87252",
+        "PSIMI-25.publication_ID" : [ "21798944" ],
+        "selected" : false,
+        "PSIMI-25.source_DB" : [ "psi-mi" ],
+        "PSIMI-25.interaction_type" : [ "direct interaction" ],
+        "SUID" : 87253,
+        "name" : "828854 (598460) 834405",
+        "PSIMI-25.detection_method_ID" : [ "MI:0018" ],
+        "PSIMI-25.authors" : [ "\"Braun P (2011)\"" ],
+        "interaction" : "598460",
+        "PSIMI-25.detection_method" : [ "two hybrid" ],
+        "shared_interaction" : "598460",
+        "shared_name" : "828854 (598460) 834405",
+        "PSIMI-25.interaction_type_ID" : [ "MI:0407" ],
+        "PSIMI-25.publication_DB" : [ "pubmed" ]
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "89370",
+        "source" : "89369",
+        "target" : "87252",
+        "PSIMI-25.publication_ID" : [ "21798944" ],
+        "selected" : false,
+        "PSIMI-25.source_DB" : [ "psi-mi" ],
+        "PSIMI-25.interaction_type" : [ "direct interaction" ],
+        "SUID" : 89370,
+        "name" : "827122 (600225) 834405",
+        "PSIMI-25.detection_method_ID" : [ "MI:0018" ],
+        "PSIMI-25.authors" : [ "\"Braun P (2011)\"" ],
+        "interaction" : "600225",
+        "PSIMI-25.detection_method" : [ "two hybrid" ],
+        "shared_interaction" : "600225",
+        "shared_name" : "827122 (600225) 834405",
+        "PSIMI-25.interaction_type_ID" : [ "MI:0407" ],
+        "PSIMI-25.publication_DB" : [ "pubmed" ]
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "71285",
+        "source" : "71279",
+        "target" : "71279",
+        "PSIMI-25.publication_ID" : [ "17442570" ],
+        "selected" : false,
+        "PSIMI-25.source_DB" : [ "psi-mi" ],
+        "PSIMI-25.interaction_type" : [ "direct interaction" ],
+        "SUID" : 71285,
+        "name" : "837498 (281043) 837498",
+        "PSIMI-25.detection_method_ID" : [ "MI:0090" ],
+        "PSIMI-25.authors" : [ "\"Fang Y (2007)\"" ],
+        "interaction" : "281043",
+        "PSIMI-25.detection_method" : [ "protein complementation assay" ],
+        "shared_interaction" : "281043",
+        "shared_name" : "837498 (281043) 837498",
+        "PSIMI-25.interaction_type_ID" : [ "MI:0407" ],
+        "PSIMI-25.publication_DB" : [ "pubmed" ]
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "86511",
+        "source" : "71279",
+        "target" : "74100",
+        "PSIMI-25.publication_ID" : [ "21798944" ],
+        "selected" : false,
+        "PSIMI-25.source_DB" : [ "psi-mi" ],
+        "PSIMI-25.interaction_type" : [ "direct interaction" ],
+        "SUID" : 86511,
+        "name" : "837498 (597852) 834109",
+        "PSIMI-25.detection_method_ID" : [ "MI:0018" ],
+        "PSIMI-25.authors" : [ "\"Braun P (2011)\"" ],
+        "interaction" : "597852",
+        "PSIMI-25.detection_method" : [ "two hybrid" ],
+        "shared_interaction" : "597852",
+        "shared_name" : "837498 (597852) 834109",
+        "PSIMI-25.interaction_type_ID" : [ "MI:0407" ],
+        "PSIMI-25.publication_DB" : [ "pubmed" ]
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "74101",
+        "source" : "71279",
+        "target" : "74100",
+        "PSIMI-25.publication_ID" : [ "15821876" ],
+        "selected" : false,
+        "PSIMI-25.source_DB" : [ "psi-mi" ],
+        "PSIMI-25.interaction_type" : [ "direct interaction" ],
+        "SUID" : 74101,
+        "name" : "837498 (336622) 834109",
+        "PSIMI-25.detection_method_ID" : [ "MI:0047" ],
+        "PSIMI-25.authors" : [ "\"Hiraguri A (2005)\"" ],
+        "interaction" : "336622",
+        "PSIMI-25.detection_method" : [ "far western blotting" ],
+        "shared_interaction" : "336622",
+        "shared_name" : "837498 (336622) 834109",
+        "PSIMI-25.interaction_type_ID" : [ "MI:0407" ],
+        "PSIMI-25.publication_DB" : [ "pubmed" ]
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "74105",
+        "source" : "71279",
+        "target" : "71279",
+        "PSIMI-25.publication_ID" : [ "15821876" ],
+        "selected" : false,
+        "PSIMI-25.source_DB" : [ "psi-mi" ],
+        "PSIMI-25.interaction_type" : [ "direct interaction" ],
+        "SUID" : 74105,
+        "name" : "837498 (336625) 837498",
+        "PSIMI-25.detection_method_ID" : [ "MI:0047" ],
+        "PSIMI-25.authors" : [ "\"Hiraguri A (2005)\"" ],
+        "interaction" : "336625",
+        "PSIMI-25.detection_method" : [ "far western blotting" ],
+        "shared_interaction" : "336625",
+        "shared_name" : "837498 (336625) 837498",
+        "PSIMI-25.interaction_type_ID" : [ "MI:0407" ],
+        "PSIMI-25.publication_DB" : [ "pubmed" ]
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "74104",
+        "source" : "71279",
+        "target" : "70947",
+        "PSIMI-25.publication_ID" : [ "15821876" ],
+        "selected" : false,
+        "PSIMI-25.source_DB" : [ "psi-mi" ],
+        "PSIMI-25.interaction_type" : [ "direct interaction" ],
+        "SUID" : 74104,
+        "name" : "837498 (336624) 825455",
+        "PSIMI-25.detection_method_ID" : [ "MI:0047" ],
+        "PSIMI-25.authors" : [ "\"Hiraguri A (2005)\"" ],
+        "interaction" : "336624",
+        "PSIMI-25.detection_method" : [ "far western blotting" ],
+        "shared_interaction" : "336624",
+        "shared_name" : "837498 (336624) 825455",
+        "PSIMI-25.interaction_type_ID" : [ "MI:0407" ],
+        "PSIMI-25.publication_DB" : [ "pubmed" ]
+      },
+      "selected" : false
+    } ]
+  }
+}

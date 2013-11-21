@@ -10,10 +10,14 @@
 $(function () {
     'use strict';
 
-    var NETWORK_FILE = 'data/network1.cyjs';
-    var VISUAL_STYLE_FILE = 'data/vs2.json';
+    var NETWORK_FILE = 'data/gal1.cyjs';
+    var VISUAL_STYLE_FILE = 'data/galvs.json';
+
+    var DEFAULT_VISUAL_STYLE = 'default';
 
     console.log('Network rendering start...');
+
+    var visualStyles = {};
 
     // Basic settings for the Cytoscape window
     var options = {
@@ -29,19 +33,42 @@ $(function () {
         ready: function () {
             var cy = this;
             cy.load(networkData.elements);
-            // Apply Visual Style CSS
-            var targetStyleName = 'PSIMI 25 Style';
-            var title = '';
-            var visualStyle;
-            for(var i=0; i<vs.length; i++) {
-                visualStyle = vs[i];
-                title = visualStyle.title;
-                if(title === targetStyleName) {
-                    break;
-                }
-            }
-            cy.style().fromJson(visualStyle.style).update();
+            setVisualStyleCombobox(cy);
+            setNetworkComboBox(cy);
         }
+    };
+
+
+    function setNetworkComboBox(cy) {
+        var network;
+        var networkSelector = $('#networks');
+        for(var i=0; i<5; i++) {
+            networkSelector.append('<option>Network ' + i + '</option>');
+        }
+
+        networkSelector.on('change', function(event) {
+            var selectedNetworkName = $(this).val();
+            console.log(selectedNetworkName);
+        });
+    }
+
+    function setVisualStyleCombobox(cy) {
+        var visualStyle;
+        var visualStyleSelector = $('#vs');
+        for(var i=0; i<vs.length; i++) {
+            visualStyle = vs[i];
+            var title = visualStyle.title;
+            visualStyles[title] = visualStyle;
+            visualStyleSelector.append('<option>' + title + '</option>');
+        }
+        cy.style().fromJson(visualStyles[DEFAULT_VISUAL_STYLE].style).update();
+
+        visualStyleSelector.val(DEFAULT_VISUAL_STYLE);
+        visualStyleSelector.on('change', function(event) {
+            var selectedVisualStyleName = $(this).val();
+            console.log(selectedVisualStyleName);
+            cy.style().fromJson(visualStyles[selectedVisualStyleName].style).update();
+        });
     };
 
     var networkData = {};

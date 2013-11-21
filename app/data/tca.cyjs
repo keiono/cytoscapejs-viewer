@@ -1,0 +1,2887 @@
+{
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "124",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 124,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "gene",
+        "KEGG_reaction" : "rn:R00014",
+        "KEGG_name" : "eco:b0114",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco:b0114",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-79",
+        "KEGG_label" : "aceE",
+        "KEGG_reaction_list" : [ "rn:R00014" ],
+        "name" : "path:eco00020-79",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "aceE" ],
+        "shared_name" : "path:eco00020-79",
+        "KEGG_label_first" : "aceE",
+        "KEGG_name_list" : [ "eco:b0114" ]
+      },
+      "position" : {
+        "x" : 665.0,
+        "y" : 241.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "123",
+        "KEGG_nodeHeight" : 8.0,
+        "SUID" : 123,
+        "KEGG_nodeWidth" : 8.0,
+        "KEGG_entry" : "compound",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "cpd:C05125",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?C05125",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-78",
+        "KEGG_label" : "C05125",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-78",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "C05125" ],
+        "shared_name" : "path:eco00020-78",
+        "KEGG_label_first" : "2-(alpha-Hydroxyethyl)thiamine diphosphate\n",
+        "KEGG_name_list" : [ "cpd:C05125" ],
+        "compound_label_width" : 10
+      },
+      "position" : {
+        "x" : 610.0,
+        "y" : 241.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "122",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 122,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "gene",
+        "KEGG_reaction" : "rn:R00268",
+        "KEGG_name" : "eco:b1136",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco:b1136",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-35",
+        "KEGG_label" : "icd",
+        "KEGG_reaction_list" : [ "rn:R00268" ],
+        "name" : "path:eco00020-35",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "icd" ],
+        "shared_name" : "path:eco00020-35",
+        "KEGG_label_first" : "icd",
+        "KEGG_name_list" : [ "eco:b1136" ]
+      },
+      "position" : {
+        "x" : 697.0,
+        "y" : 505.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "121",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 121,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "ortholog",
+        "KEGG_reaction" : "rn:R00709",
+        "KEGG_name" : "ko:K00030",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?K00030",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-36",
+        "KEGG_label" : "K00030",
+        "KEGG_reaction_list" : [ "rn:R00709" ],
+        "name" : "path:eco00020-36",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "K00030" ],
+        "shared_name" : "path:eco00020-36",
+        "KEGG_label_first" : "K00030",
+        "KEGG_name_list" : [ "ko:K00030" ]
+      },
+      "position" : {
+        "x" : 755.0,
+        "y" : 458.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "120",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 120,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "gene",
+        "KEGG_reaction" : "rn:R00405",
+        "KEGG_name" : "eco:b0728 eco:b0729",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco:b0728+eco:b0729",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-33",
+        "KEGG_label" : "sucC...",
+        "KEGG_reaction_list" : [ "rn:R00405" ],
+        "name" : "path:eco00020-33",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "sucC..." ],
+        "shared_name" : "path:eco00020-33",
+        "KEGG_label_first" : "sucC...",
+        "KEGG_name_list" : [ "eco:b0728", "eco:b0729" ]
+      },
+      "position" : {
+        "x" : 239.0,
+        "y" : 585.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "119",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 119,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "ortholog",
+        "KEGG_reaction" : "rn:R00432 rn:R00727",
+        "KEGG_name" : "ko:K01899 ko:K01900",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?K01899+K01900",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-34",
+        "KEGG_label" : "K01899...",
+        "KEGG_reaction_list" : [ "rn:R00432", "rn:R00727" ],
+        "name" : "path:eco00020-34",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "K01899..." ],
+        "shared_name" : "path:eco00020-34",
+        "KEGG_label_first" : "K01899...",
+        "KEGG_name_list" : [ "ko:K01899", "ko:K01900" ]
+      },
+      "position" : {
+        "x" : 239.0,
+        "y" : 564.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "118",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 118,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "ortholog",
+        "KEGG_reaction" : "rn:R02164",
+        "KEGG_name" : "ko:K00234 ko:K00235 ko:K00236 ko:K00237",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?K00234+K00235+K00236+K00237",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-39",
+        "KEGG_label" : "K00234...",
+        "KEGG_reaction_list" : [ "rn:R02164" ],
+        "name" : "path:eco00020-39",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "K00234..." ],
+        "shared_name" : "path:eco00020-39",
+        "KEGG_label_first" : "K00234...",
+        "KEGG_name_list" : [ "ko:K00234", "ko:K00235", "ko:K00236", "ko:K00237" ]
+      },
+      "position" : {
+        "x" : 194.0,
+        "y" : 530.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "117",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 117,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "gene",
+        "KEGG_reaction" : "rn:R01899",
+        "KEGG_name" : "eco:b1136",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco:b1136",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-37",
+        "KEGG_label" : "icd",
+        "KEGG_reaction_list" : [ "rn:R01899" ],
+        "name" : "path:eco00020-37",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "icd" ],
+        "shared_name" : "path:eco00020-37",
+        "KEGG_label_first" : "icd",
+        "KEGG_name_list" : [ "eco:b1136" ]
+      },
+      "position" : {
+        "x" : 697.0,
+        "y" : 400.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "116",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 116,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "ortholog",
+        "KEGG_reaction" : "rn:R00352",
+        "KEGG_name" : "ko:K01648 ko:K15230 ko:K15231",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?K01648+K15230+K15231",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-38",
+        "KEGG_label" : "K01648...",
+        "KEGG_reaction_list" : [ "rn:R00352" ],
+        "name" : "path:eco00020-38",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "K01648..." ],
+        "shared_name" : "path:eco00020-38",
+        "KEGG_label_first" : "K01648...",
+        "KEGG_name_list" : [ "ko:K01648", "ko:K15230", "ko:K15231" ]
+      },
+      "position" : {
+        "x" : 413.0,
+        "y" : 355.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "115",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 115,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "gene",
+        "KEGG_reaction" : "rn:R00351",
+        "KEGG_name" : "eco:b0720",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco:b0720",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-43",
+        "KEGG_label" : "gltA",
+        "KEGG_reaction_list" : [ "rn:R00351" ],
+        "name" : "path:eco00020-43",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "gltA" ],
+        "shared_name" : "path:eco00020-43",
+        "KEGG_label_first" : "gltA",
+        "KEGG_name_list" : [ "eco:b0720" ]
+      },
+      "position" : {
+        "x" : 413.0,
+        "y" : 334.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "114",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 114,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "gene",
+        "KEGG_reaction" : "rn:R01325",
+        "KEGG_name" : "eco:b0118 eco:b0771 eco:b1276",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco:b0118+eco:b0771+eco:b1276",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-42",
+        "KEGG_label" : "acnB...",
+        "KEGG_reaction_list" : [ "rn:R01325" ],
+        "name" : "path:eco00020-42",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "acnB..." ],
+        "shared_name" : "path:eco00020-42",
+        "KEGG_label_first" : "acnB...",
+        "KEGG_name_list" : [ "eco:b0118", "eco:b0771", "eco:b1276" ]
+      },
+      "position" : {
+        "x" : 550.0,
+        "y" : 345.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "113",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 113,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "gene",
+        "KEGG_reaction" : "rn:R01900",
+        "KEGG_name" : "eco:b0118 eco:b0771 eco:b1276",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco:b0118+eco:b0771+eco:b1276",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-41",
+        "KEGG_label" : "acnB...",
+        "KEGG_reaction_list" : [ "rn:R01900" ],
+        "name" : "path:eco00020-41",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "acnB..." ],
+        "shared_name" : "path:eco00020-41",
+        "KEGG_label_first" : "acnB...",
+        "KEGG_name_list" : [ "eco:b0118", "eco:b0771", "eco:b1276" ]
+      },
+      "position" : {
+        "x" : 649.0,
+        "y" : 345.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "112",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 112,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "gene",
+        "KEGG_reaction" : "rn:R01082",
+        "KEGG_name" : "eco:b1611 eco:b1612 eco:b4122",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco:b1611+eco:b1612+eco:b4122",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-40",
+        "KEGG_label" : "fumC...",
+        "KEGG_reaction_list" : [ "rn:R01082" ],
+        "name" : "path:eco00020-40",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "fumC..." ],
+        "shared_name" : "path:eco00020-40",
+        "KEGG_label_first" : "fumC...",
+        "KEGG_name_list" : [ "eco:b1611", "eco:b1612", "eco:b4122" ]
+      },
+      "position" : {
+        "x" : 168.0,
+        "y" : 436.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "111",
+        "KEGG_nodeHeight" : 8.0,
+        "SUID" : 111,
+        "KEGG_nodeWidth" : 8.0,
+        "KEGG_entry" : "compound",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "cpd:C15972",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?C15972",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-82",
+        "KEGG_label" : "C15972",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-82",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "C15972" ],
+        "shared_name" : "path:eco00020-82",
+        "KEGG_label_first" : "Enzyme N6-(lipoyl)lysine\n",
+        "KEGG_name_list" : [ "cpd:C15972" ],
+        "compound_label_width" : 10
+      },
+      "position" : {
+        "x" : 559.0,
+        "y" : 284.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "110",
+        "KEGG_nodeHeight" : 8.0,
+        "SUID" : 110,
+        "KEGG_nodeWidth" : 8.0,
+        "KEGG_entry" : "compound",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "cpd:C00068",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?C00068",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-80",
+        "KEGG_label" : "C00068",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-80",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "C00068" ],
+        "shared_name" : "path:eco00020-80",
+        "KEGG_label_first" : "Thiamin diphosphate\n",
+        "KEGG_name_list" : [ "cpd:C00068" ],
+        "compound_label_width" : 10
+      },
+      "position" : {
+        "x" : 610.0,
+        "y" : 198.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "109",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 109,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "gene",
+        "KEGG_reaction" : "rn:R03270",
+        "KEGG_name" : "eco:b0114",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco:b0114",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-81",
+        "KEGG_label" : "aceE",
+        "KEGG_reaction_list" : [ "rn:R03270" ],
+        "name" : "path:eco00020-81",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "aceE" ],
+        "shared_name" : "path:eco00020-81",
+        "KEGG_label_first" : "aceE",
+        "KEGG_name_list" : [ "eco:b0114" ]
+      },
+      "position" : {
+        "x" : 561.0,
+        "y" : 241.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "108",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 108,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "gene",
+        "KEGG_reaction" : "rn:R02569",
+        "KEGG_name" : "eco:b0115",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco:b0115",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-86",
+        "KEGG_label" : "aceF",
+        "KEGG_reaction_list" : [ "rn:R02569" ],
+        "name" : "path:eco00020-86",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "aceF" ],
+        "shared_name" : "path:eco00020-86",
+        "KEGG_label_first" : "aceF",
+        "KEGG_name_list" : [ "eco:b0115" ]
+      },
+      "position" : {
+        "x" : 443.0,
+        "y" : 242.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "107",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 107,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "gene",
+        "KEGG_reaction" : "rn:R07618",
+        "KEGG_name" : "eco:b0116",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco:b0116",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-84",
+        "KEGG_label" : "lpd",
+        "KEGG_reaction_list" : [ "rn:R07618" ],
+        "name" : "path:eco00020-84",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "lpd" ],
+        "shared_name" : "path:eco00020-84",
+        "KEGG_label_first" : "lpd",
+        "KEGG_name_list" : [ "eco:b0116" ]
+      },
+      "position" : {
+        "x" : 508.0,
+        "y" : 285.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "106",
+        "KEGG_nodeHeight" : 8.0,
+        "SUID" : 106,
+        "KEGG_nodeWidth" : 8.0,
+        "KEGG_entry" : "compound",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "cpd:C16255",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?C16255",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-85",
+        "KEGG_label" : "C16255",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-85",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "C16255" ],
+        "shared_name" : "path:eco00020-85",
+        "KEGG_label_first" : "[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine\n",
+        "KEGG_name_list" : [ "cpd:C16255" ],
+        "compound_label_width" : 10
+      },
+      "position" : {
+        "x" : 496.0,
+        "y" : 241.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "105",
+        "KEGG_nodeHeight" : 8.0,
+        "SUID" : 105,
+        "KEGG_nodeWidth" : 8.0,
+        "KEGG_entry" : "compound",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "cpd:C00042",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?C00042",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-67",
+        "KEGG_label" : "C00042",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-67",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "C00042" ],
+        "shared_name" : "path:eco00020-67",
+        "KEGG_label_first" : "Succinate\n",
+        "KEGG_name_list" : [ "cpd:C00042" ],
+        "compound_label_width" : 10
+      },
+      "position" : {
+        "x" : 169.0,
+        "y" : 574.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "104",
+        "KEGG_nodeHeight" : 8.0,
+        "SUID" : 104,
+        "KEGG_nodeWidth" : 8.0,
+        "KEGG_entry" : "compound",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "cpd:C00417",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?C00417",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-66",
+        "KEGG_label" : "C00417",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-66",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "C00417" ],
+        "shared_name" : "path:eco00020-66",
+        "KEGG_label_first" : "cis-Aconitate\n",
+        "KEGG_name_list" : [ "cpd:C00417" ],
+        "compound_label_width" : 10
+      },
+      "position" : {
+        "x" : 600.0,
+        "y" : 344.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "103",
+        "KEGG_nodeHeight" : 8.0,
+        "SUID" : 103,
+        "KEGG_nodeWidth" : 8.0,
+        "KEGG_entry" : "compound",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "cpd:C15972",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?C15972",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-69",
+        "KEGG_label" : "C15972",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-69",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "C15972" ],
+        "shared_name" : "path:eco00020-69",
+        "KEGG_label_first" : "Enzyme N6-(lipoyl)lysine\n",
+        "KEGG_name_list" : [ "cpd:C15972" ],
+        "compound_label_width" : 10
+      },
+      "position" : {
+        "x" : 501.0,
+        "y" : 617.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "102",
+        "KEGG_nodeHeight" : 8.0,
+        "SUID" : 102,
+        "KEGG_nodeWidth" : 8.0,
+        "KEGG_entry" : "compound",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "cpd:C00158",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?C00158",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-68",
+        "KEGG_label" : "C00158",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-68",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "C00158" ],
+        "shared_name" : "path:eco00020-68",
+        "KEGG_label_first" : "Citrate\n",
+        "KEGG_name_list" : [ "cpd:C00158" ],
+        "compound_label_width" : 10
+      },
+      "position" : {
+        "x" : 501.0,
+        "y" : 344.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 101,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "gene",
+        "KEGG_reaction" : "rn:R00412",
+        "KEGG_name" : "eco:b0721 eco:b0722 eco:b0723 eco:b0724 eco:b4151 eco:b4152 eco:b4153 eco:b4154",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco:b0721+eco:b0722+eco:b0723+eco:b0724+eco:b4151+eco:b4152+eco:b4153+eco:b4154",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-27",
+        "KEGG_label" : "sdhC...",
+        "KEGG_reaction_list" : [ "rn:R00412" ],
+        "name" : "path:eco00020-27",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "sdhC..." ],
+        "shared_name" : "path:eco00020-27",
+        "KEGG_label_first" : "sdhC...",
+        "KEGG_name_list" : [ "eco:b0721", "eco:b0722", "eco:b0723", "eco:b0724", "eco:b4151", "eco:b4152", "eco:b4153", "eco:b4154" ]
+      },
+      "position" : {
+        "x" : 144.0,
+        "y" : 530.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "100",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 100,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "ortholog",
+        "KEGG_reaction" : "rn:R01197",
+        "KEGG_name" : "ko:K00174 ko:K00175 ko:K00177 ko:K00176",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?K00174+K00175+K00177+K00176",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-28",
+        "KEGG_label" : "K00174...",
+        "KEGG_reaction_list" : [ "rn:R01197" ],
+        "name" : "path:eco00020-28",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "K00174..." ],
+        "shared_name" : "path:eco00020-28",
+        "KEGG_label_first" : "K00174...",
+        "KEGG_name_list" : [ "ko:K00174", "ko:K00175", "ko:K00177", "ko:K00176" ]
+      },
+      "position" : {
+        "x" : 505.0,
+        "y" : 649.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "99",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 99,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "gene",
+        "KEGG_reaction" : "rn:R07618",
+        "KEGG_name" : "eco:b0116",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco:b0116",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-29",
+        "KEGG_label" : "lpd",
+        "KEGG_reaction_list" : [ "rn:R07618" ],
+        "name" : "path:eco00020-29",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "lpd" ],
+        "shared_name" : "path:eco00020-29",
+        "KEGG_label_first" : "lpd",
+        "KEGG_name_list" : [ "eco:b0116" ]
+      },
+      "position" : {
+        "x" : 446.0,
+        "y" : 618.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "98",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 98,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "gene",
+        "KEGG_reaction" : "rn:R00621",
+        "KEGG_name" : "eco:b0726",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco:b0726",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-30",
+        "KEGG_label" : "sucA",
+        "KEGG_reaction_list" : [ "rn:R00621" ],
+        "name" : "path:eco00020-30",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "sucA" ],
+        "shared_name" : "path:eco00020-30",
+        "KEGG_label_first" : "sucA",
+        "KEGG_name_list" : [ "eco:b0726" ]
+      },
+      "position" : {
+        "x" : 640.0,
+        "y" : 574.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "97",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 97,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "gene",
+        "KEGG_reaction" : "rn:R02570",
+        "KEGG_name" : "eco:b0727",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco:b0727",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-32",
+        "KEGG_label" : "sucB",
+        "KEGG_reaction_list" : [ "rn:R02570" ],
+        "name" : "path:eco00020-32",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "sucB" ],
+        "shared_name" : "path:eco00020-32",
+        "KEGG_label_first" : "sucB",
+        "KEGG_name_list" : [ "eco:b0727" ]
+      },
+      "position" : {
+        "x" : 382.0,
+        "y" : 574.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "96",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 96,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "gene",
+        "KEGG_reaction" : "rn:R03316",
+        "KEGG_name" : "eco:b0726",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco:b0726",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-31",
+        "KEGG_label" : "sucA",
+        "KEGG_reaction_list" : [ "rn:R03316" ],
+        "name" : "path:eco00020-31",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "sucA" ],
+        "shared_name" : "path:eco00020-31",
+        "KEGG_label_first" : "sucA",
+        "KEGG_name_list" : [ "eco:b0726" ]
+      },
+      "position" : {
+        "x" : 509.0,
+        "y" : 575.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "95",
+        "KEGG_nodeHeight" : 8.0,
+        "SUID" : 95,
+        "KEGG_nodeWidth" : 8.0,
+        "KEGG_entry" : "compound",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "cpd:C00068",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?C00068",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-70",
+        "KEGG_label" : "C00068",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-70",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "C00068" ],
+        "shared_name" : "path:eco00020-70",
+        "KEGG_label_first" : "Thiamin diphosphate\n",
+        "KEGG_name_list" : [ "cpd:C00068" ],
+        "compound_label_width" : 10
+      },
+      "position" : {
+        "x" : 568.0,
+        "y" : 530.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "94",
+        "KEGG_nodeHeight" : 8.0,
+        "SUID" : 94,
+        "KEGG_nodeWidth" : 8.0,
+        "KEGG_entry" : "compound",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "cpd:C16254",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?C16254",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-71",
+        "KEGG_label" : "C16254",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-71",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "C16254" ],
+        "shared_name" : "path:eco00020-71",
+        "KEGG_label_first" : "[Dihydrolipoyllysine-residue succinyltransferase] S-succinyldihydrolipoyllysine\n",
+        "KEGG_name_list" : [ "cpd:C16254" ],
+        "compound_label_width" : 10
+      },
+      "position" : {
+        "x" : 441.0,
+        "y" : 573.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "93",
+        "KEGG_nodeHeight" : 8.0,
+        "SUID" : 93,
+        "KEGG_nodeWidth" : 8.0,
+        "KEGG_entry" : "compound",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "cpd:C15973",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?C15973",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-72",
+        "KEGG_label" : "C15973",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-72",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "C15973" ],
+        "shared_name" : "path:eco00020-72",
+        "KEGG_label_first" : "Enzyme N6-(dihydrolipoyl)lysine\n",
+        "KEGG_name_list" : [ "cpd:C15973" ],
+        "compound_label_width" : 10
+      },
+      "position" : {
+        "x" : 387.0,
+        "y" : 617.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "92",
+        "KEGG_nodeHeight" : 8.0,
+        "SUID" : 92,
+        "KEGG_nodeWidth" : 8.0,
+        "KEGG_entry" : "compound",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "cpd:C00091",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?C00091",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-73",
+        "KEGG_label" : "C00091",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-73",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "C00091" ],
+        "shared_name" : "path:eco00020-73",
+        "KEGG_label_first" : "Succinyl-CoA\n",
+        "KEGG_name_list" : [ "cpd:C00091" ],
+        "compound_label_width" : 10
+      },
+      "position" : {
+        "x" : 313.0,
+        "y" : 574.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "91",
+        "KEGG_nodeHeight" : 8.0,
+        "SUID" : 91,
+        "KEGG_nodeWidth" : 8.0,
+        "KEGG_entry" : "compound",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "cpd:C00026",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?C00026",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-74",
+        "KEGG_label" : "C00026",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-74",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "C00026" ],
+        "shared_name" : "path:eco00020-74",
+        "KEGG_label_first" : "2-Oxoglutarate\n",
+        "KEGG_name_list" : [ "cpd:C00026" ],
+        "compound_label_width" : 10
+      },
+      "position" : {
+        "x" : 697.0,
+        "y" : 573.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "90",
+        "KEGG_nodeHeight" : 8.0,
+        "SUID" : 90,
+        "KEGG_nodeWidth" : 8.0,
+        "KEGG_entry" : "compound",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "cpd:C05381",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?C05381",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-75",
+        "KEGG_label" : "C05381",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-75",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "C05381" ],
+        "shared_name" : "path:eco00020-75",
+        "KEGG_label_first" : "3-Carboxy-1-hydroxypropyl-ThPP\n",
+        "KEGG_name_list" : [ "cpd:C05381" ],
+        "compound_label_width" : 10
+      },
+      "position" : {
+        "x" : 572.0,
+        "y" : 573.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "89",
+        "KEGG_nodeHeight" : 8.0,
+        "SUID" : 89,
+        "KEGG_nodeWidth" : 8.0,
+        "KEGG_entry" : "compound",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "cpd:C00022",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?C00022",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-59",
+        "KEGG_label" : "C00022",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-59",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "C00022" ],
+        "shared_name" : "path:eco00020-59",
+        "KEGG_label_first" : "Pyruvate\n",
+        "KEGG_name_list" : [ "cpd:C00022" ],
+        "compound_label_width" : 10
+      },
+      "position" : {
+        "x" : 716.0,
+        "y" : 241.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "88",
+        "KEGG_nodeHeight" : 25.0,
+        "SUID" : 88,
+        "KEGG_nodeWidth" : 152.0,
+        "KEGG_entry" : "map",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "path:eco00471",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco00471",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-58",
+        "KEGG_label" : "D-Glutamine and D-glutamate metabolism",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-58",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "D-Glutamine and D-glutamate metabolism" ],
+        "shared_name" : "path:eco00020-58",
+        "KEGG_label_first" : "D-Glutamine and D-glutamate metabolism",
+        "KEGG_name_list" : [ "path:eco00471" ]
+      },
+      "position" : {
+        "x" : 850.0,
+        "y" : 672.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "87",
+        "KEGG_nodeHeight" : 34.0,
+        "SUID" : 87,
+        "KEGG_nodeWidth" : 112.0,
+        "KEGG_entry" : "map",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "path:eco00330",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco00330",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-57",
+        "KEGG_label" : "Arginine and proline metabolism",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-57",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "Arginine and proline metabolism" ],
+        "shared_name" : "path:eco00020-57",
+        "KEGG_label_first" : "Arginine and proline metabolism",
+        "KEGG_name_list" : [ "path:eco00330" ]
+      },
+      "position" : {
+        "x" : 66.0,
+        "y" : 480.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "86",
+        "KEGG_nodeHeight" : 34.0,
+        "SUID" : 86,
+        "KEGG_nodeWidth" : 121.0,
+        "KEGG_entry" : "map",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "path:eco00250",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco00250",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-56",
+        "KEGG_label" : "Alanine, aspartate and glutamate metabolism",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-56",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "Alanine", "aspartate and glutamate metabolism" ],
+        "shared_name" : "path:eco00020-56",
+        "KEGG_label_first" : "Alanine",
+        "KEGG_name_list" : [ "path:eco00250" ]
+      },
+      "position" : {
+        "x" : 146.0,
+        "y" : 275.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "85",
+        "KEGG_nodeHeight" : 34.0,
+        "SUID" : 85,
+        "KEGG_nodeWidth" : 85.0,
+        "KEGG_entry" : "map",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "path:eco00280",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco00280",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-55",
+        "KEGG_label" : "Valine, leucine and isoleucine degradation",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-55",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "Valine", "leucine and isoleucine degradation" ],
+        "shared_name" : "path:eco00020-55",
+        "KEGG_label_first" : "Valine",
+        "KEGG_name_list" : [ "path:eco00280" ]
+      },
+      "position" : {
+        "x" : 245.0,
+        "y" : 627.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "84",
+        "KEGG_nodeHeight" : 8.0,
+        "SUID" : 84,
+        "KEGG_nodeWidth" : 8.0,
+        "KEGG_entry" : "compound",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "cpd:C00149",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?C00149",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-64",
+        "KEGG_label" : "C00149",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-64",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "C00149" ],
+        "shared_name" : "path:eco00020-64",
+        "KEGG_label_first" : "(S)-Malate\n",
+        "KEGG_name_list" : [ "cpd:C00149" ],
+        "compound_label_width" : 10
+      },
+      "position" : {
+        "x" : 169.0,
+        "y" : 393.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "83",
+        "KEGG_nodeHeight" : 8.0,
+        "SUID" : 83,
+        "KEGG_nodeWidth" : 8.0,
+        "KEGG_entry" : "compound",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "cpd:C00311",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?C00311",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-65",
+        "KEGG_label" : "C00311",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-65",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "C00311" ],
+        "shared_name" : "path:eco00020-65",
+        "KEGG_label_first" : "Isocitrate\n",
+        "KEGG_name_list" : [ "cpd:C00311" ],
+        "compound_label_width" : 10
+      },
+      "position" : {
+        "x" : 697.0,
+        "y" : 344.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "82",
+        "KEGG_nodeHeight" : 8.0,
+        "SUID" : 82,
+        "KEGG_nodeWidth" : 8.0,
+        "KEGG_entry" : "compound",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "cpd:C05379",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?C05379",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-62",
+        "KEGG_label" : "C05379",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-62",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "C05379" ],
+        "shared_name" : "path:eco00020-62",
+        "KEGG_label_first" : "Oxalosuccinate\n",
+        "KEGG_name_list" : [ "cpd:C05379" ],
+        "compound_label_width" : 10
+      },
+      "position" : {
+        "x" : 697.0,
+        "y" : 453.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "81",
+        "KEGG_nodeHeight" : 8.0,
+        "SUID" : 81,
+        "KEGG_nodeWidth" : 8.0,
+        "KEGG_entry" : "compound",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "cpd:C00024",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?C00024",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-63",
+        "KEGG_label" : "C00024",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-63",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "C00024" ],
+        "shared_name" : "path:eco00020-63",
+        "KEGG_label_first" : "Acetyl-CoA\n",
+        "KEGG_name_list" : [ "cpd:C00024" ],
+        "compound_label_width" : 10
+      },
+      "position" : {
+        "x" : 379.0,
+        "y" : 241.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "80",
+        "KEGG_nodeHeight" : 8.0,
+        "SUID" : 80,
+        "KEGG_nodeWidth" : 8.0,
+        "KEGG_entry" : "compound",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "cpd:C00122",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?C00122",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-60",
+        "KEGG_label" : "C00122",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-60",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "C00122" ],
+        "shared_name" : "path:eco00020-60",
+        "KEGG_label_first" : "Fumarate\n",
+        "KEGG_name_list" : [ "cpd:C00122" ],
+        "compound_label_width" : 10
+      },
+      "position" : {
+        "x" : 169.0,
+        "y" : 481.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "79",
+        "KEGG_nodeHeight" : 8.0,
+        "SUID" : 79,
+        "KEGG_nodeWidth" : 8.0,
+        "KEGG_entry" : "compound",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "cpd:C00036",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?C00036",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-61",
+        "KEGG_label" : "C00036",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-61",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "C00036" ],
+        "shared_name" : "path:eco00020-61",
+        "KEGG_label_first" : "Oxaloacetate\n",
+        "KEGG_name_list" : [ "cpd:C00036" ],
+        "compound_label_width" : 10
+      },
+      "position" : {
+        "x" : 299.0,
+        "y" : 344.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "78",
+        "KEGG_nodeHeight" : 25.0,
+        "SUID" : 78,
+        "KEGG_nodeWidth" : 194.0,
+        "KEGG_entry" : "map",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "path:map00062",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?map00062",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-49",
+        "KEGG_label" : "Fatty acid elongation",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-49",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "Fatty acid elongation" ],
+        "shared_name" : "path:eco00020-49",
+        "KEGG_label_first" : "Fatty acid elongation",
+        "KEGG_name_list" : [ "path:map00062" ]
+      },
+      "position" : {
+        "x" : 108.0,
+        "y" : 181.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "77",
+        "KEGG_nodeHeight" : 25.0,
+        "SUID" : 77,
+        "KEGG_nodeWidth" : 126.0,
+        "KEGG_entry" : "map",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "path:eco00061",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco00061",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-48",
+        "KEGG_label" : "Fatty acid biosynthesis",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-48",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "Fatty acid biosynthesis" ],
+        "shared_name" : "path:eco00020-48",
+        "KEGG_label_first" : "Fatty acid biosynthesis",
+        "KEGG_name_list" : [ "path:eco00061" ]
+      },
+      "position" : {
+        "x" : 142.0,
+        "y" : 153.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "76",
+        "KEGG_nodeHeight" : 8.0,
+        "SUID" : 76,
+        "KEGG_nodeWidth" : 8.0,
+        "KEGG_entry" : "compound",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "cpd:C00074",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?C00074",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-96",
+        "KEGG_label" : "C00074",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-96",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "C00074" ],
+        "shared_name" : "path:eco00020-96",
+        "KEGG_label_first" : "Phosphoenolpyruvate\n",
+        "KEGG_name_list" : [ "cpd:C00074" ],
+        "compound_label_width" : 10
+      },
+      "position" : {
+        "x" : 450.0,
+        "y" : 127.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "75",
+        "KEGG_nodeHeight" : 8.0,
+        "SUID" : 75,
+        "KEGG_nodeWidth" : 8.0,
+        "KEGG_entry" : "compound",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "cpd:C15973",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?C15973",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-95",
+        "KEGG_label" : "C15973",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-95",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "C15973" ],
+        "shared_name" : "path:eco00020-95",
+        "KEGG_label_first" : "Enzyme N6-(dihydrolipoyl)lysine\n",
+        "KEGG_name_list" : [ "cpd:C15973" ],
+        "compound_label_width" : 10
+      },
+      "position" : {
+        "x" : 457.0,
+        "y" : 284.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "74",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 74,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "ortholog",
+        "KEGG_reaction" : "rn:R00431 rn:R00726",
+        "KEGG_name" : "ko:K01596",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?K01596",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-94",
+        "KEGG_label" : "K01596",
+        "KEGG_reaction_list" : [ "rn:R00431", "rn:R00726" ],
+        "name" : "path:eco00020-94",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "K01596" ],
+        "shared_name" : "path:eco00020-94",
+        "KEGG_label_first" : "K01596",
+        "KEGG_name_list" : [ "ko:K01596" ]
+      },
+      "position" : {
+        "x" : 350.0,
+        "y" : 117.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "73",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 73,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "ortholog",
+        "KEGG_reaction" : "rn:R00344",
+        "KEGG_name" : "ko:K01958 ko:K01959 ko:K01960",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?K01958+K01959+K01960",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-45",
+        "KEGG_label" : "K01958...",
+        "KEGG_reaction_list" : [ "rn:R00344" ],
+        "name" : "path:eco00020-45",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "K01958..." ],
+        "shared_name" : "path:eco00020-45",
+        "KEGG_label_first" : "K01958...",
+        "KEGG_name_list" : [ "ko:K01958", "ko:K01959", "ko:K01960" ]
+      },
+      "position" : {
+        "x" : 715.0,
+        "y" : 278.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "72",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 72,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "gene",
+        "KEGG_reaction" : "rn:R00341",
+        "KEGG_name" : "eco:b3403",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco:b3403",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-93",
+        "KEGG_label" : "pck",
+        "KEGG_reaction_list" : [ "rn:R00341" ],
+        "name" : "path:eco00020-93",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "pck" ],
+        "shared_name" : "path:eco00020-93",
+        "KEGG_label_first" : "pck",
+        "KEGG_name_list" : [ "eco:b3403" ]
+      },
+      "position" : {
+        "x" : 350.0,
+        "y" : 138.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "71",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 71,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "gene",
+        "KEGG_reaction" : "rn:R00342",
+        "KEGG_name" : "eco:b3236",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco:b3236",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-44",
+        "KEGG_label" : "mdh",
+        "KEGG_reaction_list" : [ "rn:R00342" ],
+        "name" : "path:eco00020-44",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "mdh" ],
+        "shared_name" : "path:eco00020-44",
+        "KEGG_label_first" : "mdh",
+        "KEGG_name_list" : [ "eco:b3236" ]
+      },
+      "position" : {
+        "x" : 232.0,
+        "y" : 345.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "70",
+        "KEGG_nodeHeight" : 46.0,
+        "SUID" : 70,
+        "KEGG_nodeWidth" : 216.0,
+        "KEGG_entry" : "map",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "path:eco00010",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco00010",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-47",
+        "KEGG_label" : "Glycolysis / Gluconeogenesis",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-47",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "Glycolysis / Gluconeogenesis" ],
+        "shared_name" : "path:eco00020-47",
+        "KEGG_label_first" : "Glycolysis / Gluconeogenesis",
+        "KEGG_name_list" : [ "path:eco00010" ]
+      },
+      "position" : {
+        "x" : 671.0,
+        "y" : 127.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "69",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 69,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "gene",
+        "KEGG_reaction" : "rn:R00362",
+        "KEGG_name" : "eco:b0615 eco:b0616 eco:b0617",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco:b0615+eco:b0616+eco:b0617",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-91",
+        "KEGG_label" : "citF...",
+        "KEGG_reaction_list" : [ "rn:R00362" ],
+        "name" : "path:eco00020-91",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "citF..." ],
+        "shared_name" : "path:eco00020-91",
+        "KEGG_label_first" : "citF...",
+        "KEGG_name_list" : [ "eco:b0615", "eco:b0616", "eco:b0617" ]
+      },
+      "position" : {
+        "x" : 413.0,
+        "y" : 380.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "68",
+        "KEGG_nodeHeight" : 34.0,
+        "SUID" : 68,
+        "KEGG_nodeWidth" : 158.0,
+        "KEGG_entry" : "map",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "path:eco00630",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco00630",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-46",
+        "KEGG_label" : "Glyoxylate and dicarboxylate metabolism",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-46",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "Glyoxylate and dicarboxylate metabolism" ],
+        "shared_name" : "path:eco00020-46",
+        "KEGG_label_first" : "Glyoxylate and dicarboxylate metabolism",
+        "KEGG_name_list" : [ "path:eco00630" ]
+      },
+      "position" : {
+        "x" : 128.0,
+        "y" : 312.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "67",
+        "KEGG_nodeHeight" : 34.0,
+        "SUID" : 67,
+        "KEGG_nodeWidth" : 126.0,
+        "KEGG_entry" : "map",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "path:eco00053",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco00053",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-51",
+        "KEGG_label" : "Ascorbate and aldarate metabolism",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-51",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "Ascorbate and aldarate metabolism" ],
+        "shared_name" : "path:eco00020-51",
+        "KEGG_label_first" : "Ascorbate and aldarate metabolism",
+        "KEGG_name_list" : [ "path:eco00053" ]
+      },
+      "position" : {
+        "x" : 835.0,
+        "y" : 602.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "66",
+        "KEGG_nodeHeight" : 34.0,
+        "SUID" : 66,
+        "KEGG_nodeWidth" : 121.0,
+        "KEGG_entry" : "map",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "path:eco00250",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco00250",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-52",
+        "KEGG_label" : "Alanine, aspartate and glutamate metabolism",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-52",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "Alanine", "aspartate and glutamate metabolism" ],
+        "shared_name" : "path:eco00020-52",
+        "KEGG_label_first" : "Alanine",
+        "KEGG_name_list" : [ "path:eco00250" ]
+      },
+      "position" : {
+        "x" : 835.0,
+        "y" : 639.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "65",
+        "KEGG_nodeHeight" : 34.0,
+        "SUID" : 65,
+        "KEGG_nodeWidth" : 76.0,
+        "KEGG_entry" : "map",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "path:eco00350",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco00350",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-54",
+        "KEGG_label" : "Tyrosine metabolism",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-54",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "Tyrosine metabolism" ],
+        "shared_name" : "path:eco00020-54",
+        "KEGG_label_first" : "Tyrosine metabolism",
+        "KEGG_name_list" : [ "path:eco00350" ]
+      },
+      "position" : {
+        "x" : 81.0,
+        "y" : 443.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "64",
+        "KEGG_nodeHeight" : 17.0,
+        "SUID" : 64,
+        "KEGG_nodeWidth" : 46.0,
+        "KEGG_entry" : "ortholog",
+        "KEGG_reaction" : "rn:R01196",
+        "KEGG_name" : "ko:K00169 ko:K00170 ko:K00172 ko:K00171",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?K00169+K00170+K00172+K00171",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-88",
+        "KEGG_label" : "K00169...",
+        "KEGG_reaction_list" : [ "rn:R01196" ],
+        "name" : "path:eco00020-88",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "K00169..." ],
+        "shared_name" : "path:eco00020-88",
+        "KEGG_label_first" : "K00169...",
+        "KEGG_name_list" : [ "ko:K00169", "ko:K00170", "ko:K00172", "ko:K00171" ]
+      },
+      "position" : {
+        "x" : 519.0,
+        "y" : 179.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "63",
+        "KEGG_nodeHeight" : 25.0,
+        "SUID" : 63,
+        "KEGG_nodeWidth" : 144.0,
+        "KEGG_entry" : "map",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "path:eco00280",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco00280",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-89",
+        "KEGG_label" : "Valine, leucine and isoleucine degradation",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-89",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "Valine", "leucine and isoleucine degradation" ],
+        "shared_name" : "path:eco00020-89",
+        "KEGG_label_first" : "Valine",
+        "KEGG_name_list" : [ "path:eco00280" ]
+      },
+      "position" : {
+        "x" : 133.0,
+        "y" : 211.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "62",
+        "KEGG_nodeHeight" : 25.0,
+        "SUID" : 62,
+        "KEGG_nodeWidth" : 121.0,
+        "KEGG_entry" : "map",
+        "KEGG_reaction" : "",
+        "KEGG_name" : "path:eco00071",
+        "KEGG_link" : "http://www.kegg.jp/dbget-bin/www_bget?eco00071",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-50",
+        "KEGG_label" : "Fatty acid degradation",
+        "KEGG_reaction_list" : [ "" ],
+        "name" : "path:eco00020-50",
+        "KEGG_color" : "",
+        "KEGG_label_list" : [ "Fatty acid degradation" ],
+        "shared_name" : "path:eco00020-50",
+        "KEGG_label_first" : "Fatty acid degradation",
+        "KEGG_name_list" : [ "path:eco00071" ]
+      },
+      "position" : {
+        "x" : 145.0,
+        "y" : 239.0
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "185",
+        "source" : "124",
+        "target" : "123",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-79 (rc) path:eco00020-78",
+        "SUID" : 185,
+        "name" : "path:eco00020-79 (rc) path:eco00020-78",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "irreversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-79 (rc) path:eco00020-78",
+        "KEGG_name" : "rn:R00014"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "184",
+        "source" : "123",
+        "target" : "109",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-78 (cr) path:eco00020-81",
+        "SUID" : 184,
+        "name" : "path:eco00020-78 (cr) path:eco00020-81",
+        "KEGG_color" : "",
+        "interaction" : "cr",
+        "KEGG_reaction" : "irreversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "cr",
+        "shared_name" : "path:eco00020-78 (cr) path:eco00020-81",
+        "KEGG_name" : "rn:R03270"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "183",
+        "source" : "122",
+        "target" : "82",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-35 (rc) path:eco00020-62",
+        "SUID" : 183,
+        "name" : "path:eco00020-35 (rc) path:eco00020-62",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-35 (rc) path:eco00020-62",
+        "KEGG_name" : "rn:R00268"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "182",
+        "source" : "122",
+        "target" : "91",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-35 (rc) path:eco00020-74",
+        "SUID" : 182,
+        "name" : "path:eco00020-35 (rc) path:eco00020-74",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-35 (rc) path:eco00020-74",
+        "KEGG_name" : "rn:R00268"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "181",
+        "source" : "120",
+        "target" : "105",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-33 (rc) path:eco00020-67",
+        "SUID" : 181,
+        "name" : "path:eco00020-33 (rc) path:eco00020-67",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-33 (rc) path:eco00020-67",
+        "KEGG_name" : "rn:R00405"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "180",
+        "source" : "120",
+        "target" : "92",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-33 (rc) path:eco00020-73",
+        "SUID" : 180,
+        "name" : "path:eco00020-33 (rc) path:eco00020-73",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-33 (rc) path:eco00020-73",
+        "KEGG_name" : "rn:R00405"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "179",
+        "source" : "117",
+        "target" : "83",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-37 (rc) path:eco00020-65",
+        "SUID" : 179,
+        "name" : "path:eco00020-37 (rc) path:eco00020-65",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-37 (rc) path:eco00020-65",
+        "KEGG_name" : "rn:R01899"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "178",
+        "source" : "117",
+        "target" : "82",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-37 (rc) path:eco00020-62",
+        "SUID" : 178,
+        "name" : "path:eco00020-37 (rc) path:eco00020-62",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-37 (rc) path:eco00020-62",
+        "KEGG_name" : "rn:R01899"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "177",
+        "source" : "115",
+        "target" : "79",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-43 (rc) path:eco00020-61",
+        "SUID" : 177,
+        "name" : "path:eco00020-43 (rc) path:eco00020-61",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-43 (rc) path:eco00020-61",
+        "KEGG_name" : "rn:R00351"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "176",
+        "source" : "115",
+        "target" : "81",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-43 (rc) path:eco00020-63",
+        "SUID" : 176,
+        "name" : "path:eco00020-43 (rc) path:eco00020-63",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-43 (rc) path:eco00020-63",
+        "KEGG_name" : "rn:R00351"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "175",
+        "source" : "115",
+        "target" : "102",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-43 (rc) path:eco00020-68",
+        "SUID" : 175,
+        "name" : "path:eco00020-43 (rc) path:eco00020-68",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-43 (rc) path:eco00020-68",
+        "KEGG_name" : "rn:R00351"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "174",
+        "source" : "114",
+        "target" : "102",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-42 (rc) path:eco00020-68",
+        "SUID" : 174,
+        "name" : "path:eco00020-42 (rc) path:eco00020-68",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-42 (rc) path:eco00020-68",
+        "KEGG_name" : "rn:R01325"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "173",
+        "source" : "114",
+        "target" : "104",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-42 (rc) path:eco00020-66",
+        "SUID" : 173,
+        "name" : "path:eco00020-42 (rc) path:eco00020-66",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-42 (rc) path:eco00020-66",
+        "KEGG_name" : "rn:R01325"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "172",
+        "source" : "113",
+        "target" : "104",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-41 (rc) path:eco00020-66",
+        "SUID" : 172,
+        "name" : "path:eco00020-41 (rc) path:eco00020-66",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-41 (rc) path:eco00020-66",
+        "KEGG_name" : "rn:R01900"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "171",
+        "source" : "113",
+        "target" : "83",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-41 (rc) path:eco00020-65",
+        "SUID" : 171,
+        "name" : "path:eco00020-41 (rc) path:eco00020-65",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-41 (rc) path:eco00020-65",
+        "KEGG_name" : "rn:R01900"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "170",
+        "source" : "112",
+        "target" : "84",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-40 (rc) path:eco00020-64",
+        "SUID" : 170,
+        "name" : "path:eco00020-40 (rc) path:eco00020-64",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-40 (rc) path:eco00020-64",
+        "KEGG_name" : "rn:R01082"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "169",
+        "source" : "112",
+        "target" : "80",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-40 (rc) path:eco00020-60",
+        "SUID" : 169,
+        "name" : "path:eco00020-40 (rc) path:eco00020-60",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-40 (rc) path:eco00020-60",
+        "KEGG_name" : "rn:R01082"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "168",
+        "source" : "111",
+        "target" : "109",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-82 (cr) path:eco00020-81",
+        "SUID" : 168,
+        "name" : "path:eco00020-82 (cr) path:eco00020-81",
+        "KEGG_color" : "",
+        "interaction" : "cr",
+        "KEGG_reaction" : "irreversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "cr",
+        "shared_name" : "path:eco00020-82 (cr) path:eco00020-81",
+        "KEGG_name" : "rn:R03270"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "167",
+        "source" : "110",
+        "target" : "124",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-80 (cr) path:eco00020-79",
+        "SUID" : 167,
+        "name" : "path:eco00020-80 (cr) path:eco00020-79",
+        "KEGG_color" : "",
+        "interaction" : "cr",
+        "KEGG_reaction" : "irreversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "cr",
+        "shared_name" : "path:eco00020-80 (cr) path:eco00020-79",
+        "KEGG_name" : "rn:R00014"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "166",
+        "source" : "109",
+        "target" : "106",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-81 (rc) path:eco00020-85",
+        "SUID" : 166,
+        "name" : "path:eco00020-81 (rc) path:eco00020-85",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "irreversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-81 (rc) path:eco00020-85",
+        "KEGG_name" : "rn:R03270"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "165",
+        "source" : "109",
+        "target" : "110",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-81 (rc) path:eco00020-80",
+        "SUID" : 165,
+        "name" : "path:eco00020-81 (rc) path:eco00020-80",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "irreversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-81 (rc) path:eco00020-80",
+        "KEGG_name" : "rn:R03270"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "164",
+        "source" : "108",
+        "target" : "81",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-86 (rc) path:eco00020-63",
+        "SUID" : 164,
+        "name" : "path:eco00020-86 (rc) path:eco00020-63",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-86 (rc) path:eco00020-63",
+        "KEGG_name" : "rn:R02569"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "163",
+        "source" : "108",
+        "target" : "75",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-86 (rc) path:eco00020-95",
+        "SUID" : 163,
+        "name" : "path:eco00020-86 (rc) path:eco00020-95",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-86 (rc) path:eco00020-95",
+        "KEGG_name" : "rn:R02569"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "162",
+        "source" : "108",
+        "target" : "106",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-86 (rc) path:eco00020-85",
+        "SUID" : 162,
+        "name" : "path:eco00020-86 (rc) path:eco00020-85",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-86 (rc) path:eco00020-85",
+        "KEGG_name" : "rn:R02569"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "161",
+        "source" : "107",
+        "target" : "75",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-84 (rc) path:eco00020-95",
+        "SUID" : 161,
+        "name" : "path:eco00020-84 (rc) path:eco00020-95",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-84 (rc) path:eco00020-95",
+        "KEGG_name" : "rn:R07618"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "160",
+        "source" : "107",
+        "target" : "111",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-84 (rc) path:eco00020-82",
+        "SUID" : 160,
+        "name" : "path:eco00020-84 (rc) path:eco00020-82",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-84 (rc) path:eco00020-82",
+        "KEGG_name" : "rn:R07618"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "159",
+        "source" : "103",
+        "target" : "96",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-69 (cr) path:eco00020-31",
+        "SUID" : 159,
+        "name" : "path:eco00020-69 (cr) path:eco00020-31",
+        "KEGG_color" : "",
+        "interaction" : "cr",
+        "KEGG_reaction" : "irreversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "cr",
+        "shared_name" : "path:eco00020-69 (cr) path:eco00020-31",
+        "KEGG_name" : "rn:R03316"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "158",
+        "source" : "102",
+        "target" : "69",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-68 (cr) path:eco00020-91",
+        "SUID" : 158,
+        "name" : "path:eco00020-68 (cr) path:eco00020-91",
+        "KEGG_color" : "",
+        "interaction" : "cr",
+        "KEGG_reaction" : "irreversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "cr",
+        "shared_name" : "path:eco00020-68 (cr) path:eco00020-91",
+        "KEGG_name" : "rn:R00362"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "157",
+        "source" : "101",
+        "target" : "105",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-27 (rc) path:eco00020-67",
+        "SUID" : 157,
+        "name" : "path:eco00020-27 (rc) path:eco00020-67",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-27 (rc) path:eco00020-67",
+        "KEGG_name" : "rn:R00412"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "156",
+        "source" : "101",
+        "target" : "80",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-27 (rc) path:eco00020-60",
+        "SUID" : 156,
+        "name" : "path:eco00020-27 (rc) path:eco00020-60",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-27 (rc) path:eco00020-60",
+        "KEGG_name" : "rn:R00412"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "155",
+        "source" : "99",
+        "target" : "93",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-29 (rc) path:eco00020-72",
+        "SUID" : 155,
+        "name" : "path:eco00020-29 (rc) path:eco00020-72",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-29 (rc) path:eco00020-72",
+        "KEGG_name" : "rn:R07618"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "154",
+        "source" : "99",
+        "target" : "103",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-29 (rc) path:eco00020-69",
+        "SUID" : 154,
+        "name" : "path:eco00020-29 (rc) path:eco00020-69",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-29 (rc) path:eco00020-69",
+        "KEGG_name" : "rn:R07618"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "153",
+        "source" : "98",
+        "target" : "90",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-30 (rc) path:eco00020-75",
+        "SUID" : 153,
+        "name" : "path:eco00020-30 (rc) path:eco00020-75",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "irreversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-30 (rc) path:eco00020-75",
+        "KEGG_name" : "rn:R00621"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "152",
+        "source" : "97",
+        "target" : "92",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-32 (rc) path:eco00020-73",
+        "SUID" : 152,
+        "name" : "path:eco00020-32 (rc) path:eco00020-73",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-32 (rc) path:eco00020-73",
+        "KEGG_name" : "rn:R02570"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "151",
+        "source" : "97",
+        "target" : "93",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-32 (rc) path:eco00020-72",
+        "SUID" : 151,
+        "name" : "path:eco00020-32 (rc) path:eco00020-72",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-32 (rc) path:eco00020-72",
+        "KEGG_name" : "rn:R02570"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "150",
+        "source" : "97",
+        "target" : "94",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-32 (rc) path:eco00020-71",
+        "SUID" : 150,
+        "name" : "path:eco00020-32 (rc) path:eco00020-71",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-32 (rc) path:eco00020-71",
+        "KEGG_name" : "rn:R02570"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "149",
+        "source" : "96",
+        "target" : "95",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-31 (rc) path:eco00020-70",
+        "SUID" : 149,
+        "name" : "path:eco00020-31 (rc) path:eco00020-70",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "irreversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-31 (rc) path:eco00020-70",
+        "KEGG_name" : "rn:R03316"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "148",
+        "source" : "96",
+        "target" : "94",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-31 (rc) path:eco00020-71",
+        "SUID" : 148,
+        "name" : "path:eco00020-31 (rc) path:eco00020-71",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "irreversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-31 (rc) path:eco00020-71",
+        "KEGG_name" : "rn:R03316"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "147",
+        "source" : "95",
+        "target" : "98",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-70 (cr) path:eco00020-30",
+        "SUID" : 147,
+        "name" : "path:eco00020-70 (cr) path:eco00020-30",
+        "KEGG_color" : "",
+        "interaction" : "cr",
+        "KEGG_reaction" : "irreversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "cr",
+        "shared_name" : "path:eco00020-70 (cr) path:eco00020-30",
+        "KEGG_name" : "rn:R00621"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "146",
+        "source" : "91",
+        "target" : "98",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-74 (cr) path:eco00020-30",
+        "SUID" : 146,
+        "name" : "path:eco00020-74 (cr) path:eco00020-30",
+        "KEGG_color" : "",
+        "interaction" : "cr",
+        "KEGG_reaction" : "irreversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "cr",
+        "shared_name" : "path:eco00020-74 (cr) path:eco00020-30",
+        "KEGG_name" : "rn:R00621"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "145",
+        "source" : "90",
+        "target" : "96",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-75 (cr) path:eco00020-31",
+        "SUID" : 145,
+        "name" : "path:eco00020-75 (cr) path:eco00020-31",
+        "KEGG_color" : "",
+        "interaction" : "cr",
+        "KEGG_reaction" : "irreversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "cr",
+        "shared_name" : "path:eco00020-75 (cr) path:eco00020-31",
+        "KEGG_name" : "rn:R03316"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "144",
+        "source" : "89",
+        "target" : "124",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-59 (cr) path:eco00020-79",
+        "SUID" : 144,
+        "name" : "path:eco00020-59 (cr) path:eco00020-79",
+        "KEGG_color" : "",
+        "interaction" : "cr",
+        "KEGG_reaction" : "irreversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "cr",
+        "shared_name" : "path:eco00020-59 (cr) path:eco00020-79",
+        "KEGG_name" : "rn:R00014"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "143",
+        "source" : "88",
+        "target" : "91",
+        "KEGG_relation" : "maplink",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-58 (maplink) path:eco00020-74",
+        "SUID" : 143,
+        "name" : "path:eco00020-58 (maplink) path:eco00020-74",
+        "KEGG_color" : "",
+        "interaction" : "maplink",
+        "KEGG_reaction" : "",
+        "KEGG_type" : "",
+        "shared_interaction" : "maplink",
+        "shared_name" : "path:eco00020-58 (maplink) path:eco00020-74",
+        "KEGG_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "142",
+        "source" : "87",
+        "target" : "80",
+        "KEGG_relation" : "maplink",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-57 (maplink) path:eco00020-60",
+        "SUID" : 142,
+        "name" : "path:eco00020-57 (maplink) path:eco00020-60",
+        "KEGG_color" : "",
+        "interaction" : "maplink",
+        "KEGG_reaction" : "",
+        "KEGG_type" : "",
+        "shared_interaction" : "maplink",
+        "shared_name" : "path:eco00020-57 (maplink) path:eco00020-60",
+        "KEGG_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "141",
+        "source" : "86",
+        "target" : "79",
+        "KEGG_relation" : "maplink",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-56 (maplink) path:eco00020-61",
+        "SUID" : 141,
+        "name" : "path:eco00020-56 (maplink) path:eco00020-61",
+        "KEGG_color" : "",
+        "interaction" : "maplink",
+        "KEGG_reaction" : "",
+        "KEGG_type" : "",
+        "shared_interaction" : "maplink",
+        "shared_name" : "path:eco00020-56 (maplink) path:eco00020-61",
+        "KEGG_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "140",
+        "source" : "85",
+        "target" : "92",
+        "KEGG_relation" : "maplink",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-55 (maplink) path:eco00020-73",
+        "SUID" : 140,
+        "name" : "path:eco00020-55 (maplink) path:eco00020-73",
+        "KEGG_color" : "",
+        "interaction" : "maplink",
+        "KEGG_reaction" : "",
+        "KEGG_type" : "",
+        "shared_interaction" : "maplink",
+        "shared_name" : "path:eco00020-55 (maplink) path:eco00020-73",
+        "KEGG_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "139",
+        "source" : "79",
+        "target" : "72",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-61 (cr) path:eco00020-93",
+        "SUID" : 139,
+        "name" : "path:eco00020-61 (cr) path:eco00020-93",
+        "KEGG_color" : "",
+        "interaction" : "cr",
+        "KEGG_reaction" : "irreversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "cr",
+        "shared_name" : "path:eco00020-61 (cr) path:eco00020-93",
+        "KEGG_name" : "rn:R00341"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "138",
+        "source" : "78",
+        "target" : "81",
+        "KEGG_relation" : "maplink",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-49 (maplink) path:eco00020-63",
+        "SUID" : 138,
+        "name" : "path:eco00020-49 (maplink) path:eco00020-63",
+        "KEGG_color" : "",
+        "interaction" : "maplink",
+        "KEGG_reaction" : "",
+        "KEGG_type" : "",
+        "shared_interaction" : "maplink",
+        "shared_name" : "path:eco00020-49 (maplink) path:eco00020-63",
+        "KEGG_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "137",
+        "source" : "77",
+        "target" : "81",
+        "KEGG_relation" : "maplink",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-48 (maplink) path:eco00020-63",
+        "SUID" : 137,
+        "name" : "path:eco00020-48 (maplink) path:eco00020-63",
+        "KEGG_color" : "",
+        "interaction" : "maplink",
+        "KEGG_reaction" : "",
+        "KEGG_type" : "",
+        "shared_interaction" : "maplink",
+        "shared_name" : "path:eco00020-48 (maplink) path:eco00020-63",
+        "KEGG_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "136",
+        "source" : "72",
+        "target" : "76",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-93 (rc) path:eco00020-96",
+        "SUID" : 136,
+        "name" : "path:eco00020-93 (rc) path:eco00020-96",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "irreversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-93 (rc) path:eco00020-96",
+        "KEGG_name" : "rn:R00341"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "135",
+        "source" : "71",
+        "target" : "84",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-44 (rc) path:eco00020-64",
+        "SUID" : 135,
+        "name" : "path:eco00020-44 (rc) path:eco00020-64",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-44 (rc) path:eco00020-64",
+        "KEGG_name" : "rn:R00342"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "134",
+        "source" : "71",
+        "target" : "79",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-44 (rc) path:eco00020-61",
+        "SUID" : 134,
+        "name" : "path:eco00020-44 (rc) path:eco00020-61",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "reversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-44 (rc) path:eco00020-61",
+        "KEGG_name" : "rn:R00342"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "133",
+        "source" : "70",
+        "target" : "89",
+        "KEGG_relation" : "maplink",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-47 (maplink) path:eco00020-59",
+        "SUID" : 133,
+        "name" : "path:eco00020-47 (maplink) path:eco00020-59",
+        "KEGG_color" : "",
+        "interaction" : "maplink",
+        "KEGG_reaction" : "",
+        "KEGG_type" : "",
+        "shared_interaction" : "maplink",
+        "shared_name" : "path:eco00020-47 (maplink) path:eco00020-59",
+        "KEGG_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "132",
+        "source" : "70",
+        "target" : "76",
+        "KEGG_relation" : "maplink",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-47 (maplink) path:eco00020-96",
+        "SUID" : 132,
+        "name" : "path:eco00020-47 (maplink) path:eco00020-96",
+        "KEGG_color" : "",
+        "interaction" : "maplink",
+        "KEGG_reaction" : "",
+        "KEGG_type" : "",
+        "shared_interaction" : "maplink",
+        "shared_name" : "path:eco00020-47 (maplink) path:eco00020-96",
+        "KEGG_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "131",
+        "source" : "69",
+        "target" : "79",
+        "KEGG_relation" : "",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-91 (rc) path:eco00020-61",
+        "SUID" : 131,
+        "name" : "path:eco00020-91 (rc) path:eco00020-61",
+        "KEGG_color" : "",
+        "interaction" : "rc",
+        "KEGG_reaction" : "irreversible",
+        "KEGG_type" : "",
+        "shared_interaction" : "rc",
+        "shared_name" : "path:eco00020-91 (rc) path:eco00020-61",
+        "KEGG_name" : "rn:R00362"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "130",
+        "source" : "68",
+        "target" : "79",
+        "KEGG_relation" : "maplink",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-46 (maplink) path:eco00020-61",
+        "SUID" : 130,
+        "name" : "path:eco00020-46 (maplink) path:eco00020-61",
+        "KEGG_color" : "",
+        "interaction" : "maplink",
+        "KEGG_reaction" : "",
+        "KEGG_type" : "",
+        "shared_interaction" : "maplink",
+        "shared_name" : "path:eco00020-46 (maplink) path:eco00020-61",
+        "KEGG_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "129",
+        "source" : "67",
+        "target" : "91",
+        "KEGG_relation" : "maplink",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-51 (maplink) path:eco00020-74",
+        "SUID" : 129,
+        "name" : "path:eco00020-51 (maplink) path:eco00020-74",
+        "KEGG_color" : "",
+        "interaction" : "maplink",
+        "KEGG_reaction" : "",
+        "KEGG_type" : "",
+        "shared_interaction" : "maplink",
+        "shared_name" : "path:eco00020-51 (maplink) path:eco00020-74",
+        "KEGG_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "128",
+        "source" : "66",
+        "target" : "91",
+        "KEGG_relation" : "maplink",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-52 (maplink) path:eco00020-74",
+        "SUID" : 128,
+        "name" : "path:eco00020-52 (maplink) path:eco00020-74",
+        "KEGG_color" : "",
+        "interaction" : "maplink",
+        "KEGG_reaction" : "",
+        "KEGG_type" : "",
+        "shared_interaction" : "maplink",
+        "shared_name" : "path:eco00020-52 (maplink) path:eco00020-74",
+        "KEGG_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "127",
+        "source" : "65",
+        "target" : "80",
+        "KEGG_relation" : "maplink",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-54 (maplink) path:eco00020-60",
+        "SUID" : 127,
+        "name" : "path:eco00020-54 (maplink) path:eco00020-60",
+        "KEGG_color" : "",
+        "interaction" : "maplink",
+        "KEGG_reaction" : "",
+        "KEGG_type" : "",
+        "shared_interaction" : "maplink",
+        "shared_name" : "path:eco00020-54 (maplink) path:eco00020-60",
+        "KEGG_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "126",
+        "source" : "63",
+        "target" : "81",
+        "KEGG_relation" : "maplink",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-89 (maplink) path:eco00020-63",
+        "SUID" : 126,
+        "name" : "path:eco00020-89 (maplink) path:eco00020-63",
+        "KEGG_color" : "",
+        "interaction" : "maplink",
+        "KEGG_reaction" : "",
+        "KEGG_type" : "",
+        "shared_interaction" : "maplink",
+        "shared_name" : "path:eco00020-89 (maplink) path:eco00020-63",
+        "KEGG_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "125",
+        "source" : "62",
+        "target" : "81",
+        "KEGG_relation" : "maplink",
+        "KEGG_link" : "",
+        "selected" : false,
+        "canonicalName" : "path:eco00020-50 (maplink) path:eco00020-63",
+        "SUID" : 125,
+        "name" : "path:eco00020-50 (maplink) path:eco00020-63",
+        "KEGG_color" : "",
+        "interaction" : "maplink",
+        "KEGG_reaction" : "",
+        "KEGG_type" : "",
+        "shared_interaction" : "maplink",
+        "shared_name" : "path:eco00020-50 (maplink) path:eco00020-63",
+        "KEGG_name" : ""
+      },
+      "selected" : false
+    } ]
+  }
+}
