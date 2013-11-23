@@ -1,0 +1,5610 @@
+{
+  "nodes" : [ {
+    "id" : "1480",
+    "shared_name" : "YDL194W",
+    "SUID" : 1480,
+    "selected" : false,
+    "name" : "YDL194W"
+  }, {
+    "id" : "1478",
+    "shared_name" : "YDR277C",
+    "SUID" : 1478,
+    "selected" : false,
+    "name" : "YDR277C"
+  }, {
+    "id" : "1476",
+    "shared_name" : "YBR043C",
+    "SUID" : 1476,
+    "selected" : false,
+    "name" : "YBR043C"
+  }, {
+    "id" : "1472",
+    "shared_name" : "YPR145W",
+    "SUID" : 1472,
+    "selected" : false,
+    "name" : "YPR145W"
+  }, {
+    "id" : "1469",
+    "shared_name" : "YER054C",
+    "SUID" : 1469,
+    "selected" : false,
+    "name" : "YER054C"
+  }, {
+    "id" : "1466",
+    "shared_name" : "YBR045C",
+    "SUID" : 1466,
+    "selected" : false,
+    "name" : "YBR045C"
+  }, {
+    "id" : "1464",
+    "shared_name" : "YBL079W",
+    "SUID" : 1464,
+    "selected" : false,
+    "name" : "YBL079W"
+  }, {
+    "id" : "1462",
+    "shared_name" : "YLR345W",
+    "SUID" : 1462,
+    "selected" : false,
+    "name" : "YLR345W"
+  }, {
+    "id" : "1458",
+    "shared_name" : "YIL052C",
+    "SUID" : 1458,
+    "selected" : false,
+    "name" : "YIL052C"
+  }, {
+    "id" : "1456",
+    "shared_name" : "YER056CA",
+    "SUID" : 1456,
+    "selected" : false,
+    "name" : "YER056CA"
+  }, {
+    "id" : "1454",
+    "shared_name" : "YNL069C",
+    "SUID" : 1454,
+    "selected" : false,
+    "name" : "YNL069C"
+  }, {
+    "id" : "1451",
+    "shared_name" : "YDL075W",
+    "SUID" : 1451,
+    "selected" : false,
+    "name" : "YDL075W"
+  }, {
+    "id" : "1449",
+    "shared_name" : "YFR014C",
+    "SUID" : 1449,
+    "selected" : false,
+    "name" : "YFR014C"
+  }, {
+    "id" : "1446",
+    "shared_name" : "YGR136W",
+    "SUID" : 1446,
+    "selected" : false,
+    "name" : "YGR136W"
+  }, {
+    "id" : "1444",
+    "shared_name" : "YDL023C",
+    "SUID" : 1444,
+    "selected" : false,
+    "name" : "YDL023C"
+  }, {
+    "id" : "1440",
+    "shared_name" : "YBR170C",
+    "SUID" : 1440,
+    "selected" : false,
+    "name" : "YBR170C"
+  }, {
+    "id" : "1437",
+    "shared_name" : "YGR074W",
+    "SUID" : 1437,
+    "selected" : false,
+    "name" : "YGR074W"
+  }, {
+    "id" : "1436",
+    "shared_name" : "YGL202W",
+    "SUID" : 1436,
+    "selected" : false,
+    "name" : "YGL202W"
+  }, {
+    "id" : "1433",
+    "shared_name" : "YLR197W",
+    "SUID" : 1433,
+    "selected" : false,
+    "name" : "YLR197W"
+  }, {
+    "id" : "1431",
+    "shared_name" : "YDL088C",
+    "SUID" : 1431,
+    "selected" : false,
+    "name" : "YDL088C"
+  }, {
+    "id" : "1425",
+    "shared_name" : "YOR215C",
+    "SUID" : 1425,
+    "selected" : false,
+    "name" : "YOR215C"
+  }, {
+    "id" : "1423",
+    "shared_name" : "YPR010C",
+    "SUID" : 1423,
+    "selected" : false,
+    "name" : "YPR010C"
+  }, {
+    "id" : "1421",
+    "shared_name" : "YMR117C",
+    "SUID" : 1421,
+    "selected" : false,
+    "name" : "YMR117C"
+  }, {
+    "id" : "1419",
+    "shared_name" : "YML114C",
+    "SUID" : 1419,
+    "selected" : false,
+    "name" : "YML114C"
+  }, {
+    "id" : "1417",
+    "shared_name" : "YNL036W",
+    "SUID" : 1417,
+    "selected" : false,
+    "name" : "YNL036W"
+  }, {
+    "id" : "1415",
+    "shared_name" : "YOR212W",
+    "SUID" : 1415,
+    "selected" : false,
+    "name" : "YOR212W"
+  }, {
+    "id" : "1412",
+    "shared_name" : "YDR070C",
+    "SUID" : 1412,
+    "selected" : false,
+    "name" : "YDR070C"
+  }, {
+    "id" : "1405",
+    "shared_name" : "YNL164C",
+    "SUID" : 1405,
+    "selected" : false,
+    "name" : "YNL164C"
+  }, {
+    "id" : "1403",
+    "shared_name" : "YGR046W",
+    "SUID" : 1403,
+    "selected" : false,
+    "name" : "YGR046W"
+  }, {
+    "id" : "1401",
+    "shared_name" : "YLR153C",
+    "SUID" : 1401,
+    "selected" : false,
+    "name" : "YLR153C"
+  }, {
+    "id" : "1397",
+    "shared_name" : "YIL070C",
+    "SUID" : 1397,
+    "selected" : false,
+    "name" : "YIL070C"
+  }, {
+    "id" : "1395",
+    "shared_name" : "YPR113W",
+    "SUID" : 1395,
+    "selected" : false,
+    "name" : "YPR113W"
+  }, {
+    "id" : "1393",
+    "shared_name" : "YER081W",
+    "SUID" : 1393,
+    "selected" : false,
+    "name" : "YER081W"
+  }, {
+    "id" : "1391",
+    "shared_name" : "YGR088W",
+    "SUID" : 1391,
+    "selected" : false,
+    "name" : "YGR088W"
+  }, {
+    "id" : "1388",
+    "shared_name" : "YDR395W",
+    "SUID" : 1388,
+    "selected" : false,
+    "name" : "YDR395W"
+  }, {
+    "id" : "1386",
+    "shared_name" : "YGR085C",
+    "SUID" : 1386,
+    "selected" : false,
+    "name" : "YGR085C"
+  }, {
+    "id" : "1379",
+    "shared_name" : "YER124C",
+    "SUID" : 1379,
+    "selected" : false,
+    "name" : "YER124C"
+  }, {
+    "id" : "1377",
+    "shared_name" : "YMR005W",
+    "SUID" : 1377,
+    "selected" : false,
+    "name" : "YMR005W"
+  }, {
+    "id" : "1375",
+    "shared_name" : "YDL030W",
+    "SUID" : 1375,
+    "selected" : false,
+    "name" : "YDL030W"
+  }, {
+    "id" : "1372",
+    "shared_name" : "YER079W",
+    "SUID" : 1372,
+    "selected" : false,
+    "name" : "YER079W"
+  }, {
+    "id" : "1369",
+    "shared_name" : "YDL215C",
+    "SUID" : 1369,
+    "selected" : false,
+    "name" : "YDL215C"
+  }, {
+    "id" : "1366",
+    "shared_name" : "YIL045W",
+    "SUID" : 1366,
+    "selected" : false,
+    "name" : "YIL045W"
+  }, {
+    "id" : "1360",
+    "shared_name" : "YPR041W",
+    "SUID" : 1360,
+    "selected" : false,
+    "name" : "YPR041W"
+  }, {
+    "id" : "1358",
+    "shared_name" : "YOR120W",
+    "SUID" : 1358,
+    "selected" : false,
+    "name" : "YOR120W"
+  }, {
+    "id" : "1351",
+    "shared_name" : "YIL074C",
+    "SUID" : 1351,
+    "selected" : false,
+    "name" : "YIL074C"
+  }, {
+    "id" : "1349",
+    "shared_name" : "YDR299W",
+    "SUID" : 1349,
+    "selected" : false,
+    "name" : "YDR299W"
+  }, {
+    "id" : "1347",
+    "shared_name" : "YHR005C",
+    "SUID" : 1347,
+    "selected" : false,
+    "name" : "YHR005C"
+  }, {
+    "id" : "1346",
+    "shared_name" : "YLR452C",
+    "SUID" : 1346,
+    "selected" : false,
+    "name" : "YLR452C"
+  }, {
+    "id" : "1344",
+    "shared_name" : "YMR255W",
+    "SUID" : 1344,
+    "selected" : false,
+    "name" : "YMR255W"
+  }, {
+    "id" : "1343",
+    "shared_name" : "YBR274W",
+    "SUID" : 1343,
+    "selected" : false,
+    "name" : "YBR274W"
+  }, {
+    "id" : "1341",
+    "shared_name" : "YHR084W",
+    "SUID" : 1341,
+    "selected" : false,
+    "name" : "YHR084W"
+  }, {
+    "id" : "1338",
+    "shared_name" : "YBL050W",
+    "SUID" : 1338,
+    "selected" : false,
+    "name" : "YBL050W"
+  }, {
+    "id" : "1336",
+    "shared_name" : "YBL026W",
+    "SUID" : 1336,
+    "selected" : false,
+    "name" : "YBL026W"
+  }, {
+    "id" : "1332",
+    "shared_name" : "YJL194W",
+    "SUID" : 1332,
+    "selected" : false,
+    "name" : "YJL194W"
+  }, {
+    "id" : "1330",
+    "shared_name" : "YLR258W",
+    "SUID" : 1330,
+    "selected" : false,
+    "name" : "YLR258W"
+  }, {
+    "id" : "1328",
+    "shared_name" : "YGL134W",
+    "SUID" : 1328,
+    "selected" : false,
+    "name" : "YGL134W"
+  }, {
+    "id" : "1326",
+    "shared_name" : "YHR055C",
+    "SUID" : 1326,
+    "selected" : false,
+    "name" : "YHR055C"
+  }, {
+    "id" : "1324",
+    "shared_name" : "YHR053C",
+    "SUID" : 1324,
+    "selected" : false,
+    "name" : "YHR053C"
+  }, {
+    "id" : "1322",
+    "shared_name" : "YPR124W",
+    "SUID" : 1322,
+    "selected" : false,
+    "name" : "YPR124W"
+  }, {
+    "id" : "1320",
+    "shared_name" : "YNL135C",
+    "SUID" : 1320,
+    "selected" : false,
+    "name" : "YNL135C"
+  }, {
+    "id" : "1319",
+    "shared_name" : "YER052C",
+    "SUID" : 1319,
+    "selected" : false,
+    "name" : "YER052C"
+  }, {
+    "id" : "1316",
+    "shared_name" : "YLR284C",
+    "SUID" : 1316,
+    "selected" : false,
+    "name" : "YLR284C"
+  }, {
+    "id" : "1314",
+    "shared_name" : "YHR198C",
+    "SUID" : 1314,
+    "selected" : false,
+    "name" : "YHR198C"
+  }, {
+    "id" : "1310",
+    "shared_name" : "YPL240C",
+    "SUID" : 1310,
+    "selected" : false,
+    "name" : "YPL240C"
+  }, {
+    "id" : "1307",
+    "shared_name" : "YPR102C",
+    "SUID" : 1307,
+    "selected" : false,
+    "name" : "YPR102C"
+  }, {
+    "id" : "1306",
+    "shared_name" : "YLR075W",
+    "SUID" : 1306,
+    "selected" : false,
+    "name" : "YLR075W"
+  }, {
+    "id" : "1303",
+    "shared_name" : "YKL161C",
+    "SUID" : 1303,
+    "selected" : false,
+    "name" : "YKL161C"
+  }, {
+    "id" : "1300",
+    "shared_name" : "YAR007C",
+    "SUID" : 1300,
+    "selected" : false,
+    "name" : "YAR007C"
+  }, {
+    "id" : "1287",
+    "shared_name" : "YIL160C",
+    "SUID" : 1287,
+    "selected" : false,
+    "name" : "YIL160C"
+  }, {
+    "id" : "1283",
+    "shared_name" : "YDL078C",
+    "SUID" : 1283,
+    "selected" : false,
+    "name" : "YDL078C"
+  }, {
+    "id" : "1281",
+    "shared_name" : "YDR142C",
+    "SUID" : 1281,
+    "selected" : false,
+    "name" : "YDR142C"
+  }, {
+    "id" : "1277",
+    "shared_name" : "YDR244W",
+    "SUID" : 1277,
+    "selected" : false,
+    "name" : "YDR244W"
+  }, {
+    "id" : "1274",
+    "shared_name" : "YLR432W",
+    "SUID" : 1274,
+    "selected" : false,
+    "name" : "YLR432W"
+  }, {
+    "id" : "1273",
+    "shared_name" : "YDR167W",
+    "SUID" : 1273,
+    "selected" : false,
+    "name" : "YDR167W"
+  }, {
+    "id" : "1271",
+    "shared_name" : "YLR175W",
+    "SUID" : 1271,
+    "selected" : false,
+    "name" : "YLR175W"
+  }, {
+    "id" : "1269",
+    "shared_name" : "YNL117W",
+    "SUID" : 1269,
+    "selected" : false,
+    "name" : "YNL117W"
+  }, {
+    "id" : "1267",
+    "shared_name" : "YOR089C",
+    "SUID" : 1267,
+    "selected" : false,
+    "name" : "YOR089C"
+  }, {
+    "id" : "1265",
+    "shared_name" : "YPR167C",
+    "SUID" : 1265,
+    "selected" : false,
+    "name" : "YPR167C"
+  }, {
+    "id" : "1263",
+    "shared_name" : "YNL214W",
+    "SUID" : 1263,
+    "selected" : false,
+    "name" : "YNL214W"
+  }, {
+    "id" : "1261",
+    "shared_name" : "YBR135W",
+    "SUID" : 1261,
+    "selected" : false,
+    "name" : "YBR135W"
+  }, {
+    "id" : "1259",
+    "shared_name" : "YML007W",
+    "SUID" : 1259,
+    "selected" : false,
+    "name" : "YML007W"
+  }, {
+    "id" : "1258",
+    "shared_name" : "YER110C",
+    "SUID" : 1258,
+    "selected" : false,
+    "name" : "YER110C"
+  }, {
+    "id" : "1256",
+    "shared_name" : "YGL153W",
+    "SUID" : 1256,
+    "selected" : false,
+    "name" : "YGL153W"
+  }, {
+    "id" : "1255",
+    "shared_name" : "YLR191W",
+    "SUID" : 1255,
+    "selected" : false,
+    "name" : "YLR191W"
+  }, {
+    "id" : "1251",
+    "shared_name" : "YOL149W",
+    "SUID" : 1251,
+    "selected" : false,
+    "name" : "YOL149W"
+  }, {
+    "id" : "1249",
+    "shared_name" : "YMR044W",
+    "SUID" : 1249,
+    "selected" : false,
+    "name" : "YMR044W"
+  }, {
+    "id" : "1247",
+    "shared_name" : "YOR362C",
+    "SUID" : 1247,
+    "selected" : false,
+    "name" : "YOR362C"
+  }, {
+    "id" : "1245",
+    "shared_name" : "YER102W",
+    "SUID" : 1245,
+    "selected" : false,
+    "name" : "YER102W"
+  }, {
+    "id" : "1243",
+    "shared_name" : "YOL059W",
+    "SUID" : 1243,
+    "selected" : false,
+    "name" : "YOL059W"
+  }, {
+    "id" : "1241",
+    "shared_name" : "YBR190W",
+    "SUID" : 1241,
+    "selected" : false,
+    "name" : "YBR190W"
+  }, {
+    "id" : "1235",
+    "shared_name" : "YER103W",
+    "SUID" : 1235,
+    "selected" : false,
+    "name" : "YER103W"
+  }, {
+    "id" : "1233",
+    "shared_name" : "YPR110C",
+    "SUID" : 1233,
+    "selected" : false,
+    "name" : "YPR110C"
+  }, {
+    "id" : "1232",
+    "shared_name" : "YNL113W",
+    "SUID" : 1232,
+    "selected" : false,
+    "name" : "YNL113W"
+  }, {
+    "id" : "1230",
+    "shared_name" : "YDR354W",
+    "SUID" : 1230,
+    "selected" : false,
+    "name" : "YDR354W"
+  }, {
+    "id" : "1228",
+    "shared_name" : "YER090W",
+    "SUID" : 1228,
+    "selected" : false,
+    "name" : "YER090W"
+  }, {
+    "id" : "1227",
+    "shared_name" : "YKL211C",
+    "SUID" : 1227,
+    "selected" : false,
+    "name" : "YKL211C"
+  }, {
+    "id" : "1224",
+    "shared_name" : "YDR146C",
+    "SUID" : 1224,
+    "selected" : false,
+    "name" : "YDR146C"
+  }, {
+    "id" : "1222",
+    "shared_name" : "YER111C",
+    "SUID" : 1222,
+    "selected" : false,
+    "name" : "YER111C"
+  }, {
+    "id" : "1220",
+    "shared_name" : "YOR039W",
+    "SUID" : 1220,
+    "selected" : false,
+    "name" : "YOR039W"
+  }, {
+    "id" : "1218",
+    "shared_name" : "YML024W",
+    "SUID" : 1218,
+    "selected" : false,
+    "name" : "YML024W"
+  }, {
+    "id" : "1216",
+    "shared_name" : "YIL113W",
+    "SUID" : 1216,
+    "selected" : false,
+    "name" : "YIL113W"
+  }, {
+    "id" : "1215",
+    "shared_name" : "YLL019C",
+    "SUID" : 1215,
+    "selected" : false,
+    "name" : "YLL019C"
+  }, {
+    "id" : "1213",
+    "shared_name" : "YDR009W",
+    "SUID" : 1213,
+    "selected" : false,
+    "name" : "YDR009W"
+  }, {
+    "id" : "1211",
+    "shared_name" : "YML051W",
+    "SUID" : 1211,
+    "selected" : false,
+    "name" : "YML051W"
+  }, {
+    "id" : "1208",
+    "shared_name" : "YHR071W",
+    "SUID" : 1208,
+    "selected" : false,
+    "name" : "YHR071W"
+  }, {
+    "id" : "1207",
+    "shared_name" : "YPL031C",
+    "SUID" : 1207,
+    "selected" : false,
+    "name" : "YPL031C"
+  }, {
+    "id" : "1205",
+    "shared_name" : "YML123C",
+    "SUID" : 1205,
+    "selected" : false,
+    "name" : "YML123C"
+  }, {
+    "id" : "1203",
+    "shared_name" : "YER145C",
+    "SUID" : 1203,
+    "selected" : false,
+    "name" : "YER145C"
+  }, {
+    "id" : "1202",
+    "shared_name" : "YMR058W",
+    "SUID" : 1202,
+    "selected" : false,
+    "name" : "YMR058W"
+  }, {
+    "id" : "1200",
+    "shared_name" : "YJL190C",
+    "SUID" : 1200,
+    "selected" : false,
+    "name" : "YJL190C"
+  }, {
+    "id" : "1199",
+    "shared_name" : "YML074C",
+    "SUID" : 1199,
+    "selected" : false,
+    "name" : "YML074C"
+  }, {
+    "id" : "1197",
+    "shared_name" : "YOR355W",
+    "SUID" : 1197,
+    "selected" : false,
+    "name" : "YOR355W"
+  }, {
+    "id" : "1195",
+    "shared_name" : "YFL038C",
+    "SUID" : 1195,
+    "selected" : false,
+    "name" : "YFL038C"
+  }, {
+    "id" : "1193",
+    "shared_name" : "YIL162W",
+    "SUID" : 1193,
+    "selected" : false,
+    "name" : "YIL162W"
+  }, {
+    "id" : "1189",
+    "shared_name" : "YBR050C",
+    "SUID" : 1189,
+    "selected" : false,
+    "name" : "YBR050C"
+  }, {
+    "id" : "1187",
+    "shared_name" : "YMR311C",
+    "SUID" : 1187,
+    "selected" : false,
+    "name" : "YMR311C"
+  }, {
+    "id" : "1185",
+    "shared_name" : "YOR315W",
+    "SUID" : 1185,
+    "selected" : false,
+    "name" : "YOR315W"
+  }, {
+    "id" : "1183",
+    "shared_name" : "YOR178C",
+    "SUID" : 1183,
+    "selected" : false,
+    "name" : "YOR178C"
+  }, {
+    "id" : "1181",
+    "shared_name" : "YER133W",
+    "SUID" : 1181,
+    "selected" : false,
+    "name" : "YER133W"
+  }, {
+    "id" : "1179",
+    "shared_name" : "YOR290C",
+    "SUID" : 1179,
+    "selected" : false,
+    "name" : "YOR290C"
+  }, {
+    "id" : "1178",
+    "shared_name" : "YFR037C",
+    "SUID" : 1178,
+    "selected" : false,
+    "name" : "YFR037C"
+  }, {
+    "id" : "1176",
+    "shared_name" : "YFR034C",
+    "SUID" : 1176,
+    "selected" : false,
+    "name" : "YFR034C"
+  }, {
+    "id" : "1174",
+    "shared_name" : "YAL040C",
+    "SUID" : 1174,
+    "selected" : false,
+    "name" : "YAL040C"
+  }, {
+    "id" : "1172",
+    "shared_name" : "YPL222W",
+    "SUID" : 1172,
+    "selected" : false,
+    "name" : "YPL222W"
+  }, {
+    "id" : "1171",
+    "shared_name" : "YGR048W",
+    "SUID" : 1171,
+    "selected" : false,
+    "name" : "YGR048W"
+  }, {
+    "id" : "1169",
+    "shared_name" : "YMR291W",
+    "SUID" : 1169,
+    "selected" : false,
+    "name" : "YMR291W"
+  }, {
+    "id" : "1167",
+    "shared_name" : "YGR009C",
+    "SUID" : 1167,
+    "selected" : false,
+    "name" : "YGR009C"
+  }, {
+    "id" : "1166",
+    "shared_name" : "YMR183C",
+    "SUID" : 1166,
+    "selected" : false,
+    "name" : "YMR183C"
+  }, {
+    "id" : "1164",
+    "shared_name" : "YDR100W",
+    "SUID" : 1164,
+    "selected" : false,
+    "name" : "YDR100W"
+  }, {
+    "id" : "1163",
+    "shared_name" : "YGL161C",
+    "SUID" : 1163,
+    "selected" : false,
+    "name" : "YGL161C"
+  }, {
+    "id" : "1161",
+    "shared_name" : "YPL131W",
+    "SUID" : 1161,
+    "selected" : false,
+    "name" : "YPL131W"
+  }, {
+    "id" : "1160",
+    "shared_name" : "YDL063C",
+    "SUID" : 1160,
+    "selected" : false,
+    "name" : "YDL063C"
+  }, {
+    "id" : "1158",
+    "shared_name" : "YNL167C",
+    "SUID" : 1158,
+    "selected" : false,
+    "name" : "YNL167C"
+  }, {
+    "id" : "1156",
+    "shared_name" : "YHR115C",
+    "SUID" : 1156,
+    "selected" : false,
+    "name" : "YHR115C"
+  }, {
+    "id" : "1155",
+    "shared_name" : "YEL041W",
+    "SUID" : 1155,
+    "selected" : false,
+    "name" : "YEL041W"
+  }, {
+    "id" : "1153",
+    "shared_name" : "YDL113C",
+    "SUID" : 1153,
+    "selected" : false,
+    "name" : "YDL113C"
+  }, {
+    "id" : "1152",
+    "shared_name" : "YJL036W",
+    "SUID" : 1152,
+    "selected" : false,
+    "name" : "YJL036W"
+  }, {
+    "id" : "1150",
+    "shared_name" : "YBR109C",
+    "SUID" : 1150,
+    "selected" : false,
+    "name" : "YBR109C"
+  }, {
+    "id" : "1149",
+    "shared_name" : "YOL016C",
+    "SUID" : 1149,
+    "selected" : false,
+    "name" : "YOL016C"
+  }, {
+    "id" : "1146",
+    "shared_name" : "YKL001C",
+    "SUID" : 1146,
+    "selected" : false,
+    "name" : "YKL001C"
+  }, {
+    "id" : "1145",
+    "shared_name" : "YNL311C",
+    "SUID" : 1145,
+    "selected" : false,
+    "name" : "YNL311C"
+  }, {
+    "id" : "1143",
+    "shared_name" : "YLR319C",
+    "SUID" : 1143,
+    "selected" : false,
+    "name" : "YLR319C"
+  }, {
+    "id" : "1141",
+    "shared_name" : "YPR062W",
+    "SUID" : 1141,
+    "selected" : false,
+    "name" : "YPR062W"
+  }, {
+    "id" : "1138",
+    "shared_name" : "YPL111W",
+    "SUID" : 1138,
+    "selected" : false,
+    "name" : "YPL111W"
+  }, {
+    "id" : "1136",
+    "shared_name" : "YDL236W",
+    "SUID" : 1136,
+    "selected" : false,
+    "name" : "YDL236W"
+  }, {
+    "id" : "1135",
+    "shared_name" : "YNL189W",
+    "SUID" : 1135,
+    "selected" : false,
+    "name" : "YNL189W"
+  }, {
+    "id" : "1133",
+    "shared_name" : "YBL069W",
+    "SUID" : 1133,
+    "selected" : false,
+    "name" : "YBL069W"
+  }, {
+    "id" : "1130",
+    "shared_name" : "YGL073W",
+    "SUID" : 1130,
+    "selected" : false,
+    "name" : "YGL073W"
+  }, {
+    "id" : "1129",
+    "shared_name" : "YBR072W",
+    "SUID" : 1129,
+    "selected" : false,
+    "name" : "YBR072W"
+  }, {
+    "id" : "1127",
+    "shared_name" : "YLR321C",
+    "SUID" : 1127,
+    "selected" : false,
+    "name" : "YLR321C"
+  }, {
+    "id" : "1124",
+    "shared_name" : "YPR048W",
+    "SUID" : 1124,
+    "selected" : false,
+    "name" : "YPR048W"
+  }, {
+    "id" : "1120",
+    "shared_name" : "YNL199C",
+    "SUID" : 1120,
+    "selected" : false,
+    "name" : "YNL199C"
+  }, {
+    "id" : "1116",
+    "shared_name" : "YPL075W",
+    "SUID" : 1116,
+    "selected" : false,
+    "name" : "YPL075W"
+  }, {
+    "id" : "1114",
+    "shared_name" : "YHR179W",
+    "SUID" : 1114,
+    "selected" : false,
+    "name" : "YHR179W"
+  }, {
+    "id" : "1112",
+    "shared_name" : "YCL040W",
+    "SUID" : 1112,
+    "selected" : false,
+    "name" : "YCL040W"
+  }, {
+    "id" : "1110",
+    "shared_name" : "YFL039C",
+    "SUID" : 1110,
+    "selected" : false,
+    "name" : "YFL039C"
+  }, {
+    "id" : "1108",
+    "shared_name" : "YDL130W",
+    "SUID" : 1108,
+    "selected" : false,
+    "name" : "YDL130W"
+  }, {
+    "id" : "1107",
+    "shared_name" : "YDR382W",
+    "SUID" : 1107,
+    "selected" : false,
+    "name" : "YDR382W"
+  }, {
+    "id" : "1105",
+    "shared_name" : "YJR066W",
+    "SUID" : 1105,
+    "selected" : false,
+    "name" : "YJR066W"
+  }, {
+    "id" : "1103",
+    "shared_name" : "?",
+    "SUID" : 1103,
+    "selected" : false,
+    "name" : "?"
+  }, {
+    "id" : "1101",
+    "shared_name" : "YKL204W",
+    "SUID" : 1101,
+    "selected" : false,
+    "name" : "YKL204W"
+  }, {
+    "id" : "1100",
+    "shared_name" : "YNL154C",
+    "SUID" : 1100,
+    "selected" : false,
+    "name" : "YNL154C"
+  }, {
+    "id" : "1098",
+    "shared_name" : "YNL047C",
+    "SUID" : 1098,
+    "selected" : false,
+    "name" : "YNL047C"
+  }, {
+    "id" : "1096",
+    "shared_name" : "YNL116W",
+    "SUID" : 1096,
+    "selected" : false,
+    "name" : "YNL116W"
+  }, {
+    "id" : "1095",
+    "shared_name" : "YHR135C",
+    "SUID" : 1095,
+    "selected" : false,
+    "name" : "YHR135C"
+  }, {
+    "id" : "1093",
+    "shared_name" : "YML064C",
+    "SUID" : 1093,
+    "selected" : false,
+    "name" : "YML064C"
+  }, {
+    "id" : "1091",
+    "shared_name" : "YKL074C",
+    "SUID" : 1091,
+    "selected" : false,
+    "name" : "YKL074C"
+  }, {
+    "id" : "1089",
+    "shared_name" : "YLR340W",
+    "SUID" : 1089,
+    "selected" : false,
+    "name" : "YLR340W"
+  }, {
+    "id" : "1088",
+    "shared_name" : "YDL081C",
+    "SUID" : 1088,
+    "selected" : false,
+    "name" : "YDL081C"
+  }, {
+    "id" : "1085",
+    "shared_name" : "YGL166W",
+    "SUID" : 1085,
+    "selected" : false,
+    "name" : "YGL166W"
+  }, {
+    "id" : "1084",
+    "shared_name" : "YLL028W",
+    "SUID" : 1084,
+    "selected" : false,
+    "name" : "YLL028W"
+  }, {
+    "id" : "1082",
+    "shared_name" : "YDR174W",
+    "SUID" : 1082,
+    "selected" : false,
+    "name" : "YDR174W"
+  }, {
+    "id" : "1081",
+    "shared_name" : "YDR335W",
+    "SUID" : 1081,
+    "selected" : false,
+    "name" : "YDR335W"
+  }, {
+    "id" : "1079",
+    "shared_name" : "YLR214W",
+    "SUID" : 1079,
+    "selected" : false,
+    "name" : "YLR214W"
+  }, {
+    "id" : "1078",
+    "shared_name" : "YMR021C",
+    "SUID" : 1078,
+    "selected" : false,
+    "name" : "YMR021C"
+  }, {
+    "id" : "1076",
+    "shared_name" : "YLR377C",
+    "SUID" : 1076,
+    "selected" : false,
+    "name" : "YLR377C"
+  }, {
+    "id" : "1073",
+    "shared_name" : "YER065C",
+    "SUID" : 1073,
+    "selected" : false,
+    "name" : "YER065C"
+  }, {
+    "id" : "1072",
+    "shared_name" : "YJL089W",
+    "SUID" : 1072,
+    "selected" : false,
+    "name" : "YJL089W"
+  }, {
+    "id" : "1070",
+    "shared_name" : "YHR030C",
+    "SUID" : 1070,
+    "selected" : false,
+    "name" : "YHR030C"
+  }, {
+    "id" : "1069",
+    "shared_name" : "YPL089C",
+    "SUID" : 1069,
+    "selected" : false,
+    "name" : "YPL089C"
+  }, {
+    "id" : "1067",
+    "shared_name" : "YGL208W",
+    "SUID" : 1067,
+    "selected" : false,
+    "name" : "YGL208W"
+  }, {
+    "id" : "1066",
+    "shared_name" : "YGL115W",
+    "SUID" : 1066,
+    "selected" : false,
+    "name" : "YGL115W"
+  }, {
+    "id" : "1064",
+    "shared_name" : "YLR310C",
+    "SUID" : 1064,
+    "selected" : false,
+    "name" : "YLR310C"
+  }, {
+    "id" : "1063",
+    "shared_name" : "YNL098C",
+    "SUID" : 1063,
+    "selected" : false,
+    "name" : "YNL098C"
+  }, {
+    "id" : "1061",
+    "shared_name" : "YGR019W",
+    "SUID" : 1061,
+    "selected" : false,
+    "name" : "YGR019W"
+  }, {
+    "id" : "1059",
+    "shared_name" : "YPR035W",
+    "SUID" : 1059,
+    "selected" : false,
+    "name" : "YPR035W"
+  }, {
+    "id" : "1058",
+    "shared_name" : "YER040W",
+    "SUID" : 1058,
+    "selected" : false,
+    "name" : "YER040W"
+  }, {
+    "id" : "1056",
+    "shared_name" : "YGL008C",
+    "SUID" : 1056,
+    "selected" : false,
+    "name" : "YGL008C"
+  }, {
+    "id" : "1054",
+    "shared_name" : "YOR036W",
+    "SUID" : 1054,
+    "selected" : false,
+    "name" : "YOR036W"
+  }, {
+    "id" : "1053",
+    "shared_name" : "YDR323C",
+    "SUID" : 1053,
+    "selected" : false,
+    "name" : "YDR323C"
+  }, {
+    "id" : "1051",
+    "shared_name" : "YBL005W",
+    "SUID" : 1051,
+    "selected" : false,
+    "name" : "YBL005W"
+  }, {
+    "id" : "1045",
+    "shared_name" : "YBR160W",
+    "SUID" : 1045,
+    "selected" : false,
+    "name" : "YBR160W"
+  }, {
+    "id" : "1044",
+    "shared_name" : "YKL101W",
+    "SUID" : 1044,
+    "selected" : false,
+    "name" : "YKL101W"
+  }, {
+    "id" : "1042",
+    "shared_name" : "YOL156W",
+    "SUID" : 1042,
+    "selected" : false,
+    "name" : "YOL156W"
+  }, {
+    "id" : "1040",
+    "shared_name" : "YJL219W",
+    "SUID" : 1040,
+    "selected" : false,
+    "name" : "YJL219W"
+  }, {
+    "id" : "1038",
+    "shared_name" : "YLL021W",
+    "SUID" : 1038,
+    "selected" : false,
+    "name" : "YLL021W"
+  }, {
+    "id" : "1036",
+    "shared_name" : "YOL136C",
+    "SUID" : 1036,
+    "selected" : false,
+    "name" : "YOL136C"
+  }, {
+    "id" : "1035",
+    "shared_name" : "YJL203W",
+    "SUID" : 1035,
+    "selected" : false,
+    "name" : "YJL203W"
+  }, {
+    "id" : "1032",
+    "shared_name" : "YNR007C",
+    "SUID" : 1032,
+    "selected" : false,
+    "name" : "YNR007C"
+  }, {
+    "id" : "1029",
+    "shared_name" : "YFL026W",
+    "SUID" : 1029,
+    "selected" : false,
+    "name" : "YFL026W"
+  }, {
+    "id" : "1027",
+    "shared_name" : "YJL157C",
+    "SUID" : 1027,
+    "selected" : false,
+    "name" : "YJL157C"
+  }, {
+    "id" : "1025",
+    "shared_name" : "YNL145W",
+    "SUID" : 1025,
+    "selected" : false,
+    "name" : "YNL145W"
+  }, {
+    "id" : "1023",
+    "shared_name" : "YDR461W",
+    "SUID" : 1023,
+    "selected" : false,
+    "name" : "YDR461W"
+  }, {
+    "id" : "1021",
+    "shared_name" : "YGR108W",
+    "SUID" : 1021,
+    "selected" : false,
+    "name" : "YGR108W"
+  }, {
+    "id" : "1019",
+    "shared_name" : "YKR097W",
+    "SUID" : 1019,
+    "selected" : false,
+    "name" : "YKR097W"
+  }, {
+    "id" : "1017",
+    "shared_name" : "YJL159W",
+    "SUID" : 1017,
+    "selected" : false,
+    "name" : "YJL159W"
+  }, {
+    "id" : "1015",
+    "shared_name" : "YIL015W",
+    "SUID" : 1015,
+    "selected" : false,
+    "name" : "YIL015W"
+  }, {
+    "id" : "1014",
+    "shared_name" : "YMR043W",
+    "SUID" : 1014,
+    "selected" : false,
+    "name" : "YMR043W"
+  }, {
+    "id" : "1009",
+    "shared_name" : "YKL109W",
+    "SUID" : 1009,
+    "selected" : false,
+    "name" : "YKL109W"
+  }, {
+    "id" : "1007",
+    "shared_name" : "YBR217W",
+    "SUID" : 1007,
+    "selected" : false,
+    "name" : "YBR217W"
+  }, {
+    "id" : "1005",
+    "shared_name" : "YHR171W",
+    "SUID" : 1005,
+    "selected" : false,
+    "name" : "YHR171W"
+  }, {
+    "id" : "1004",
+    "shared_name" : "YPL149W",
+    "SUID" : 1004,
+    "selected" : false,
+    "name" : "YPL149W"
+  }, {
+    "id" : "1002",
+    "shared_name" : "YKL028W",
+    "SUID" : 1002,
+    "selected" : false,
+    "name" : "YKL028W"
+  }, {
+    "id" : "1001",
+    "shared_name" : "YDR311W",
+    "SUID" : 1001,
+    "selected" : false,
+    "name" : "YDR311W"
+  }, {
+    "id" : "999",
+    "shared_name" : "YBL021C",
+    "SUID" : 999,
+    "selected" : false,
+    "name" : "YBL021C"
+  }, {
+    "id" : "997",
+    "shared_name" : "YGL237C",
+    "SUID" : 997,
+    "selected" : false,
+    "name" : "YGL237C"
+  }, {
+    "id" : "995",
+    "shared_name" : "YEL039C",
+    "SUID" : 995,
+    "selected" : false,
+    "name" : "YEL039C"
+  }, {
+    "id" : "993",
+    "shared_name" : "YJR048W",
+    "SUID" : 993,
+    "selected" : false,
+    "name" : "YJR048W"
+  }, {
+    "id" : "991",
+    "shared_name" : "YML054C",
+    "SUID" : 991,
+    "selected" : false,
+    "name" : "YML054C"
+  }, {
+    "id" : "990",
+    "shared_name" : "YLR256W",
+    "SUID" : 990,
+    "selected" : false,
+    "name" : "YLR256W"
+  }, {
+    "id" : "988",
+    "shared_name" : "YOR303W",
+    "SUID" : 988,
+    "selected" : false,
+    "name" : "YOR303W"
+  }, {
+    "id" : "987",
+    "shared_name" : "YJR109C",
+    "SUID" : 987,
+    "selected" : false,
+    "name" : "YJR109C"
+  }, {
+    "id" : "985",
+    "shared_name" : "YGR058W",
+    "SUID" : 985,
+    "selected" : false,
+    "name" : "YGR058W"
+  }, {
+    "id" : "983",
+    "shared_name" : "YLR229C",
+    "SUID" : 983,
+    "selected" : false,
+    "name" : "YLR229C"
+  }, {
+    "id" : "982",
+    "shared_name" : "YDR309C",
+    "SUID" : 982,
+    "selected" : false,
+    "name" : "YDR309C"
+  }, {
+    "id" : "980",
+    "shared_name" : "YOR264W",
+    "SUID" : 980,
+    "selected" : false,
+    "name" : "YOR264W"
+  }, {
+    "id" : "978",
+    "shared_name" : "YLR116W",
+    "SUID" : 978,
+    "selected" : false,
+    "name" : "YLR116W"
+  }, {
+    "id" : "976",
+    "shared_name" : "YNL312W",
+    "SUID" : 976,
+    "selected" : false,
+    "name" : "YNL312W"
+  }, {
+    "id" : "975",
+    "shared_name" : "YML032C",
+    "SUID" : 975,
+    "selected" : false,
+    "name" : "YML032C"
+  }, {
+    "id" : "973",
+    "shared_name" : "YKL012W",
+    "SUID" : 973,
+    "selected" : false,
+    "name" : "YKL012W"
+  }, {
+    "id" : "972",
+    "shared_name" : "YNL236W",
+    "SUID" : 972,
+    "selected" : false,
+    "name" : "YNL236W"
+  }, {
+    "id" : "970",
+    "shared_name" : "YNL091W",
+    "SUID" : 970,
+    "selected" : false,
+    "name" : "YNL091W"
+  }, {
+    "id" : "968",
+    "shared_name" : "YDR184C",
+    "SUID" : 968,
+    "selected" : false,
+    "name" : "YDR184C"
+  }, {
+    "id" : "966",
+    "shared_name" : "YIL143C",
+    "SUID" : 966,
+    "selected" : false,
+    "name" : "YIL143C"
+  }, {
+    "id" : "964",
+    "shared_name" : "YKR099W",
+    "SUID" : 964,
+    "selected" : false,
+    "name" : "YKR099W"
+  }, {
+    "id" : "963",
+    "shared_name" : "YIR009W",
+    "SUID" : 963,
+    "selected" : false,
+    "name" : "YIR009W"
+  }, {
+    "id" : "961",
+    "shared_name" : "YBR018C",
+    "SUID" : 961,
+    "selected" : false,
+    "name" : "YBR018C"
+  }, {
+    "id" : "959",
+    "shared_name" : "YPL248C",
+    "SUID" : 959,
+    "selected" : false,
+    "name" : "YPL248C"
+  }, {
+    "id" : "957",
+    "shared_name" : "YLR081W",
+    "SUID" : 957,
+    "selected" : false,
+    "name" : "YLR081W"
+  }, {
+    "id" : "955",
+    "shared_name" : "YBR020W",
+    "SUID" : 955,
+    "selected" : false,
+    "name" : "YBR020W"
+  }, {
+    "id" : "953",
+    "shared_name" : "YGL035C",
+    "SUID" : 953,
+    "selected" : false,
+    "name" : "YGL035C"
+  }, {
+    "id" : "951",
+    "shared_name" : "YOL051W",
+    "SUID" : 951,
+    "selected" : false,
+    "name" : "YOL051W"
+  }, {
+    "id" : "950",
+    "shared_name" : "YBR019C",
+    "SUID" : 950,
+    "selected" : false,
+    "name" : "YBR019C"
+  }, {
+    "id" : "948",
+    "shared_name" : "YJR060W",
+    "SUID" : 948,
+    "selected" : false,
+    "name" : "YJR060W"
+  }, {
+    "id" : "946",
+    "shared_name" : "YDR103W",
+    "SUID" : 946,
+    "selected" : false,
+    "name" : "YDR103W"
+  }, {
+    "id" : "944",
+    "shared_name" : "YLR362W",
+    "SUID" : 944,
+    "selected" : false,
+    "name" : "YLR362W"
+  }, {
+    "id" : "942",
+    "shared_name" : "YDR032C",
+    "SUID" : 942,
+    "selected" : false,
+    "name" : "YDR032C"
+  }, {
+    "id" : "941",
+    "shared_name" : "YCL032W",
+    "SUID" : 941,
+    "selected" : false,
+    "name" : "YCL032W"
+  }, {
+    "id" : "939",
+    "shared_name" : "YLR109W",
+    "SUID" : 939,
+    "selected" : false,
+    "name" : "YLR109W"
+  }, {
+    "id" : "937",
+    "shared_name" : "YHR141C",
+    "SUID" : 937,
+    "selected" : false,
+    "name" : "YHR141C"
+  }, {
+    "id" : "936",
+    "shared_name" : "YMR138W",
+    "SUID" : 936,
+    "selected" : false,
+    "name" : "YMR138W"
+  }, {
+    "id" : "934",
+    "shared_name" : "YMR300C",
+    "SUID" : 934,
+    "selected" : false,
+    "name" : "YMR300C"
+  }, {
+    "id" : "932",
+    "shared_name" : "YOL058W",
+    "SUID" : 932,
+    "selected" : false,
+    "name" : "YOL058W"
+  }, {
+    "id" : "930",
+    "shared_name" : "YBR248C",
+    "SUID" : 930,
+    "selected" : false,
+    "name" : "YBR248C"
+  }, {
+    "id" : "927",
+    "shared_name" : "YOR202W",
+    "SUID" : 927,
+    "selected" : false,
+    "name" : "YOR202W"
+  }, {
+    "id" : "925",
+    "shared_name" : "YMR108W",
+    "SUID" : 925,
+    "selected" : false,
+    "name" : "YMR108W"
+  }, {
+    "id" : "924",
+    "shared_name" : "YEL009C",
+    "SUID" : 924,
+    "selected" : false,
+    "name" : "YEL009C"
+  }, {
+    "id" : "922",
+    "shared_name" : "YBR155W",
+    "SUID" : 922,
+    "selected" : false,
+    "name" : "YBR155W"
+  }, {
+    "id" : "921",
+    "shared_name" : "YMR186W",
+    "SUID" : 921,
+    "selected" : false,
+    "name" : "YMR186W"
+  }, {
+    "id" : "919",
+    "shared_name" : "YGL106W",
+    "SUID" : 919,
+    "selected" : false,
+    "name" : "YGL106W"
+  }, {
+    "id" : "918",
+    "shared_name" : "YOR326W",
+    "SUID" : 918,
+    "selected" : false,
+    "name" : "YOR326W"
+  }, {
+    "id" : "915",
+    "shared_name" : "YMR309C",
+    "SUID" : 915,
+    "selected" : false,
+    "name" : "YMR309C"
+  }, {
+    "id" : "914",
+    "shared_name" : "YOR361C",
+    "SUID" : 914,
+    "selected" : false,
+    "name" : "YOR361C"
+  }, {
+    "id" : "912",
+    "shared_name" : "YIL105C",
+    "SUID" : 912,
+    "selected" : false,
+    "name" : "YIL105C"
+  }, {
+    "id" : "910",
+    "shared_name" : "YLR134W",
+    "SUID" : 910,
+    "selected" : false,
+    "name" : "YLR134W"
+  }, {
+    "id" : "908",
+    "shared_name" : "YER179W",
+    "SUID" : 908,
+    "selected" : false,
+    "name" : "YER179W"
+  }, {
+    "id" : "906",
+    "shared_name" : "YOR310C",
+    "SUID" : 906,
+    "selected" : false,
+    "name" : "YOR310C"
+  }, {
+    "id" : "905",
+    "shared_name" : "YDL014W",
+    "SUID" : 905,
+    "selected" : false,
+    "name" : "YDL014W"
+  }, {
+    "id" : "903",
+    "shared_name" : "YPR119W",
+    "SUID" : 903,
+    "selected" : false,
+    "name" : "YPR119W"
+  }, {
+    "id" : "901",
+    "shared_name" : "YLR117C",
+    "SUID" : 901,
+    "selected" : false,
+    "name" : "YLR117C"
+  }, {
+    "id" : "899",
+    "shared_name" : "YGL013C",
+    "SUID" : 899,
+    "selected" : false,
+    "name" : "YGL013C"
+  }, {
+    "id" : "897",
+    "shared_name" : "YCR086W",
+    "SUID" : 897,
+    "selected" : false,
+    "name" : "YCR086W"
+  }, {
+    "id" : "896",
+    "shared_name" : "YDR412W",
+    "SUID" : 896,
+    "selected" : false,
+    "name" : "YDR412W"
+  }, {
+    "id" : "894",
+    "shared_name" : "YPL201C",
+    "SUID" : 894,
+    "selected" : false,
+    "name" : "YPL201C"
+  }, {
+    "id" : "893",
+    "shared_name" : "YER062C",
+    "SUID" : 893,
+    "selected" : false,
+    "name" : "YER062C"
+  }, {
+    "id" : "891",
+    "shared_name" : "YOR327C",
+    "SUID" : 891,
+    "selected" : false,
+    "name" : "YOR327C"
+  }, {
+    "id" : "889",
+    "shared_name" : "YER143W",
+    "SUID" : 889,
+    "selected" : false,
+    "name" : "YER143W"
+  }, {
+    "id" : "888",
+    "shared_name" : "YAL030W",
+    "SUID" : 888,
+    "selected" : false,
+    "name" : "YAL030W"
+  }, {
+    "id" : "886",
+    "shared_name" : "YOL086C",
+    "SUID" : 886,
+    "selected" : false,
+    "name" : "YOL086C"
+  }, {
+    "id" : "884",
+    "shared_name" : "YDR050C",
+    "SUID" : 884,
+    "selected" : false,
+    "name" : "YDR050C"
+  }, {
+    "id" : "882",
+    "shared_name" : "YOL127W",
+    "SUID" : 882,
+    "selected" : false,
+    "name" : "YOL127W"
+  }, {
+    "id" : "879",
+    "shared_name" : "YIL069C",
+    "SUID" : 879,
+    "selected" : false,
+    "name" : "YIL069C"
+  }, {
+    "id" : "877",
+    "shared_name" : "YER074W",
+    "SUID" : 877,
+    "selected" : false,
+    "name" : "YER074W"
+  }, {
+    "id" : "875",
+    "shared_name" : "YBR093C",
+    "SUID" : 875,
+    "selected" : false,
+    "name" : "YBR093C"
+  }, {
+    "id" : "873",
+    "shared_name" : "YDR171W",
+    "SUID" : 873,
+    "selected" : false,
+    "name" : "YDR171W"
+  }, {
+    "id" : "871",
+    "shared_name" : "YCL030C",
+    "SUID" : 871,
+    "selected" : false,
+    "name" : "YCL030C"
+  }, {
+    "id" : "869",
+    "shared_name" : "YNL301C",
+    "SUID" : 869,
+    "selected" : false,
+    "name" : "YNL301C"
+  }, {
+    "id" : "867",
+    "shared_name" : "YOL120C",
+    "SUID" : 867,
+    "selected" : false,
+    "name" : "YOL120C"
+  }, {
+    "id" : "865",
+    "shared_name" : "YLR044C",
+    "SUID" : 865,
+    "selected" : false,
+    "name" : "YLR044C"
+  }, {
+    "id" : "863",
+    "shared_name" : "YIL133C",
+    "SUID" : 863,
+    "selected" : false,
+    "name" : "YIL133C"
+  }, {
+    "id" : "861",
+    "shared_name" : "YHR174W",
+    "SUID" : 861,
+    "selected" : false,
+    "name" : "YHR174W"
+  }, {
+    "id" : "859",
+    "shared_name" : "YGR254W",
+    "SUID" : 859,
+    "selected" : false,
+    "name" : "YGR254W"
+  }, {
+    "id" : "857",
+    "shared_name" : "YCR012W",
+    "SUID" : 857,
+    "selected" : false,
+    "name" : "YCR012W"
+  }, {
+    "id" : "856",
+    "shared_name" : "YNL216W",
+    "SUID" : 856,
+    "selected" : false,
+    "name" : "YNL216W"
+  }, {
+    "id" : "854",
+    "shared_name" : "YAL038W",
+    "SUID" : 854,
+    "selected" : false,
+    "name" : "YAL038W"
+  }, {
+    "id" : "853",
+    "shared_name" : "YNL307C",
+    "SUID" : 853,
+    "selected" : false,
+    "name" : "YNL307C"
+  }, {
+    "id" : "851",
+    "shared_name" : "YDL013W",
+    "SUID" : 851,
+    "selected" : false,
+    "name" : "YDL013W"
+  }, {
+    "id" : "850",
+    "shared_name" : "YER116C",
+    "SUID" : 850,
+    "selected" : false,
+    "name" : "YER116C"
+  }, {
+    "id" : "848",
+    "shared_name" : "YNR053C",
+    "SUID" : 848,
+    "selected" : false,
+    "name" : "YNR053C"
+  }, {
+    "id" : "846",
+    "shared_name" : "YLR264W",
+    "SUID" : 846,
+    "selected" : false,
+    "name" : "YLR264W"
+  }, {
+    "id" : "843",
+    "shared_name" : "YEL015W",
+    "SUID" : 843,
+    "selected" : false,
+    "name" : "YEL015W"
+  }, {
+    "id" : "841",
+    "shared_name" : "YNL050C",
+    "SUID" : 841,
+    "selected" : false,
+    "name" : "YNL050C"
+  }, {
+    "id" : "839",
+    "shared_name" : "YNR050C",
+    "SUID" : 839,
+    "selected" : false,
+    "name" : "YNR050C"
+  }, {
+    "id" : "838",
+    "shared_name" : "YJR022W",
+    "SUID" : 838,
+    "selected" : false,
+    "name" : "YJR022W"
+  }, {
+    "id" : "836",
+    "shared_name" : "YOR167C",
+    "SUID" : 836,
+    "selected" : false,
+    "name" : "YOR167C"
+  }, {
+    "id" : "835",
+    "shared_name" : "YER112W",
+    "SUID" : 835,
+    "selected" : false,
+    "name" : "YER112W"
+  }, {
+    "id" : "833",
+    "shared_name" : "YCL067C",
+    "SUID" : 833,
+    "selected" : false,
+    "name" : "YCL067C"
+  }, {
+    "id" : "831",
+    "shared_name" : "YBR112C",
+    "SUID" : 831,
+    "selected" : false,
+    "name" : "YBR112C"
+  }, {
+    "id" : "830",
+    "shared_name" : "YCR084C",
+    "SUID" : 830,
+    "selected" : false,
+    "name" : "YCR084C"
+  }, {
+    "id" : "828",
+    "shared_name" : "YIL061C",
+    "SUID" : 828,
+    "selected" : false,
+    "name" : "YIL061C"
+  }, {
+    "id" : "827",
+    "shared_name" : "YGR203W",
+    "SUID" : 827,
+    "selected" : false,
+    "name" : "YGR203W"
+  }, {
+    "id" : "822",
+    "shared_name" : "YJL013C",
+    "SUID" : 822,
+    "selected" : false,
+    "name" : "YJL013C"
+  }, {
+    "id" : "820",
+    "shared_name" : "YGL229C",
+    "SUID" : 820,
+    "selected" : false,
+    "name" : "YGL229C"
+  }, {
+    "id" : "819",
+    "shared_name" : "YJL030W",
+    "SUID" : 819,
+    "selected" : false,
+    "name" : "YJL030W"
+  }, {
+    "id" : "817",
+    "shared_name" : "YGR014W",
+    "SUID" : 817,
+    "selected" : false,
+    "name" : "YGR014W"
+  }, {
+    "id" : "816",
+    "shared_name" : "YPL211W",
+    "SUID" : 816,
+    "selected" : false,
+    "name" : "YPL211W"
+  }, {
+    "id" : "814",
+    "shared_name" : "YGL044C",
+    "SUID" : 814,
+    "selected" : false,
+    "name" : "YGL044C"
+  }, {
+    "id" : "813",
+    "shared_name" : "YOL123W",
+    "SUID" : 813,
+    "selected" : false,
+    "name" : "YOL123W"
+  }, {
+    "id" : "810",
+    "shared_name" : "YAL003W",
+    "SUID" : 810,
+    "selected" : false,
+    "name" : "YAL003W"
+  }, {
+    "id" : "808",
+    "shared_name" : "YFL017C",
+    "SUID" : 808,
+    "selected" : false,
+    "name" : "YFL017C"
+  }, {
+    "id" : "806",
+    "shared_name" : "YDR429C",
+    "SUID" : 806,
+    "selected" : false,
+    "name" : "YDR429C"
+  }, {
+    "id" : "805",
+    "shared_name" : "YMR146C",
+    "SUID" : 805,
+    "selected" : false,
+    "name" : "YMR146C"
+  }, {
+    "id" : "803",
+    "shared_name" : "YLR293C",
+    "SUID" : 803,
+    "selected" : false,
+    "name" : "YLR293C"
+  }, {
+    "id" : "801",
+    "shared_name" : "YBR118W",
+    "SUID" : 801,
+    "selected" : false,
+    "name" : "YBR118W"
+  }, {
+    "id" : "799",
+    "shared_name" : "YPR080W",
+    "SUID" : 799,
+    "selected" : false,
+    "name" : "YPR080W"
+  }, {
+    "id" : "798",
+    "shared_name" : "YLR249W",
+    "SUID" : 798,
+    "selected" : false,
+    "name" : "YLR249W"
+  }, {
+    "id" : "796",
+    "shared_name" : "YOR204W",
+    "SUID" : 796,
+    "selected" : false,
+    "name" : "YOR204W"
+  }, {
+    "id" : "794",
+    "shared_name" : "YGL097W",
+    "SUID" : 794,
+    "selected" : false,
+    "name" : "YGL097W"
+  }, {
+    "id" : "793",
+    "shared_name" : "YGR218W",
+    "SUID" : 793,
+    "selected" : false,
+    "name" : "YGR218W"
+  }, {
+    "id" : "791",
+    "shared_name" : "YGL122C",
+    "SUID" : 791,
+    "selected" : false,
+    "name" : "YGL122C"
+  }, {
+    "id" : "790",
+    "shared_name" : "YKR026C",
+    "SUID" : 790,
+    "selected" : false,
+    "name" : "YKR026C"
+  } ],
+  "links" : [ {
+    "id" : "1481",
+    "source" : 1,
+    "target" : 0,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR277C (pp) YDL194W",
+    "SUID" : 1481,
+    "name" : "YDR277C (pp) YDL194W"
+  }, {
+    "id" : "1479",
+    "source" : 1,
+    "target" : 303,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR277C (pp) YJR022W",
+    "SUID" : 1479,
+    "name" : "YDR277C (pp) YJR022W"
+  }, {
+    "id" : "1473",
+    "source" : 3,
+    "target" : 22,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YPR145W (pp) YMR117C",
+    "SUID" : 1473,
+    "name" : "YPR145W (pp) YMR117C"
+  }, {
+    "id" : "1471",
+    "source" : 4,
+    "target" : 5,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YER054C (pp) YBR045C",
+    "SUID" : 1471,
+    "name" : "YER054C (pp) YBR045C"
+  }, {
+    "id" : "1470",
+    "source" : 4,
+    "target" : 118,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YER054C (pp) YER133W",
+    "SUID" : 1470,
+    "name" : "YER054C (pp) YER133W"
+  }, {
+    "id" : "1468",
+    "source" : 5,
+    "target" : 117,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YBR045C (pp) YOR178C",
+    "SUID" : 1468,
+    "name" : "YBR045C (pp) YOR178C"
+  }, {
+    "id" : "1467",
+    "source" : 5,
+    "target" : 41,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YBR045C (pp) YIL045W",
+    "SUID" : 1467,
+    "name" : "YBR045C (pp) YIL045W"
+  }, {
+    "id" : "1465",
+    "source" : 6,
+    "target" : 19,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YBL079W (pp) YDL088C",
+    "SUID" : 1465,
+    "name" : "YBL079W (pp) YDL088C"
+  }, {
+    "id" : "1463",
+    "source" : 7,
+    "target" : 149,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLR345W (pp) YLR321C",
+    "SUID" : 1463,
+    "name" : "YLR345W (pp) YLR321C"
+  }, {
+    "id" : "1447",
+    "source" : 13,
+    "target" : 222,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YGR136W (pp) YGR058W",
+    "SUID" : 1447,
+    "name" : "YGR136W (pp) YGR058W"
+  }, {
+    "id" : "1445",
+    "source" : 14,
+    "target" : 205,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDL023C (pp) YJL159W",
+    "SUID" : 1445,
+    "name" : "YDL023C (pp) YJL159W"
+  }, {
+    "id" : "1441",
+    "source" : 15,
+    "target" : 124,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YBR170C (pp) YGR048W",
+    "SUID" : 1441,
+    "name" : "YBR170C (pp) YGR048W"
+  }, {
+    "id" : "1477",
+    "source" : 16,
+    "target" : 2,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YGR074W (pp) YBR043C",
+    "SUID" : 1477,
+    "name" : "YGR074W (pp) YBR043C"
+  }, {
+    "id" : "1438",
+    "source" : 17,
+    "target" : 16,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YGL202W (pp) YGR074W",
+    "SUID" : 1438,
+    "name" : "YGL202W (pp) YGR074W"
+  }, {
+    "id" : "1435",
+    "source" : 18,
+    "target" : 266,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLR197W (pp) YOR310C",
+    "SUID" : 1435,
+    "name" : "YLR197W (pp) YOR310C"
+  }, {
+    "id" : "1434",
+    "source" : 18,
+    "target" : 267,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLR197W (pp) YDL014W",
+    "SUID" : 1434,
+    "name" : "YLR197W (pp) YDL014W"
+  }, {
+    "id" : "1432",
+    "source" : 19,
+    "target" : 81,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDL088C (pp) YER110C",
+    "SUID" : 1432,
+    "name" : "YDL088C (pp) YER110C"
+  }, {
+    "id" : "1424",
+    "source" : 22,
+    "target" : 21,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YMR117C (pp) YPR010C",
+    "SUID" : 1424,
+    "name" : "YMR117C (pp) YPR010C"
+  }, {
+    "id" : "1422",
+    "source" : 22,
+    "target" : 247,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YMR117C (pp) YCL032W",
+    "SUID" : 1422,
+    "name" : "YMR117C (pp) YCL032W"
+  }, {
+    "id" : "1420",
+    "source" : 23,
+    "target" : 73,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YML114C (pp) YDR167W",
+    "SUID" : 1420,
+    "name" : "YML114C (pp) YDR167W"
+  }, {
+    "id" : "1418",
+    "source" : 24,
+    "target" : 235,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YNL036W (pp) YIR009W",
+    "SUID" : 1418,
+    "name" : "YNL036W (pp) YIR009W"
+  }, {
+    "id" : "1442",
+    "source" : 25,
+    "target" : 245,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YOR212W (pp) YLR362W",
+    "SUID" : 1442,
+    "name" : "YOR212W (pp) YLR362W"
+  }, {
+    "id" : "1413",
+    "source" : 26,
+    "target" : 319,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR070C (pp) YFL017C",
+    "SUID" : 1413,
+    "name" : "YDR070C (pp) YFL017C"
+  }, {
+    "id" : "1404",
+    "source" : 28,
+    "target" : 230,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YGR046W (pp) YNL236W",
+    "SUID" : 1404,
+    "name" : "YGR046W (pp) YNL236W"
+  }, {
+    "id" : "1398",
+    "source" : 30,
+    "target" : 218,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YIL070C (pp) YML054C",
+    "SUID" : 1398,
+    "name" : "YIL070C (pp) YML054C"
+  }, {
+    "id" : "1396",
+    "source" : 31,
+    "target" : 207,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YPR113W (pd) YMR043W",
+    "SUID" : 1396,
+    "name" : "YPR113W (pd) YMR043W"
+  }, {
+    "id" : "1394",
+    "source" : 32,
+    "target" : 44,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YER081W (pp) YIL074C",
+    "SUID" : 1394,
+    "name" : "YER081W (pp) YIL074C"
+  }, {
+    "id" : "1392",
+    "source" : 33,
+    "target" : 219,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YGR088W (pd) YLR256W",
+    "SUID" : 1392,
+    "name" : "YGR088W (pd) YLR256W"
+  }, {
+    "id" : "1461",
+    "source" : 34,
+    "target" : 64,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR395W (pp) YPR102C",
+    "SUID" : 1461,
+    "name" : "YDR395W (pp) YPR102C"
+  }, {
+    "id" : "1460",
+    "source" : 34,
+    "target" : 280,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR395W (pp) YOL127W",
+    "SUID" : 1460,
+    "name" : "YDR395W (pp) YOL127W"
+  }, {
+    "id" : "1459",
+    "source" : 34,
+    "target" : 8,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR395W (pp) YIL052C",
+    "SUID" : 1459,
+    "name" : "YDR395W (pp) YIL052C"
+  }, {
+    "id" : "1457",
+    "source" : 34,
+    "target" : 9,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR395W (pp) YER056CA",
+    "SUID" : 1457,
+    "name" : "YDR395W (pp) YER056CA"
+  }, {
+    "id" : "1455",
+    "source" : 34,
+    "target" : 10,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR395W (pp) YNL069C",
+    "SUID" : 1455,
+    "name" : "YDR395W (pp) YNL069C"
+  }, {
+    "id" : "1453",
+    "source" : 34,
+    "target" : 289,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR395W (pp) YIL133C",
+    "SUID" : 1453,
+    "name" : "YDR395W (pp) YIL133C"
+  }, {
+    "id" : "1452",
+    "source" : 34,
+    "target" : 11,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR395W (pp) YDL075W",
+    "SUID" : 1452,
+    "name" : "YDR395W (pp) YDL075W"
+  }, {
+    "id" : "1389",
+    "source" : 35,
+    "target" : 34,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YGR085C (pp) YDR395W",
+    "SUID" : 1389,
+    "name" : "YGR085C (pp) YDR395W"
+  }, {
+    "id" : "1387",
+    "source" : 35,
+    "target" : 65,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YGR085C (pp) YLR075W",
+    "SUID" : 1387,
+    "name" : "YGR085C (pp) YLR075W"
+  }, {
+    "id" : "1378",
+    "source" : 38,
+    "target" : 37,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDL030W (pp) YMR005W",
+    "SUID" : 1378,
+    "name" : "YDL030W (pp) YMR005W"
+  }, {
+    "id" : "1376",
+    "source" : 38,
+    "target" : 296,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDL030W (pp) YDL013W",
+    "SUID" : 1376,
+    "name" : "YDL030W (pp) YDL013W"
+  }, {
+    "id" : "1374",
+    "source" : 39,
+    "target" : 161,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YER079W (pp) YNL154C",
+    "SUID" : 1374,
+    "name" : "YER079W (pp) YNL154C"
+  }, {
+    "id" : "1373",
+    "source" : 39,
+    "target" : 164,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YER079W (pp) YHR135C",
+    "SUID" : 1373,
+    "name" : "YER079W (pp) YHR135C"
+  }, {
+    "id" : "1371",
+    "source" : 40,
+    "target" : 72,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDL215C (pp) YLR432W",
+    "SUID" : 1371,
+    "name" : "YDL215C (pp) YLR432W"
+  }, {
+    "id" : "1370",
+    "source" : 40,
+    "target" : 186,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YDL215C (pd) YER040W",
+    "SUID" : 1370,
+    "name" : "YDL215C (pd) YER040W"
+  }, {
+    "id" : "1362",
+    "source" : 42,
+    "target" : 261,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YPR041W (pp) YMR309C",
+    "SUID" : 1362,
+    "name" : "YPR041W (pp) YMR309C"
+  }, {
+    "id" : "1361",
+    "source" : 42,
+    "target" : 262,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YPR041W (pp) YOR361C",
+    "SUID" : 1361,
+    "name" : "YPR041W (pp) YOR361C"
+  }, {
+    "id" : "1359",
+    "source" : 43,
+    "target" : 237,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YOR120W (pd) YPL248C",
+    "SUID" : 1359,
+    "name" : "YOR120W (pd) YPL248C"
+  }, {
+    "id" : "1352",
+    "source" : 44,
+    "target" : 140,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YIL074C (pp) YNL311C",
+    "SUID" : 1352,
+    "name" : "YIL074C (pp) YNL311C"
+  }, {
+    "id" : "1350",
+    "source" : 45,
+    "target" : 53,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YDR299W (pd) YJL194W",
+    "SUID" : 1350,
+    "name" : "YDR299W (pd) YJL194W"
+  }, {
+    "id" : "1411",
+    "source" : 46,
+    "target" : 245,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YHR005C (pp) YLR362W",
+    "SUID" : 1411,
+    "name" : "YHR005C (pp) YLR362W"
+  }, {
+    "id" : "1348",
+    "source" : 47,
+    "target" : 46,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLR452C (pp) YHR005C",
+    "SUID" : 1348,
+    "name" : "YLR452C (pp) YHR005C"
+  }, {
+    "id" : "1365",
+    "source" : 48,
+    "target" : 329,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YMR255W (pp) YGL122C",
+    "SUID" : 1365,
+    "name" : "YMR255W (pp) YGL122C"
+  }, {
+    "id" : "1345",
+    "source" : 49,
+    "target" : 48,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YBR274W (pp) YMR255W",
+    "SUID" : 1345,
+    "name" : "YBR274W (pp) YMR255W"
+  }, {
+    "id" : "1385",
+    "source" : 50,
+    "target" : 199,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YHR084W (pd) YFL026W",
+    "SUID" : 1385,
+    "name" : "YHR084W (pd) YFL026W"
+  }, {
+    "id" : "1384",
+    "source" : 50,
+    "target" : 202,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YHR084W (pd) YDR461W",
+    "SUID" : 1384,
+    "name" : "YHR084W (pd) YDR461W"
+  }, {
+    "id" : "1383",
+    "source" : 50,
+    "target" : 207,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YHR084W (pp) YMR043W",
+    "SUID" : 1383,
+    "name" : "YHR084W (pp) YMR043W"
+  }, {
+    "id" : "1339",
+    "source" : 51,
+    "target" : 188,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YBL050W (pp) YOR036W",
+    "SUID" : 1339,
+    "name" : "YBL050W (pp) YOR036W"
+  }, {
+    "id" : "1482",
+    "source" : 52,
+    "target" : 304,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YBL026W (pp) YOR167C",
+    "SUID" : 1482,
+    "name" : "YBL026W (pp) YOR167C"
+  }, {
+    "id" : "1333",
+    "source" : 53,
+    "target" : 207,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YJL194W (pd) YMR043W",
+    "SUID" : 1333,
+    "name" : "YJL194W (pd) YMR043W"
+  }, {
+    "id" : "1368",
+    "source" : 54,
+    "target" : 49,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLR258W (pp) YBR274W",
+    "SUID" : 1368,
+    "name" : "YLR258W (pp) YBR274W"
+  }, {
+    "id" : "1367",
+    "source" : 54,
+    "target" : 41,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLR258W (pp) YIL045W",
+    "SUID" : 1367,
+    "name" : "YLR258W (pp) YIL045W"
+  }, {
+    "id" : "1331",
+    "source" : 55,
+    "target" : 54,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YGL134W (pp) YLR258W",
+    "SUID" : 1331,
+    "name" : "YGL134W (pp) YLR258W"
+  }, {
+    "id" : "1329",
+    "source" : 55,
+    "target" : 105,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YGL134W (pp) YPL031C",
+    "SUID" : 1329,
+    "name" : "YGL134W (pp) YPL031C"
+  }, {
+    "id" : "1323",
+    "source" : 58,
+    "target" : 174,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YPR124W (pd) YMR021C",
+    "SUID" : 1323,
+    "name" : "YPR124W (pd) YMR021C"
+  }, {
+    "id" : "1363",
+    "source" : 59,
+    "target" : 171,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YNL135C (pp) YDR174W",
+    "SUID" : 1363,
+    "name" : "YNL135C (pp) YDR174W"
+  }, {
+    "id" : "1321",
+    "source" : 60,
+    "target" : 59,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YER052C (pp) YNL135C",
+    "SUID" : 1321,
+    "name" : "YER052C (pp) YNL135C"
+  }, {
+    "id" : "1312",
+    "source" : 63,
+    "target" : 188,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YPL240C (pp) YOR036W",
+    "SUID" : 1312,
+    "name" : "YPL240C (pp) YOR036W"
+  }, {
+    "id" : "1311",
+    "source" : 63,
+    "target" : 257,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YPL240C (pp) YBR155W",
+    "SUID" : 1311,
+    "name" : "YPL240C (pp) YBR155W"
+  }, {
+    "id" : "1308",
+    "source" : 65,
+    "target" : 64,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLR075W (pp) YPR102C",
+    "SUID" : 1308,
+    "name" : "YLR075W (pp) YPR102C"
+  }, {
+    "id" : "1304",
+    "source" : 66,
+    "target" : 179,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YKL161C (pp) YPL089C",
+    "SUID" : 1304,
+    "name" : "YKL161C (pp) YPL089C"
+  }, {
+    "id" : "1302",
+    "source" : 67,
+    "target" : 143,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YAR007C (pd) YPL111W",
+    "SUID" : 1302,
+    "name" : "YAR007C (pd) YPL111W"
+  }, {
+    "id" : "1301",
+    "source" : 67,
+    "target" : 228,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YAR007C (pp) YML032C",
+    "SUID" : 1301,
+    "name" : "YAR007C (pp) YML032C"
+  }, {
+    "id" : "1288",
+    "source" : 70,
+    "target" : 68,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR142C (pp) YIL160C",
+    "SUID" : 1288,
+    "name" : "YDR142C (pp) YIL160C"
+  }, {
+    "id" : "1286",
+    "source" : 70,
+    "target" : 82,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR142C (pp) YGL153W",
+    "SUID" : 1286,
+    "name" : "YDR142C (pp) YGL153W"
+  }, {
+    "id" : "1284",
+    "source" : 71,
+    "target" : 69,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR244W (pp) YDL078C",
+    "SUID" : 1284,
+    "name" : "YDR244W (pp) YDL078C"
+  }, {
+    "id" : "1282",
+    "source" : 71,
+    "target" : 70,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR244W (pp) YDR142C",
+    "SUID" : 1282,
+    "name" : "YDR244W (pp) YDR142C"
+  }, {
+    "id" : "1280",
+    "source" : 71,
+    "target" : 78,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR244W (pp) YNL214W",
+    "SUID" : 1280,
+    "name" : "YDR244W (pp) YNL214W"
+  }, {
+    "id" : "1279",
+    "source" : 71,
+    "target" : 82,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR244W (pp) YGL153W",
+    "SUID" : 1279,
+    "name" : "YDR244W (pp) YGL153W"
+  }, {
+    "id" : "1278",
+    "source" : 71,
+    "target" : 83,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR244W (pp) YLR191W",
+    "SUID" : 1278,
+    "name" : "YDR244W (pp) YLR191W"
+  }, {
+    "id" : "1275",
+    "source" : 73,
+    "target" : 72,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR167W (pp) YLR432W",
+    "SUID" : 1275,
+    "name" : "YDR167W (pp) YLR432W"
+  }, {
+    "id" : "1272",
+    "source" : 74,
+    "target" : 295,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLR175W (pp) YNL307C",
+    "SUID" : 1272,
+    "name" : "YLR175W (pp) YNL307C"
+  }, {
+    "id" : "1270",
+    "source" : 75,
+    "target" : 177,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YNL117W (pd) YJL089W",
+    "SUID" : 1270,
+    "name" : "YNL117W (pd) YJL089W"
+  }, {
+    "id" : "1268",
+    "source" : 76,
+    "target" : 189,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YOR089C (pp) YDR323C",
+    "SUID" : 1268,
+    "name" : "YOR089C (pp) YDR323C"
+  }, {
+    "id" : "1264",
+    "source" : 78,
+    "target" : 82,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YNL214W (pp) YGL153W",
+    "SUID" : 1264,
+    "name" : "YNL214W (pp) YGL153W"
+  }, {
+    "id" : "1262",
+    "source" : 79,
+    "target" : 87,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YBR135W (pp) YER102W",
+    "SUID" : 1262,
+    "name" : "YBR135W (pp) YER102W"
+  }, {
+    "id" : "1260",
+    "source" : 81,
+    "target" : 80,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YER110C (pp) YML007W",
+    "SUID" : 1260,
+    "name" : "YER110C (pp) YML007W"
+  }, {
+    "id" : "1257",
+    "source" : 83,
+    "target" : 82,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLR191W (pp) YGL153W",
+    "SUID" : 1257,
+    "name" : "YLR191W (pp) YGL153W"
+  }, {
+    "id" : "1252",
+    "source" : 84,
+    "target" : 304,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YOL149W (pp) YOR167C",
+    "SUID" : 1252,
+    "name" : "YOL149W (pp) YOR167C"
+  }, {
+    "id" : "1250",
+    "source" : 85,
+    "target" : 309,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YMR044W (pp) YIL061C",
+    "SUID" : 1250,
+    "name" : "YMR044W (pp) YIL061C"
+  }, {
+    "id" : "1234",
+    "source" : 92,
+    "target" : 91,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YNL113W (pp) YPR110C",
+    "SUID" : 1234,
+    "name" : "YNL113W (pp) YPR110C"
+  }, {
+    "id" : "1231",
+    "source" : 93,
+    "target" : 256,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YDR354W (pd) YEL009C",
+    "SUID" : 1231,
+    "name" : "YDR354W (pd) YEL009C"
+  }, {
+    "id" : "1229",
+    "source" : 95,
+    "target" : 94,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YKL211C (pp) YER090W",
+    "SUID" : 1229,
+    "name" : "YKL211C (pp) YER090W"
+  }, {
+    "id" : "1226",
+    "source" : 96,
+    "target" : 240,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YDR146C (pd) YGL035C",
+    "SUID" : 1226,
+    "name" : "YDR146C (pd) YGL035C"
+  }, {
+    "id" : "1225",
+    "source" : 96,
+    "target" : 207,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YDR146C (pd) YMR043W",
+    "SUID" : 1225,
+    "name" : "YDR146C (pd) YMR043W"
+  }, {
+    "id" : "1223",
+    "source" : 97,
+    "target" : 207,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YER111C (pd) YMR043W",
+    "SUID" : 1223,
+    "name" : "YER111C (pd) YMR043W"
+  }, {
+    "id" : "1221",
+    "source" : 98,
+    "target" : 220,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YOR039W (pp) YOR303W",
+    "SUID" : 1221,
+    "name" : "YOR039W (pp) YOR303W"
+  }, {
+    "id" : "1219",
+    "source" : 99,
+    "target" : 293,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YML024W (pd) YNL216W",
+    "SUID" : 1219,
+    "name" : "YML024W (pd) YNL216W"
+  }, {
+    "id" : "1240",
+    "source" : 100,
+    "target" : 178,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YIL113W (pp) YHR030C",
+    "SUID" : 1240,
+    "name" : "YIL113W (pp) YHR030C"
+  }, {
+    "id" : "1217",
+    "source" : 101,
+    "target" : 100,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLL019C (pp) YIL113W",
+    "SUID" : 1217,
+    "name" : "YLL019C (pp) YIL113W"
+  }, {
+    "id" : "1290",
+    "source" : 102,
+    "target" : 240,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YDR009W (pd) YGL035C",
+    "SUID" : 1290,
+    "name" : "YDR009W (pd) YGL035C"
+  }, {
+    "id" : "1214",
+    "source" : 103,
+    "target" : 102,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YML051W (pp) YDR009W",
+    "SUID" : 1214,
+    "name" : "YML051W (pp) YDR009W"
+  }, {
+    "id" : "1212",
+    "source" : 103,
+    "target" : 239,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YML051W (pp) YBR020W",
+    "SUID" : 1212,
+    "name" : "YML051W (pp) YBR020W"
+  }, {
+    "id" : "1209",
+    "source" : 105,
+    "target" : 104,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YPL031C (pp) YHR071W",
+    "SUID" : 1209,
+    "name" : "YPL031C (pp) YHR071W"
+  }, {
+    "id" : "1206",
+    "source" : 106,
+    "target" : 121,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YML123C (pd) YFR034C",
+    "SUID" : 1206,
+    "name" : "YML123C (pd) YFR034C"
+  }, {
+    "id" : "1204",
+    "source" : 108,
+    "target" : 107,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YMR058W (pp) YER145C",
+    "SUID" : 1204,
+    "name" : "YMR058W (pp) YER145C"
+  }, {
+    "id" : "1201",
+    "source" : 110,
+    "target" : 109,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YML074C (pp) YJL190C",
+    "SUID" : 1201,
+    "name" : "YML074C (pp) YJL190C"
+  }, {
+    "id" : "1198",
+    "source" : 111,
+    "target" : 231,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YOR355W (pp) YNL091W",
+    "SUID" : 1198,
+    "name" : "YOR355W (pp) YNL091W"
+  }, {
+    "id" : "1196",
+    "source" : 112,
+    "target" : 188,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YFL038C (pp) YOR036W",
+    "SUID" : 1196,
+    "name" : "YFL038C (pp) YOR036W"
+  }, {
+    "id" : "1439",
+    "source" : 113,
+    "target" : 132,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YIL162W (pd) YNL167C",
+    "SUID" : 1439,
+    "name" : "YIL162W (pd) YNL167C"
+  }, {
+    "id" : "1190",
+    "source" : 118,
+    "target" : 114,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YER133W (pp) YBR050C",
+    "SUID" : 1190,
+    "name" : "YER133W (pp) YBR050C"
+  }, {
+    "id" : "1188",
+    "source" : 118,
+    "target" : 115,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YER133W (pp) YMR311C",
+    "SUID" : 1188,
+    "name" : "YER133W (pp) YMR311C"
+  }, {
+    "id" : "1186",
+    "source" : 118,
+    "target" : 116,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YER133W (pp) YOR315W",
+    "SUID" : 1186,
+    "name" : "YER133W (pp) YOR315W"
+  }, {
+    "id" : "1184",
+    "source" : 118,
+    "target" : 117,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YER133W (pp) YOR178C",
+    "SUID" : 1184,
+    "name" : "YER133W (pp) YOR178C"
+  }, {
+    "id" : "1182",
+    "source" : 118,
+    "target" : 272,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YER133W (pp) YDR412W",
+    "SUID" : 1182,
+    "name" : "YER133W (pp) YDR412W"
+  }, {
+    "id" : "1180",
+    "source" : 120,
+    "target" : 119,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YFR037C (pp) YOR290C",
+    "SUID" : 1180,
+    "name" : "YFR037C (pp) YOR290C"
+  }, {
+    "id" : "1177",
+    "source" : 121,
+    "target" : 283,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YFR034C (pd) YBR093C",
+    "SUID" : 1177,
+    "name" : "YFR034C (pd) YBR093C"
+  }, {
+    "id" : "1175",
+    "source" : 122,
+    "target" : 207,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YAL040C (pd) YMR043W",
+    "SUID" : 1175,
+    "name" : "YAL040C (pd) YMR043W"
+  }, {
+    "id" : "1173",
+    "source" : 124,
+    "target" : 123,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YGR048W (pp) YPL222W",
+    "SUID" : 1173,
+    "name" : "YGR048W (pp) YPL222W"
+  }, {
+    "id" : "1170",
+    "source" : 125,
+    "target" : 181,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YMR291W (pp) YGL115W",
+    "SUID" : 1170,
+    "name" : "YMR291W (pp) YGL115W"
+  }, {
+    "id" : "1430",
+    "source" : 126,
+    "target" : 51,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YGR009C (pp) YBL050W",
+    "SUID" : 1430,
+    "name" : "YGR009C (pp) YBL050W"
+  }, {
+    "id" : "1429",
+    "source" : 126,
+    "target" : 172,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YGR009C (pp) YDR335W",
+    "SUID" : 1429,
+    "name" : "YGR009C (pp) YDR335W"
+  }, {
+    "id" : "1428",
+    "source" : 126,
+    "target" : 275,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YGR009C (pp) YOR327C",
+    "SUID" : 1428,
+    "name" : "YGR009C (pp) YOR327C"
+  }, {
+    "id" : "1427",
+    "source" : 126,
+    "target" : 277,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YGR009C (pp) YAL030W",
+    "SUID" : 1427,
+    "name" : "YGR009C (pp) YAL030W"
+  }, {
+    "id" : "1168",
+    "source" : 127,
+    "target" : 126,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YMR183C (pp) YGR009C",
+    "SUID" : 1168,
+    "name" : "YMR183C (pp) YGR009C"
+  }, {
+    "id" : "1165",
+    "source" : 129,
+    "target" : 128,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YGL161C (pp) YDR100W",
+    "SUID" : 1165,
+    "name" : "YGL161C (pp) YDR100W"
+  }, {
+    "id" : "1162",
+    "source" : 131,
+    "target" : 130,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDL063C (pp) YPL131W",
+    "SUID" : 1162,
+    "name" : "YDL063C (pp) YPL131W"
+  }, {
+    "id" : "1159",
+    "source" : 132,
+    "target" : 254,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YNL167C (pd) YOR202W",
+    "SUID" : 1159,
+    "name" : "YNL167C (pd) YOR202W"
+  }, {
+    "id" : "1426",
+    "source" : 133,
+    "target" : 20,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YHR115C (pp) YOR215C",
+    "SUID" : 1426,
+    "name" : "YHR115C (pp) YOR215C"
+  }, {
+    "id" : "1157",
+    "source" : 134,
+    "target" : 133,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YEL041W (pp) YHR115C",
+    "SUID" : 1157,
+    "name" : "YEL041W (pp) YHR115C"
+  }, {
+    "id" : "1154",
+    "source" : 136,
+    "target" : 135,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YJL036W (pp) YDL113C",
+    "SUID" : 1154,
+    "name" : "YJL036W (pp) YDL113C"
+  }, {
+    "id" : "1450",
+    "source" : 137,
+    "target" : 12,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YBR109C (pp) YFR014C",
+    "SUID" : 1450,
+    "name" : "YBR109C (pp) YFR014C"
+  }, {
+    "id" : "1448",
+    "source" : 137,
+    "target" : 260,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YBR109C (pp) YOR326W",
+    "SUID" : 1448,
+    "name" : "YBR109C (pp) YOR326W"
+  }, {
+    "id" : "1151",
+    "source" : 138,
+    "target" : 137,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YOL016C (pp) YBR109C",
+    "SUID" : 1151,
+    "name" : "YOL016C (pp) YBR109C"
+  }, {
+    "id" : "1147",
+    "source" : 140,
+    "target" : 139,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YNL311C (pp) YKL001C",
+    "SUID" : 1147,
+    "name" : "YNL311C (pp) YKL001C"
+  }, {
+    "id" : "1353",
+    "source" : 141,
+    "target" : 245,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLR319C (pp) YLR362W",
+    "SUID" : 1353,
+    "name" : "YLR319C (pp) YLR362W"
+  }, {
+    "id" : "1142",
+    "source" : 145,
+    "target" : 142,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YNL189W (pp) YPR062W",
+    "SUID" : 1142,
+    "name" : "YNL189W (pp) YPR062W"
+  }, {
+    "id" : "1140",
+    "source" : 145,
+    "target" : 176,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YNL189W (pp) YER065C",
+    "SUID" : 1140,
+    "name" : "YNL189W (pp) YER065C"
+  }, {
+    "id" : "1139",
+    "source" : 145,
+    "target" : 143,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YNL189W (pp) YPL111W",
+    "SUID" : 1139,
+    "name" : "YNL189W (pp) YPL111W"
+  }, {
+    "id" : "1137",
+    "source" : 145,
+    "target" : 144,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YNL189W (pp) YDL236W",
+    "SUID" : 1137,
+    "name" : "YNL189W (pp) YDL236W"
+  }, {
+    "id" : "1134",
+    "source" : 146,
+    "target" : 187,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YBL069W (pp) YGL008C",
+    "SUID" : 1134,
+    "name" : "YBL069W (pp) YGL008C"
+  }, {
+    "id" : "1357",
+    "source" : 147,
+    "target" : 90,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YGL073W (pd) YER103W",
+    "SUID" : 1357,
+    "name" : "YGL073W (pd) YER103W"
+  }, {
+    "id" : "1356",
+    "source" : 147,
+    "target" : 56,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YGL073W (pd) YHR055C",
+    "SUID" : 1356,
+    "name" : "YGL073W (pd) YHR055C"
+  }, {
+    "id" : "1355",
+    "source" : 147,
+    "target" : 57,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YGL073W (pd) YHR053C",
+    "SUID" : 1355,
+    "name" : "YGL073W (pd) YHR053C"
+  }, {
+    "id" : "1354",
+    "source" : 147,
+    "target" : 117,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YGL073W (pp) YOR178C",
+    "SUID" : 1354,
+    "name" : "YGL073W (pp) YOR178C"
+  }, {
+    "id" : "1131",
+    "source" : 148,
+    "target" : 147,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YBR072W (pd) YGL073W",
+    "SUID" : 1131,
+    "name" : "YBR072W (pd) YGL073W"
+  }, {
+    "id" : "1128",
+    "source" : 149,
+    "target" : 272,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLR321C (pp) YDR412W",
+    "SUID" : 1128,
+    "name" : "YLR321C (pp) YDR412W"
+  }, {
+    "id" : "1410",
+    "source" : 150,
+    "target" : 40,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YPR048W (pp) YDL215C",
+    "SUID" : 1410,
+    "name" : "YPR048W (pp) YDL215C"
+  }, {
+    "id" : "1409",
+    "source" : 150,
+    "target" : 111,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YPR048W (pp) YOR355W",
+    "SUID" : 1409,
+    "name" : "YPR048W (pp) YOR355W"
+  }, {
+    "id" : "1125",
+    "source" : 151,
+    "target" : 150,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YNL199C (pp) YPR048W",
+    "SUID" : 1125,
+    "name" : "YNL199C (pp) YPR048W"
+  }, {
+    "id" : "1123",
+    "source" : 152,
+    "target" : 278,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YPL075W (pd) YOL086C",
+    "SUID" : 1123,
+    "name" : "YPL075W (pd) YOL086C"
+  }, {
+    "id" : "1122",
+    "source" : 152,
+    "target" : 279,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YPL075W (pd) YDR050C",
+    "SUID" : 1122,
+    "name" : "YPL075W (pd) YDR050C"
+  }, {
+    "id" : "1121",
+    "source" : 152,
+    "target" : 151,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YPL075W (pp) YNL199C",
+    "SUID" : 1121,
+    "name" : "YPL075W (pp) YNL199C"
+  }, {
+    "id" : "1119",
+    "source" : 152,
+    "target" : 290,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YPL075W (pd) YHR174W",
+    "SUID" : 1119,
+    "name" : "YPL075W (pd) YHR174W"
+  }, {
+    "id" : "1118",
+    "source" : 152,
+    "target" : 291,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YPL075W (pd) YGR254W",
+    "SUID" : 1118,
+    "name" : "YPL075W (pd) YGR254W"
+  }, {
+    "id" : "1117",
+    "source" : 152,
+    "target" : 292,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YPL075W (pd) YCR012W",
+    "SUID" : 1117,
+    "name" : "YPL075W (pd) YCR012W"
+  }, {
+    "id" : "1115",
+    "source" : 155,
+    "target" : 153,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YFL039C (pp) YHR179W",
+    "SUID" : 1115,
+    "name" : "YFL039C (pp) YHR179W"
+  }, {
+    "id" : "1113",
+    "source" : 155,
+    "target" : 154,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YFL039C (pp) YCL040W",
+    "SUID" : 1113,
+    "name" : "YFL039C (pp) YCL040W"
+  }, {
+    "id" : "1111",
+    "source" : 157,
+    "target" : 155,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR382W (pp) YFL039C",
+    "SUID" : 1111,
+    "name" : "YDR382W (pp) YFL039C"
+  }, {
+    "id" : "1109",
+    "source" : 157,
+    "target" : 156,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR382W (pp) YDL130W",
+    "SUID" : 1109,
+    "name" : "YDR382W (pp) YDL130W"
+  }, {
+    "id" : "1106",
+    "source" : 158,
+    "target" : 226,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YJR066W (pp) YLR116W",
+    "SUID" : 1106,
+    "name" : "YJR066W (pp) YLR116W"
+  }, {
+    "id" : "1126",
+    "source" : 159,
+    "target" : 240,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "? (pd) YGL035C",
+    "SUID" : 1126,
+    "name" : "? (pd) YGL035C"
+  }, {
+    "id" : "1104",
+    "source" : 159,
+    "target" : 234,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "? (pd) YKR099W",
+    "SUID" : 1104,
+    "name" : "? (pd) YKR099W"
+  }, {
+    "id" : "1102",
+    "source" : 161,
+    "target" : 160,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YNL154C (pp) YKL204W",
+    "SUID" : 1102,
+    "name" : "YNL154C (pp) YKL204W"
+  }, {
+    "id" : "1237",
+    "source" : 162,
+    "target" : 263,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YNL047C (pp) YIL105C",
+    "SUID" : 1237,
+    "name" : "YNL047C (pp) YIL105C"
+  }, {
+    "id" : "1097",
+    "source" : 164,
+    "target" : 163,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YHR135C (pp) YNL116W",
+    "SUID" : 1097,
+    "name" : "YHR135C (pp) YNL116W"
+  }, {
+    "id" : "1318",
+    "source" : 165,
+    "target" : 171,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YML064C (pp) YDR174W",
+    "SUID" : 1318,
+    "name" : "YML064C (pp) YDR174W"
+  }, {
+    "id" : "1317",
+    "source" : 165,
+    "target" : 61,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YML064C (pp) YLR284C",
+    "SUID" : 1317,
+    "name" : "YML064C (pp) YLR284C"
+  }, {
+    "id" : "1315",
+    "source" : 165,
+    "target" : 62,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YML064C (pp) YHR198C",
+    "SUID" : 1315,
+    "name" : "YML064C (pp) YHR198C"
+  }, {
+    "id" : "1390",
+    "source" : 166,
+    "target" : 240,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YKL074C (pp) YGL035C",
+    "SUID" : 1390,
+    "name" : "YKL074C (pp) YGL035C"
+  }, {
+    "id" : "1090",
+    "source" : 168,
+    "target" : 167,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDL081C (pp) YLR340W",
+    "SUID" : 1090,
+    "name" : "YDL081C (pp) YLR340W"
+  }, {
+    "id" : "1327",
+    "source" : 169,
+    "target" : 56,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YGL166W (pd) YHR055C",
+    "SUID" : 1327,
+    "name" : "YGL166W (pd) YHR055C"
+  }, {
+    "id" : "1325",
+    "source" : 169,
+    "target" : 57,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YGL166W (pd) YHR053C",
+    "SUID" : 1325,
+    "name" : "YGL166W (pd) YHR053C"
+  }, {
+    "id" : "1086",
+    "source" : 170,
+    "target" : 169,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLL028W (pp) YGL166W",
+    "SUID" : 1086,
+    "name" : "YLL028W (pp) YGL166W"
+  }, {
+    "id" : "1083",
+    "source" : 172,
+    "target" : 171,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR335W (pp) YDR174W",
+    "SUID" : 1083,
+    "name" : "YDR335W (pp) YDR174W"
+  }, {
+    "id" : "1080",
+    "source" : 174,
+    "target" : 173,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YMR021C (pd) YLR214W",
+    "SUID" : 1080,
+    "name" : "YMR021C (pd) YLR214W"
+  }, {
+    "id" : "1077",
+    "source" : 177,
+    "target" : 175,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YJL089W (pd) YLR377C",
+    "SUID" : 1077,
+    "name" : "YJL089W (pd) YLR377C"
+  }, {
+    "id" : "1075",
+    "source" : 177,
+    "target" : 204,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YJL089W (pd) YKR097W",
+    "SUID" : 1075,
+    "name" : "YJL089W (pd) YKR097W"
+  }, {
+    "id" : "1074",
+    "source" : 177,
+    "target" : 176,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YJL089W (pd) YER065C",
+    "SUID" : 1074,
+    "name" : "YJL089W (pd) YER065C"
+  }, {
+    "id" : "1408",
+    "source" : 178,
+    "target" : 97,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YHR030C (pp) YER111C",
+    "SUID" : 1408,
+    "name" : "YHR030C (pp) YER111C"
+  }, {
+    "id" : "1407",
+    "source" : 178,
+    "target" : 195,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YHR030C (pp) YLL021W",
+    "SUID" : 1407,
+    "name" : "YHR030C (pp) YLL021W"
+  }, {
+    "id" : "1071",
+    "source" : 179,
+    "target" : 178,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YPL089C (pp) YHR030C",
+    "SUID" : 1071,
+    "name" : "YPL089C (pp) YHR030C"
+  }, {
+    "id" : "1068",
+    "source" : 181,
+    "target" : 180,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YGL115W (pp) YGL208W",
+    "SUID" : 1068,
+    "name" : "YGL115W (pp) YGL208W"
+  }, {
+    "id" : "1236",
+    "source" : 182,
+    "target" : 90,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLR310C (pp) YER103W",
+    "SUID" : 1236,
+    "name" : "YLR310C (pp) YER103W"
+  }, {
+    "id" : "1065",
+    "source" : 183,
+    "target" : 182,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YNL098C (pp) YLR310C",
+    "SUID" : 1065,
+    "name" : "YNL098C (pp) YLR310C"
+  }, {
+    "id" : "1062",
+    "source" : 186,
+    "target" : 184,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YER040W (pd) YGR019W",
+    "SUID" : 1062,
+    "name" : "YER040W (pd) YGR019W"
+  }, {
+    "id" : "1060",
+    "source" : 186,
+    "target" : 185,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YER040W (pd) YPR035W",
+    "SUID" : 1060,
+    "name" : "YER040W (pd) YPR035W"
+  }, {
+    "id" : "1057",
+    "source" : 187,
+    "target" : 207,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YGL008C (pd) YMR043W",
+    "SUID" : 1057,
+    "name" : "YGL008C (pd) YMR043W"
+  }, {
+    "id" : "1254",
+    "source" : 188,
+    "target" : 129,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YOR036W (pp) YGL161C",
+    "SUID" : 1254,
+    "name" : "YOR036W (pp) YGL161C"
+  }, {
+    "id" : "1253",
+    "source" : 188,
+    "target" : 128,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YOR036W (pp) YDR100W",
+    "SUID" : 1253,
+    "name" : "YOR036W (pp) YDR100W"
+  }, {
+    "id" : "1055",
+    "source" : 189,
+    "target" : 188,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR323C (pp) YOR036W",
+    "SUID" : 1055,
+    "name" : "YDR323C (pp) YOR036W"
+  }, {
+    "id" : "1052",
+    "source" : 190,
+    "target" : 194,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YBL005W (pd) YJL219W",
+    "SUID" : 1052,
+    "name" : "YBL005W (pd) YJL219W"
+  }, {
+    "id" : "1239",
+    "source" : 191,
+    "target" : 203,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YBR160W (pp) YGR108W",
+    "SUID" : 1239,
+    "name" : "YBR160W (pp) YGR108W"
+  }, {
+    "id" : "1238",
+    "source" : 191,
+    "target" : 207,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YBR160W (pd) YMR043W",
+    "SUID" : 1238,
+    "name" : "YBR160W (pd) YMR043W"
+  }, {
+    "id" : "1046",
+    "source" : 192,
+    "target" : 191,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YKL101W (pp) YBR160W",
+    "SUID" : 1046,
+    "name" : "YKL101W (pp) YBR160W"
+  }, {
+    "id" : "1313",
+    "source" : 193,
+    "target" : 190,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YOL156W (pd) YBL005W",
+    "SUID" : 1313,
+    "name" : "YOL156W (pd) YBL005W"
+  }, {
+    "id" : "1039",
+    "source" : 195,
+    "target" : 245,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLL021W (pp) YLR362W",
+    "SUID" : 1039,
+    "name" : "YLL021W (pp) YLR362W"
+  }, {
+    "id" : "1037",
+    "source" : 197,
+    "target" : 196,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YJL203W (pp) YOL136C",
+    "SUID" : 1037,
+    "name" : "YJL203W (pp) YOL136C"
+  }, {
+    "id" : "1416",
+    "source" : 200,
+    "target" : 25,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YJL157C (pp) YOR212W",
+    "SUID" : 1416,
+    "name" : "YJL157C (pp) YOR212W"
+  }, {
+    "id" : "1414",
+    "source" : 200,
+    "target" : 122,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YJL157C (pp) YAL040C",
+    "SUID" : 1414,
+    "name" : "YJL157C (pp) YAL040C"
+  }, {
+    "id" : "1342",
+    "source" : 201,
+    "target" : 50,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YNL145W (pd) YHR084W",
+    "SUID" : 1342,
+    "name" : "YNL145W (pd) YHR084W"
+  }, {
+    "id" : "1340",
+    "source" : 201,
+    "target" : 306,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YNL145W (pd) YCL067C",
+    "SUID" : 1340,
+    "name" : "YNL145W (pd) YCL067C"
+  }, {
+    "id" : "1276",
+    "source" : 203,
+    "target" : 79,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YGR108W (pp) YBR135W",
+    "SUID" : 1276,
+    "name" : "YGR108W (pp) YBR135W"
+  }, {
+    "id" : "1030",
+    "source" : 207,
+    "target" : 199,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YMR043W (pd) YFL026W",
+    "SUID" : 1030,
+    "name" : "YMR043W (pd) YFL026W"
+  }, {
+    "id" : "1028",
+    "source" : 207,
+    "target" : 200,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YMR043W (pd) YJL157C",
+    "SUID" : 1028,
+    "name" : "YMR043W (pd) YJL157C"
+  }, {
+    "id" : "1026",
+    "source" : 207,
+    "target" : 201,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YMR043W (pd) YNL145W",
+    "SUID" : 1026,
+    "name" : "YMR043W (pd) YNL145W"
+  }, {
+    "id" : "1024",
+    "source" : 207,
+    "target" : 202,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YMR043W (pd) YDR461W",
+    "SUID" : 1024,
+    "name" : "YMR043W (pd) YDR461W"
+  }, {
+    "id" : "1022",
+    "source" : 207,
+    "target" : 203,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YMR043W (pd) YGR108W",
+    "SUID" : 1022,
+    "name" : "YMR043W (pd) YGR108W"
+  }, {
+    "id" : "1020",
+    "source" : 207,
+    "target" : 204,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YMR043W (pd) YKR097W",
+    "SUID" : 1020,
+    "name" : "YMR043W (pd) YKR097W"
+  }, {
+    "id" : "1018",
+    "source" : 207,
+    "target" : 205,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YMR043W (pd) YJL159W",
+    "SUID" : 1018,
+    "name" : "YMR043W (pd) YJL159W"
+  }, {
+    "id" : "1016",
+    "source" : 207,
+    "target" : 206,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YMR043W (pd) YIL015W",
+    "SUID" : 1016,
+    "name" : "YMR043W (pd) YIL015W"
+  }, {
+    "id" : "1013",
+    "source" : 208,
+    "target" : 240,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YKL109W (pd) YGL035C",
+    "SUID" : 1013,
+    "name" : "YKL109W (pd) YGL035C"
+  }, {
+    "id" : "1012",
+    "source" : 208,
+    "target" : 217,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YKL109W (pd) YJR048W",
+    "SUID" : 1012,
+    "name" : "YKL109W (pd) YJR048W"
+  }, {
+    "id" : "1011",
+    "source" : 208,
+    "target" : 214,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YKL109W (pp) YBL021C",
+    "SUID" : 1011,
+    "name" : "YKL109W (pp) YBL021C"
+  }, {
+    "id" : "1010",
+    "source" : 208,
+    "target" : 215,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YKL109W (pp) YGL237C",
+    "SUID" : 1010,
+    "name" : "YKL109W (pp) YGL237C"
+  }, {
+    "id" : "1364",
+    "source" : 209,
+    "target" : 198,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YBR217W (pp) YNR007C",
+    "SUID" : 1364,
+    "name" : "YBR217W (pp) YNR007C"
+  }, {
+    "id" : "1033",
+    "source" : 210,
+    "target" : 198,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YHR171W (pp) YNR007C",
+    "SUID" : 1033,
+    "name" : "YHR171W (pp) YNR007C"
+  }, {
+    "id" : "1031",
+    "source" : 210,
+    "target" : 272,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YHR171W (pp) YDR412W",
+    "SUID" : 1031,
+    "name" : "YHR171W (pp) YDR412W"
+  }, {
+    "id" : "1008",
+    "source" : 211,
+    "target" : 209,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YPL149W (pp) YBR217W",
+    "SUID" : 1008,
+    "name" : "YPL149W (pp) YBR217W"
+  }, {
+    "id" : "1006",
+    "source" : 211,
+    "target" : 210,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YPL149W (pp) YHR171W",
+    "SUID" : 1006,
+    "name" : "YPL149W (pp) YHR171W"
+  }, {
+    "id" : "1003",
+    "source" : 213,
+    "target" : 212,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR311W (pp) YKL028W",
+    "SUID" : 1003,
+    "name" : "YDR311W (pp) YKL028W"
+  }, {
+    "id" : "1000",
+    "source" : 214,
+    "target" : 217,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YBL021C (pd) YJR048W",
+    "SUID" : 1000,
+    "name" : "YBL021C (pd) YJR048W"
+  }, {
+    "id" : "998",
+    "source" : 215,
+    "target" : 217,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YGL237C (pd) YJR048W",
+    "SUID" : 998,
+    "name" : "YGL237C (pd) YJR048W"
+  }, {
+    "id" : "996",
+    "source" : 219,
+    "target" : 216,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YLR256W (pd) YEL039C",
+    "SUID" : 996,
+    "name" : "YLR256W (pd) YEL039C"
+  }, {
+    "id" : "994",
+    "source" : 219,
+    "target" : 217,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YLR256W (pd) YJR048W",
+    "SUID" : 994,
+    "name" : "YLR256W (pd) YJR048W"
+  }, {
+    "id" : "992",
+    "source" : 219,
+    "target" : 218,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YLR256W (pd) YML054C",
+    "SUID" : 992,
+    "name" : "YLR256W (pd) YML054C"
+  }, {
+    "id" : "989",
+    "source" : 221,
+    "target" : 220,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YJR109C (pp) YOR303W",
+    "SUID" : 989,
+    "name" : "YJR109C (pp) YOR303W"
+  }, {
+    "id" : "986",
+    "source" : 222,
+    "target" : 225,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YGR058W (pp) YOR264W",
+    "SUID" : 986,
+    "name" : "YGR058W (pp) YOR264W"
+  }, {
+    "id" : "1309",
+    "source" : 223,
+    "target" : 200,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLR229C (pp) YJL157C",
+    "SUID" : 1309,
+    "name" : "YLR229C (pp) YJL157C"
+  }, {
+    "id" : "984",
+    "source" : 224,
+    "target" : 223,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR309C (pp) YLR229C",
+    "SUID" : 984,
+    "name" : "YDR309C (pp) YLR229C"
+  }, {
+    "id" : "979",
+    "source" : 226,
+    "target" : 229,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLR116W (pp) YKL012W",
+    "SUID" : 979,
+    "name" : "YLR116W (pp) YKL012W"
+  }, {
+    "id" : "1305",
+    "source" : 227,
+    "target" : 143,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YNL312W (pd) YPL111W",
+    "SUID" : 1305,
+    "name" : "YNL312W (pd) YPL111W"
+  }, {
+    "id" : "977",
+    "source" : 228,
+    "target" : 227,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YML032C (pp) YNL312W",
+    "SUID" : 977,
+    "name" : "YML032C (pp) YNL312W"
+  }, {
+    "id" : "1092",
+    "source" : 229,
+    "target" : 166,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YKL012W (pp) YKL074C",
+    "SUID" : 1092,
+    "name" : "YKL012W (pp) YKL074C"
+  }, {
+    "id" : "974",
+    "source" : 230,
+    "target" : 229,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YNL236W (pp) YKL012W",
+    "SUID" : 974,
+    "name" : "YNL236W (pp) YKL012W"
+  }, {
+    "id" : "1406",
+    "source" : 231,
+    "target" : 27,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YNL091W (pp) YNL164C",
+    "SUID" : 1406,
+    "name" : "YNL091W (pp) YNL164C"
+  }, {
+    "id" : "1144",
+    "source" : 232,
+    "target" : 141,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR184C (pp) YLR319C",
+    "SUID" : 1144,
+    "name" : "YDR184C (pp) YLR319C"
+  }, {
+    "id" : "1087",
+    "source" : 233,
+    "target" : 213,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YIL143C (pp) YDR311W",
+    "SUID" : 1087,
+    "name" : "YIL143C (pp) YDR311W"
+  }, {
+    "id" : "971",
+    "source" : 235,
+    "target" : 231,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YIR009W (pp) YNL091W",
+    "SUID" : 971,
+    "name" : "YIR009W (pp) YNL091W"
+  }, {
+    "id" : "969",
+    "source" : 235,
+    "target" : 232,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YIR009W (pp) YDR184C",
+    "SUID" : 969,
+    "name" : "YIR009W (pp) YDR184C"
+  }, {
+    "id" : "967",
+    "source" : 235,
+    "target" : 233,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YIR009W (pp) YIL143C",
+    "SUID" : 967,
+    "name" : "YIR009W (pp) YIL143C"
+  }, {
+    "id" : "965",
+    "source" : 235,
+    "target" : 234,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YIR009W (pp) YKR099W",
+    "SUID" : 965,
+    "name" : "YIR009W (pp) YKR099W"
+  }, {
+    "id" : "1299",
+    "source" : 237,
+    "target" : 236,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YPL248C (pd) YBR018C",
+    "SUID" : 1299,
+    "name" : "YPL248C (pd) YBR018C"
+  }, {
+    "id" : "1298",
+    "source" : 237,
+    "target" : 238,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YPL248C (pd) YLR081W",
+    "SUID" : 1298,
+    "name" : "YPL248C (pd) YLR081W"
+  }, {
+    "id" : "1297",
+    "source" : 237,
+    "target" : 239,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YPL248C (pd) YBR020W",
+    "SUID" : 1297,
+    "name" : "YPL248C (pd) YBR020W"
+  }, {
+    "id" : "1296",
+    "source" : 237,
+    "target" : 103,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YPL248C (pp) YML051W",
+    "SUID" : 1296,
+    "name" : "YPL248C (pp) YML051W"
+  }, {
+    "id" : "1295",
+    "source" : 237,
+    "target" : 103,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YPL248C (pd) YML051W",
+    "SUID" : 1295,
+    "name" : "YPL248C (pd) YML051W"
+  }, {
+    "id" : "1294",
+    "source" : 237,
+    "target" : 240,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YPL248C (pd) YGL035C",
+    "SUID" : 1294,
+    "name" : "YPL248C (pd) YGL035C"
+  }, {
+    "id" : "1293",
+    "source" : 237,
+    "target" : 217,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YPL248C (pd) YJR048W",
+    "SUID" : 1293,
+    "name" : "YPL248C (pd) YJR048W"
+  }, {
+    "id" : "1292",
+    "source" : 237,
+    "target" : 159,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YPL248C (pd) ?",
+    "SUID" : 1292,
+    "name" : "YPL248C (pd) ?"
+  }, {
+    "id" : "1291",
+    "source" : 237,
+    "target" : 242,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YPL248C (pd) YBR019C",
+    "SUID" : 1291,
+    "name" : "YPL248C (pd) YBR019C"
+  }, {
+    "id" : "1289",
+    "source" : 239,
+    "target" : 240,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YBR020W (pd) YGL035C",
+    "SUID" : 1289,
+    "name" : "YBR020W (pd) YGL035C"
+  }, {
+    "id" : "1194",
+    "source" : 240,
+    "target" : 113,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YGL035C (pd) YIL162W",
+    "SUID" : 1194,
+    "name" : "YGL035C (pd) YIL162W"
+  }, {
+    "id" : "1192",
+    "source" : 240,
+    "target" : 175,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YGL035C (pd) YLR377C",
+    "SUID" : 1192,
+    "name" : "YGL035C (pd) YLR377C"
+  }, {
+    "id" : "1191",
+    "source" : 240,
+    "target" : 288,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YGL035C (pd) YLR044C",
+    "SUID" : 1191,
+    "name" : "YGL035C (pd) YLR044C"
+  }, {
+    "id" : "962",
+    "source" : 241,
+    "target" : 236,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YOL051W (pd) YBR018C",
+    "SUID" : 962,
+    "name" : "YOL051W (pd) YBR018C"
+  }, {
+    "id" : "960",
+    "source" : 241,
+    "target" : 237,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YOL051W (pp) YPL248C",
+    "SUID" : 960,
+    "name" : "YOL051W (pp) YPL248C"
+  }, {
+    "id" : "958",
+    "source" : 241,
+    "target" : 238,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YOL051W (pd) YLR081W",
+    "SUID" : 958,
+    "name" : "YOL051W (pd) YLR081W"
+  }, {
+    "id" : "956",
+    "source" : 241,
+    "target" : 239,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YOL051W (pd) YBR020W",
+    "SUID" : 956,
+    "name" : "YOL051W (pd) YBR020W"
+  }, {
+    "id" : "954",
+    "source" : 242,
+    "target" : 240,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YBR019C (pd) YGL035C",
+    "SUID" : 954,
+    "name" : "YBR019C (pd) YGL035C"
+  }, {
+    "id" : "952",
+    "source" : 242,
+    "target" : 241,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YBR019C (pd) YOL051W",
+    "SUID" : 952,
+    "name" : "YBR019C (pd) YOL051W"
+  }, {
+    "id" : "1266",
+    "source" : 243,
+    "target" : 77,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YJR060W (pd) YPR167C",
+    "SUID" : 1266,
+    "name" : "YJR060W (pd) YPR167C"
+  }, {
+    "id" : "1443",
+    "source" : 244,
+    "target" : 245,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR103W (pp) YLR362W",
+    "SUID" : 1443,
+    "name" : "YDR103W (pp) YLR362W"
+  }, {
+    "id" : "1382",
+    "source" : 245,
+    "target" : 63,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLR362W (pp) YPL240C",
+    "SUID" : 1382,
+    "name" : "YLR362W (pp) YPL240C"
+  }, {
+    "id" : "1381",
+    "source" : 245,
+    "target" : 258,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLR362W (pp) YMR186W",
+    "SUID" : 1381,
+    "name" : "YLR362W (pp) YMR186W"
+  }, {
+    "id" : "1380",
+    "source" : 245,
+    "target" : 36,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLR362W (pp) YER124C",
+    "SUID" : 1380,
+    "name" : "YLR362W (pp) YER124C"
+  }, {
+    "id" : "947",
+    "source" : 247,
+    "target" : 244,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YCL032W (pp) YDR103W",
+    "SUID" : 947,
+    "name" : "YCL032W (pp) YDR103W"
+  }, {
+    "id" : "945",
+    "source" : 247,
+    "target" : 245,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YCL032W (pp) YLR362W",
+    "SUID" : 945,
+    "name" : "YCL032W (pp) YLR362W"
+  }, {
+    "id" : "943",
+    "source" : 247,
+    "target" : 246,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YCL032W (pp) YDR032C",
+    "SUID" : 943,
+    "name" : "YCL032W (pp) YDR032C"
+  }, {
+    "id" : "940",
+    "source" : 250,
+    "target" : 248,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YMR138W (pp) YLR109W",
+    "SUID" : 940,
+    "name" : "YMR138W (pp) YLR109W"
+  }, {
+    "id" : "938",
+    "source" : 250,
+    "target" : 249,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YMR138W (pp) YHR141C",
+    "SUID" : 938,
+    "name" : "YMR138W (pp) YHR141C"
+  }, {
+    "id" : "1148",
+    "source" : 252,
+    "target" : 145,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YOL058W (pp) YNL189W",
+    "SUID" : 1148,
+    "name" : "YOL058W (pp) YNL189W"
+  }, {
+    "id" : "935",
+    "source" : 256,
+    "target" : 251,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YEL009C (pd) YMR300C",
+    "SUID" : 935,
+    "name" : "YEL009C (pd) YMR300C"
+  }, {
+    "id" : "933",
+    "source" : 256,
+    "target" : 252,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YEL009C (pd) YOL058W",
+    "SUID" : 933,
+    "name" : "YEL009C (pd) YOL058W"
+  }, {
+    "id" : "931",
+    "source" : 256,
+    "target" : 253,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YEL009C (pd) YBR248C",
+    "SUID" : 931,
+    "name" : "YEL009C (pd) YBR248C"
+  }, {
+    "id" : "929",
+    "source" : 256,
+    "target" : 285,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YEL009C (pd) YCL030C",
+    "SUID" : 929,
+    "name" : "YEL009C (pd) YCL030C"
+  }, {
+    "id" : "928",
+    "source" : 256,
+    "target" : 254,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YEL009C (pd) YOR202W",
+    "SUID" : 928,
+    "name" : "YEL009C (pd) YOR202W"
+  }, {
+    "id" : "926",
+    "source" : 256,
+    "target" : 255,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YEL009C (pd) YMR108W",
+    "SUID" : 926,
+    "name" : "YEL009C (pd) YMR108W"
+  }, {
+    "id" : "923",
+    "source" : 258,
+    "target" : 257,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YMR186W (pp) YBR155W",
+    "SUID" : 923,
+    "name" : "YMR186W (pp) YBR155W"
+  }, {
+    "id" : "920",
+    "source" : 260,
+    "target" : 259,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YOR326W (pp) YGL106W",
+    "SUID" : 920,
+    "name" : "YOR326W (pp) YGL106W"
+  }, {
+    "id" : "1099",
+    "source" : 261,
+    "target" : 162,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YMR309C (pp) YNL047C",
+    "SUID" : 1099,
+    "name" : "YMR309C (pp) YNL047C"
+  }, {
+    "id" : "917",
+    "source" : 262,
+    "target" : 320,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YOR361C (pp) YDR429C",
+    "SUID" : 917,
+    "name" : "YOR361C (pp) YDR429C"
+  }, {
+    "id" : "916",
+    "source" : 262,
+    "target" : 261,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YOR361C (pp) YMR309C",
+    "SUID" : 916,
+    "name" : "YOR361C (pp) YMR309C"
+  }, {
+    "id" : "913",
+    "source" : 265,
+    "target" : 263,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YER179W (pp) YIL105C",
+    "SUID" : 913,
+    "name" : "YER179W (pp) YIL105C"
+  }, {
+    "id" : "911",
+    "source" : 265,
+    "target" : 264,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YER179W (pp) YLR134W",
+    "SUID" : 911,
+    "name" : "YER179W (pp) YLR134W"
+  }, {
+    "id" : "909",
+    "source" : 265,
+    "target" : 288,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YER179W (pp) YLR044C",
+    "SUID" : 909,
+    "name" : "YER179W (pp) YLR044C"
+  }, {
+    "id" : "907",
+    "source" : 267,
+    "target" : 266,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDL014W (pp) YOR310C",
+    "SUID" : 907,
+    "name" : "YDL014W (pp) YOR310C"
+  }, {
+    "id" : "1285",
+    "source" : 268,
+    "target" : 207,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YPR119W (pd) YMR043W",
+    "SUID" : 1285,
+    "name" : "YPR119W (pd) YMR043W"
+  }, {
+    "id" : "1242",
+    "source" : 269,
+    "target" : 89,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLR117C (pp) YBR190W",
+    "SUID" : 1242,
+    "name" : "YLR117C (pp) YBR190W"
+  }, {
+    "id" : "1043",
+    "source" : 270,
+    "target" : 193,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YGL013C (pd) YOL156W",
+    "SUID" : 1043,
+    "name" : "YGL013C (pd) YOL156W"
+  }, {
+    "id" : "1041",
+    "source" : 270,
+    "target" : 194,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YGL013C (pd) YJL219W",
+    "SUID" : 1041,
+    "name" : "YGL013C (pd) YJL219W"
+  }, {
+    "id" : "981",
+    "source" : 271,
+    "target" : 225,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YCR086W (pp) YOR264W",
+    "SUID" : 981,
+    "name" : "YCR086W (pp) YOR264W"
+  }, {
+    "id" : "904",
+    "source" : 272,
+    "target" : 268,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR412W (pp) YPR119W",
+    "SUID" : 904,
+    "name" : "YDR412W (pp) YPR119W"
+  }, {
+    "id" : "902",
+    "source" : 272,
+    "target" : 269,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR412W (pp) YLR117C",
+    "SUID" : 902,
+    "name" : "YDR412W (pp) YLR117C"
+  }, {
+    "id" : "900",
+    "source" : 272,
+    "target" : 270,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR412W (pp) YGL013C",
+    "SUID" : 900,
+    "name" : "YDR412W (pp) YGL013C"
+  }, {
+    "id" : "898",
+    "source" : 272,
+    "target" : 271,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR412W (pp) YCR086W",
+    "SUID" : 898,
+    "name" : "YDR412W (pp) YCR086W"
+  }, {
+    "id" : "895",
+    "source" : 274,
+    "target" : 273,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YER062C (pp) YPL201C",
+    "SUID" : 895,
+    "name" : "YER062C (pp) YPL201C"
+  }, {
+    "id" : "892",
+    "source" : 275,
+    "target" : 276,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YOR327C (pp) YER143W",
+    "SUID" : 892,
+    "name" : "YOR327C (pp) YER143W"
+  }, {
+    "id" : "890",
+    "source" : 277,
+    "target" : 276,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YAL030W (pp) YER143W",
+    "SUID" : 890,
+    "name" : "YAL030W (pp) YER143W"
+  }, {
+    "id" : "1132",
+    "source" : 285,
+    "target" : 234,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YCL030C (pd) YKR099W",
+    "SUID" : 1132,
+    "name" : "YCL030C (pd) YKR099W"
+  }, {
+    "id" : "949",
+    "source" : 292,
+    "target" : 243,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YCR012W (pd) YJR060W",
+    "SUID" : 949,
+    "name" : "YCR012W (pd) YJR060W"
+  }, {
+    "id" : "887",
+    "source" : 293,
+    "target" : 278,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YNL216W (pd) YOL086C",
+    "SUID" : 887,
+    "name" : "YNL216W (pd) YOL086C"
+  }, {
+    "id" : "885",
+    "source" : 293,
+    "target" : 279,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YNL216W (pd) YDR050C",
+    "SUID" : 885,
+    "name" : "YNL216W (pd) YDR050C"
+  }, {
+    "id" : "883",
+    "source" : 293,
+    "target" : 280,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YNL216W (pd) YOL127W",
+    "SUID" : 883,
+    "name" : "YNL216W (pd) YOL127W"
+  }, {
+    "id" : "881",
+    "source" : 293,
+    "target" : 294,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YNL216W (pd) YAL038W",
+    "SUID" : 881,
+    "name" : "YNL216W (pd) YAL038W"
+  }, {
+    "id" : "880",
+    "source" : 293,
+    "target" : 281,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YNL216W (pd) YIL069C",
+    "SUID" : 880,
+    "name" : "YNL216W (pd) YIL069C"
+  }, {
+    "id" : "878",
+    "source" : 293,
+    "target" : 282,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YNL216W (pd) YER074W",
+    "SUID" : 878,
+    "name" : "YNL216W (pd) YER074W"
+  }, {
+    "id" : "876",
+    "source" : 293,
+    "target" : 283,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YNL216W (pd) YBR093C",
+    "SUID" : 876,
+    "name" : "YNL216W (pd) YBR093C"
+  }, {
+    "id" : "874",
+    "source" : 293,
+    "target" : 284,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YNL216W (pp) YDR171W",
+    "SUID" : 874,
+    "name" : "YNL216W (pp) YDR171W"
+  }, {
+    "id" : "872",
+    "source" : 293,
+    "target" : 285,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YNL216W (pd) YCL030C",
+    "SUID" : 872,
+    "name" : "YNL216W (pd) YCL030C"
+  }, {
+    "id" : "870",
+    "source" : 293,
+    "target" : 286,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YNL216W (pd) YNL301C",
+    "SUID" : 870,
+    "name" : "YNL216W (pd) YNL301C"
+  }, {
+    "id" : "868",
+    "source" : 293,
+    "target" : 287,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YNL216W (pd) YOL120C",
+    "SUID" : 868,
+    "name" : "YNL216W (pd) YOL120C"
+  }, {
+    "id" : "866",
+    "source" : 293,
+    "target" : 288,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YNL216W (pd) YLR044C",
+    "SUID" : 866,
+    "name" : "YNL216W (pd) YLR044C"
+  }, {
+    "id" : "864",
+    "source" : 293,
+    "target" : 289,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YNL216W (pd) YIL133C",
+    "SUID" : 864,
+    "name" : "YNL216W (pd) YIL133C"
+  }, {
+    "id" : "862",
+    "source" : 293,
+    "target" : 290,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YNL216W (pd) YHR174W",
+    "SUID" : 862,
+    "name" : "YNL216W (pd) YHR174W"
+  }, {
+    "id" : "860",
+    "source" : 293,
+    "target" : 291,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YNL216W (pd) YGR254W",
+    "SUID" : 860,
+    "name" : "YNL216W (pd) YGR254W"
+  }, {
+    "id" : "858",
+    "source" : 293,
+    "target" : 292,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YNL216W (pd) YCR012W",
+    "SUID" : 858,
+    "name" : "YNL216W (pd) YCR012W"
+  }, {
+    "id" : "1210",
+    "source" : 294,
+    "target" : 152,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YAL038W (pd) YPL075W",
+    "SUID" : 1210,
+    "name" : "YAL038W (pd) YPL075W"
+  }, {
+    "id" : "855",
+    "source" : 295,
+    "target" : 294,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YNL307C (pp) YAL038W",
+    "SUID" : 855,
+    "name" : "YNL307C (pp) YAL038W"
+  }, {
+    "id" : "852",
+    "source" : 297,
+    "target" : 296,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YER116C (pp) YDL013W",
+    "SUID" : 852,
+    "name" : "YER116C (pp) YDL013W"
+  }, {
+    "id" : "1475",
+    "source" : 298,
+    "target" : 38,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YNR053C (pp) YDL030W",
+    "SUID" : 1475,
+    "name" : "YNR053C (pp) YDL030W"
+  }, {
+    "id" : "1474",
+    "source" : 298,
+    "target" : 197,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YNR053C (pp) YJL203W",
+    "SUID" : 1474,
+    "name" : "YNR053C (pp) YJL203W"
+  }, {
+    "id" : "1337",
+    "source" : 299,
+    "target" : 52,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLR264W (pp) YBL026W",
+    "SUID" : 1337,
+    "name" : "YLR264W (pp) YBL026W"
+  }, {
+    "id" : "1335",
+    "source" : 299,
+    "target" : 84,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLR264W (pp) YOL149W",
+    "SUID" : 1335,
+    "name" : "YLR264W (pp) YOL149W"
+  }, {
+    "id" : "1334",
+    "source" : 299,
+    "target" : 305,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLR264W (pp) YER112W",
+    "SUID" : 1334,
+    "name" : "YLR264W (pp) YER112W"
+  }, {
+    "id" : "1094",
+    "source" : 300,
+    "target" : 165,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YEL015W (pp) YML064C",
+    "SUID" : 1094,
+    "name" : "YEL015W (pp) YML064C"
+  }, {
+    "id" : "1034",
+    "source" : 302,
+    "target" : 250,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YNR050C (pp) YMR138W",
+    "SUID" : 1034,
+    "name" : "YNR050C (pp) YMR138W"
+  }, {
+    "id" : "849",
+    "source" : 303,
+    "target" : 298,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YJR022W (pp) YNR053C",
+    "SUID" : 849,
+    "name" : "YJR022W (pp) YNR053C"
+  }, {
+    "id" : "847",
+    "source" : 303,
+    "target" : 299,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YJR022W (pp) YLR264W",
+    "SUID" : 847,
+    "name" : "YJR022W (pp) YLR264W"
+  }, {
+    "id" : "845",
+    "source" : 303,
+    "target" : 304,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YJR022W (pp) YOR167C",
+    "SUID" : 845,
+    "name" : "YJR022W (pp) YOR167C"
+  }, {
+    "id" : "844",
+    "source" : 303,
+    "target" : 300,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YJR022W (pp) YEL015W",
+    "SUID" : 844,
+    "name" : "YJR022W (pp) YEL015W"
+  }, {
+    "id" : "842",
+    "source" : 303,
+    "target" : 301,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YJR022W (pp) YNL050C",
+    "SUID" : 842,
+    "name" : "YJR022W (pp) YNL050C"
+  }, {
+    "id" : "840",
+    "source" : 303,
+    "target" : 302,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YJR022W (pp) YNR050C",
+    "SUID" : 840,
+    "name" : "YJR022W (pp) YNR050C"
+  }, {
+    "id" : "837",
+    "source" : 305,
+    "target" : 304,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YER112W (pp) YOR167C",
+    "SUID" : 837,
+    "name" : "YER112W (pp) YOR167C"
+  }, {
+    "id" : "1050",
+    "source" : 306,
+    "target" : 199,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YCL067C (pd) YFL026W",
+    "SUID" : 1050,
+    "name" : "YCL067C (pd) YFL026W"
+  }, {
+    "id" : "1049",
+    "source" : 306,
+    "target" : 202,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YCL067C (pd) YDR461W",
+    "SUID" : 1049,
+    "name" : "YCL067C (pd) YDR461W"
+  }, {
+    "id" : "1048",
+    "source" : 306,
+    "target" : 207,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YCL067C (pp) YMR043W",
+    "SUID" : 1048,
+    "name" : "YCL067C (pp) YMR043W"
+  }, {
+    "id" : "1047",
+    "source" : 306,
+    "target" : 206,
+    "selected" : false,
+    "interaction" : "pd",
+    "shared_interaction" : "pd",
+    "shared_name" : "YCL067C (pd) YIL015W",
+    "SUID" : 1047,
+    "name" : "YCL067C (pd) YIL015W"
+  }, {
+    "id" : "834",
+    "source" : 308,
+    "target" : 306,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YCR084C (pp) YCL067C",
+    "SUID" : 834,
+    "name" : "YCR084C (pp) YCL067C"
+  }, {
+    "id" : "832",
+    "source" : 308,
+    "target" : 307,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YCR084C (pp) YBR112C",
+    "SUID" : 832,
+    "name" : "YCR084C (pp) YBR112C"
+  }, {
+    "id" : "1402",
+    "source" : 309,
+    "target" : 29,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YIL061C (pp) YLR153C",
+    "SUID" : 1402,
+    "name" : "YIL061C (pp) YLR153C"
+  }, {
+    "id" : "1400",
+    "source" : 309,
+    "target" : 151,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YIL061C (pp) YNL199C",
+    "SUID" : 1400,
+    "name" : "YIL061C (pp) YNL199C"
+  }, {
+    "id" : "1399",
+    "source" : 309,
+    "target" : 296,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YIL061C (pp) YDL013W",
+    "SUID" : 1399,
+    "name" : "YIL061C (pp) YDL013W"
+  }, {
+    "id" : "829",
+    "source" : 310,
+    "target" : 309,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YGR203W (pp) YIL061C",
+    "SUID" : 829,
+    "name" : "YGR203W (pp) YIL061C"
+  }, {
+    "id" : "823",
+    "source" : 311,
+    "target" : 312,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YJL013C (pp) YGL229C",
+    "SUID" : 823,
+    "name" : "YJL013C (pp) YGL229C"
+  }, {
+    "id" : "821",
+    "source" : 313,
+    "target" : 312,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YJL030W (pp) YGL229C",
+    "SUID" : 821,
+    "name" : "YJL030W (pp) YGL229C"
+  }, {
+    "id" : "826",
+    "source" : 314,
+    "target" : 311,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YGR014W (pp) YJL013C",
+    "SUID" : 826,
+    "name" : "YGR014W (pp) YJL013C"
+  }, {
+    "id" : "825",
+    "source" : 314,
+    "target" : 313,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YGR014W (pp) YJL030W",
+    "SUID" : 825,
+    "name" : "YGR014W (pp) YJL030W"
+  }, {
+    "id" : "818",
+    "source" : 315,
+    "target" : 314,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YPL211W (pp) YGR014W",
+    "SUID" : 818,
+    "name" : "YPL211W (pp) YGR014W"
+  }, {
+    "id" : "815",
+    "source" : 317,
+    "target" : 316,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YOL123W (pp) YGL044C",
+    "SUID" : 815,
+    "name" : "YOL123W (pp) YGL044C"
+  }, {
+    "id" : "1248",
+    "source" : 319,
+    "target" : 86,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YFL017C (pp) YOR362C",
+    "SUID" : 1248,
+    "name" : "YFL017C (pp) YOR362C"
+  }, {
+    "id" : "1246",
+    "source" : 319,
+    "target" : 87,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YFL017C (pp) YER102W",
+    "SUID" : 1246,
+    "name" : "YFL017C (pp) YER102W"
+  }, {
+    "id" : "1244",
+    "source" : 319,
+    "target" : 88,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YFL017C (pp) YOL059W",
+    "SUID" : 1244,
+    "name" : "YFL017C (pp) YOL059W"
+  }, {
+    "id" : "809",
+    "source" : 320,
+    "target" : 319,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YDR429C (pp) YFL017C",
+    "SUID" : 809,
+    "name" : "YDR429C (pp) YFL017C"
+  }, {
+    "id" : "807",
+    "source" : 321,
+    "target" : 320,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YMR146C (pp) YDR429C",
+    "SUID" : 807,
+    "name" : "YMR146C (pp) YDR429C"
+  }, {
+    "id" : "804",
+    "source" : 322,
+    "target" : 327,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLR293C (pp) YGL097W",
+    "SUID" : 804,
+    "name" : "YLR293C (pp) YGL097W"
+  }, {
+    "id" : "812",
+    "source" : 323,
+    "target" : 318,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YBR118W (pp) YAL003W",
+    "SUID" : 812,
+    "name" : "YBR118W (pp) YAL003W"
+  }, {
+    "id" : "811",
+    "source" : 324,
+    "target" : 318,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YPR080W (pp) YAL003W",
+    "SUID" : 811,
+    "name" : "YPR080W (pp) YAL003W"
+  }, {
+    "id" : "802",
+    "source" : 325,
+    "target" : 323,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLR249W (pp) YBR118W",
+    "SUID" : 802,
+    "name" : "YLR249W (pp) YBR118W"
+  }, {
+    "id" : "800",
+    "source" : 325,
+    "target" : 324,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YLR249W (pp) YPR080W",
+    "SUID" : 800,
+    "name" : "YLR249W (pp) YPR080W"
+  }, {
+    "id" : "797",
+    "source" : 327,
+    "target" : 326,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YGL097W (pp) YOR204W",
+    "SUID" : 797,
+    "name" : "YGL097W (pp) YOR204W"
+  }, {
+    "id" : "795",
+    "source" : 328,
+    "target" : 327,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YGR218W (pp) YGL097W",
+    "SUID" : 795,
+    "name" : "YGR218W (pp) YGL097W"
+  }, {
+    "id" : "824",
+    "source" : 329,
+    "target" : 317,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YGL122C (pp) YOL123W",
+    "SUID" : 824,
+    "name" : "YGL122C (pp) YOL123W"
+  }, {
+    "id" : "792",
+    "source" : 330,
+    "target" : 329,
+    "selected" : false,
+    "interaction" : "pp",
+    "shared_interaction" : "pp",
+    "shared_name" : "YKR026C (pp) YGL122C",
+    "SUID" : 792,
+    "name" : "YKR026C (pp) YGL122C"
+  } ]
+}

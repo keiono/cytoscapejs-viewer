@@ -10,37 +10,28 @@ html, body {
   padding: 0;
   font-weight: 400;
   font-size: 12px;
+  overflow: hidden;
 }
 
+.container {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
 .ui {
-  margin-top: 0;
-  margin-left: 0;
-  width: 350px;
-  height: 100%;
-  padding-top: 0.2em;
-  padding-right: 0.5em;
-  padding-left: 0.5em;
-  padding-bottom: 0.5em;
-  background-color: rgb(220, 220, 220);
-  z-index: 200;
-  position: fixed;
-  top: 0;
-
+  font-weight: 100;
+  padding: 1em;
 }
 
-.commands {
-  padding: 0.5em;
+.page-header h1 {
+  font-size: 3em;
+  font-weight: 100;
 }
 
 .network {
   z-index: 0;
-  height: 100%;
-  margin-left: 350px;
-  top: 0;
-  left: 0;
-  background-color: darkgray;
+  height: 70%;
   background: radial-gradient(circle farthest-corner at center center, #ffffff 1%, #777872 100%);
-  //background: radial-gradient(circle farthest-corner at center center, #afafaf 1%, #575852 100%);
   background-repeat: no-repeat;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -50,6 +41,12 @@ html, body {
   user-select: none;
 }
 
+.d3view {
+  margin: 0;
+  padding: 2em;
+  z-index: 0;
+  background-color: #c9c9c9;
+}
 
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
@@ -104,25 +101,3 @@ html, body {
     margin-top: 28px;
 }
 
-/* Responsive: Portrait tablets and up */
-@media screen and (min-width: 768px) {
-    .container {
-        max-width: 730px;
-    }
-
-    /* Remove the padding we set earlier */
-    .header,
-    .marketing,
-    .footer {
-        padding-left: 0;
-        padding-right: 0;
-    }
-    /* Space out the masthead */
-    .header {
-        margin-bottom: 30px;
-    }
-    /* Remove the bottom border on the jumbotron for visual effect */
-    .jumbotron {
-        border-bottom: 0;
-    }
-}

@@ -22,41 +22,32 @@
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
 
-
-        <!-- Floating UI -->
-        <div class="ui">
-            <div class="page-header">
-                <h1>cytoscape.js <small>viewer</small></h1>
-            </div>
-
-            <h4>Visual Style:</h4>
-            <select id="vs" class="form-control">
-            </select>
-
-            <h4>Network:</h4>
-            <select id="networks" class="form-control">
-            </select>
-
-            <div class="commands">
-                <div class="btn-group">
-                    <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
-                        Layout <span class="caret"></span>
-                    </button>
-                    <ul class="dropdown-menu" role="menu">
-                        <li><a href="#">Arbor</a></li>
-                        <li><a href="#">Circular</a></li>
-                        <li><a href="#">Grid</a></li>
-                    </ul>
-                </div>
-
-
-            </div>
-        </div>
-        <!-- Actual Cytoscape.js Network View -->
-
         <div class="network">
         </div>
 
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="ui">
+                        <div class="page-header">
+                            <h1>cytoscape.js <small>viewer</small></h1>
+                        </div>
+
+                        <h4>Visual Style:</h4>
+                        <select id="vs" class="form-control">
+                        </select>
+
+                        <h4>Network:</h4>
+                        <select id="networks" class="form-control">
+                        </select>
+                    </div>
+                </div>
+                <div class="col-md-8">
+                    <div class="d3view">
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <!-- build:js scripts/vendor.js -->
         <!-- bower:js -->
@@ -64,6 +55,7 @@
         <script src="bower_components/cytoscape.js/lib/arbor.js"></script>
         <script src="bower_components/cytoscape.js/build/cytoscape.js"></script>
         <script src="bower_components/underscore/underscore.js"></script>
+        <script src="bower_components/d3/d3.min.js"></script>
         <!-- endbower -->
         <!-- endbuild -->
 

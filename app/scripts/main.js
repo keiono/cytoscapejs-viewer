@@ -10,8 +10,8 @@
 $(function () {
     'use strict';
 
-    var NETWORK_FILE = 'data/gal1.cyjs';
-    var VISUAL_STYLE_FILE = 'data/galvs.json';
+    var NETWORK_FILE = 'data/brca2.cyjs';
+    var VISUAL_STYLE_FILE = 'data/brca1.json';
 
     var DEFAULT_VISUAL_STYLE = 'default';
 
@@ -35,6 +35,8 @@ $(function () {
             cy.load(networkData.elements);
             setVisualStyleCombobox(cy);
             setNetworkComboBox(cy);
+
+            renderD3();
         }
     };
 
@@ -69,7 +71,7 @@ $(function () {
             console.log(selectedVisualStyleName);
             cy.style().fromJson(visualStyles[selectedVisualStyleName].style).update();
         });
-    };
+    }
 
     var networkData = {};
     var vs = {};
@@ -82,4 +84,54 @@ $(function () {
             $('.network').cytoscape(options);
         });
     });
+
+    // For D3.js
+    function renderD3() {
+        var width = 300,
+            height = 300;
+
+        var color = d3.scale.category20();
+
+        var force = d3.layout.force()
+            .charge(-20)
+            .linkDistance(20)
+            .size([width, height]);
+
+        var svg = d3.select(".d3view").append("svg");
+
+        d3.json("data/data.json", function(error, graph) {
+            force
+                .nodes(graph.nodes)
+                .links(graph.links)
+                .start();
+
+            var link = svg.selectAll(".link")
+                .data(graph.links)
+                .enter().append("line")
+                .attr("class", "link")
+                .style("stroke-width", 2)
+                .style("stroke", "#656565");
+
+            var node = svg.selectAll(".node")
+                .data(graph.nodes)
+                .enter().append("circle")
+                .attr("class", "node")
+                .attr("r", 4)
+                .style("fill", "#FF5E19")
+                .call(force.drag);
+
+            node.append("title")
+                .text(function(d) { return d.name; });
+
+            force.on("tick", function() {
+                link.attr("x1", function(d) { return d.source.x; })
+                    .attr("y1", function(d) { return d.source.y; })
+                    .attr("x2", function(d) { return d.target.x; })
+                    .attr("y2", function(d) { return d.target.y; });
+
+                node.attr("cx", function(d) { return d.x; })
+                    .attr("cy", function(d) { return d.y; });
+            });
+        });
+    }
 });
