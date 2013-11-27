@@ -10,7 +10,7 @@ html, body {
   padding: 0;
   font-weight: 400;
   font-size: 12px;
-  overflow: hidden;
+//  overflow: hidden;
 }
 
 .container {
@@ -42,11 +42,32 @@ html, body {
 }
 
 .d3view {
+  height: 2000px;
   margin: 0;
   padding: 2em;
   z-index: 0;
   background-color: #c9c9c9;
 }
+
+
+
+.node circle {
+  cursor: pointer;
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font-size: 11px;
+}
+
+path.link {
+  fill: none;
+  stroke: #e11;
+  stroke-width: .5px;
+}
+
 
 
 /* Everything but the jumbotron gets side spacing for mobile first views */

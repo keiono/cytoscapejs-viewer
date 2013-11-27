@@ -10,8 +10,8 @@
 $(function () {
     'use strict';
 
-    var NETWORK_FILE = 'data/brca2.cyjs';
-    var VISUAL_STYLE_FILE = 'data/brca1.json';
+    var NETWORK_FILE = 'data/sample1.cyjs';
+    var VISUAL_STYLE_FILE = 'data/sample1vs.json';
 
     var DEFAULT_VISUAL_STYLE = 'default';
 
@@ -36,10 +36,36 @@ $(function () {
             setVisualStyleCombobox(cy);
             setNetworkComboBox(cy);
 
-            renderD3();
+            updateNetworkData(cy);
         }
     };
 
+    function updateNetworkData(cy) {
+        var dropZone = $('.network');
+        dropZone.on('dragenter', function (e)
+        {
+            e.stopPropagation();
+            e.preventDefault();
+        });
+
+        dropZone.on('dragover', function (e)
+        {
+            e.stopPropagation();
+            e.preventDefault();
+        });
+        dropZone.on('drop', function (e)
+        {
+            e.preventDefault();
+            var files = e.originalEvent.dataTransfer.files;
+            var networkFile = files[0];
+            var reader = new FileReader();
+            reader.onload = function(evt) {
+              var network = JSON.parse(evt.target.result);
+              cy.load(network.elements);
+            };
+            reader.readAsText(networkFile);
+        });
+    }
 
     function setNetworkComboBox(cy) {
         var network;
@@ -109,7 +135,7 @@ $(function () {
                 .data(graph.links)
                 .enter().append("line")
                 .attr("class", "link")
-                .style("stroke-width", 2)
+                .style("stroke-width", 1)
                 .style("stroke", "#656565");
 
             var node = svg.selectAll(".node")
@@ -134,4 +160,5 @@ $(function () {
             });
         });
     }
+
 });
