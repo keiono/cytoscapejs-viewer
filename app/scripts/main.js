@@ -11,7 +11,7 @@ $(function () {
     'use strict';
 
     var NETWORK_FILE = 'data/sample1.cyjs';
-    var VISUAL_STYLE_FILE = 'data/sample1vs.json';
+    var VISUAL_STYLE_FILE = 'data/galVS.json';
 
     var DEFAULT_VISUAL_STYLE = 'default';
 
